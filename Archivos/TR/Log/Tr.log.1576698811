@@ -1,0 +1,13 @@
+18/12/2019 16:53:44.250 I Inicio
+18/12/2019 16:53:44.250 I Validar Formato Archivo --> TR_201803_201803.csv
+18/12/2019 16:53:44.251 I Validar Formato Archivo --> OK (201803 - 201803)
+18/12/2019 16:55:05.542 I Eliminar Registros --> OK (5228)
+18/12/2019 16:55:05.564 I Insertar Carga --> OK
+18/12/2019 16:55:05.566 I Insertar Registros - Inicio
+18/12/2019 16:56:48.081 E Insertar Registros --> ERROR en línea 2 (ERROR: syntax error at or near "'null'"
+  Position: 1017)
+18/12/2019 16:56:48.083 I Insertar Registros --> OK (0) -  ERROR (1)
+18/12/2019 16:56:48.090 I Insertar Carga --> OK
+18/12/2019 16:56:48.101 I Insertar Carga Bitacora --> OK
+18/12/2019 16:56:48.104 I Insertar Registros - Fin
+18/12/2019 16:56:48.104 I Fin

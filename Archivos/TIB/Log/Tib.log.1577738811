@@ -1,0 +1,13 @@
+30/12/2019 17:48:12.811 I Inicio
+30/12/2019 17:48:12.811 I Validar Formato Archivo --> TIB_2016_2016.csv
+30/12/2019 17:48:12.812 I Validar Formato Archivo --> OK (2016 - 2016)
+30/12/2019 17:48:12.954 I Eliminar Registros --> OK (1)
+30/12/2019 17:48:12.962 I Insertar Carga --> OK
+30/12/2019 17:48:12.962 I Insertar Registros - Inicio
+30/12/2019 17:48:29.521 E Insertar Registros --> ERROR en línea 1 (ERROR: duplicate key value violates unique constraint "ti_ptransporte_r_pkey"
+  Detail: Key (id_data_ti, id_ptransporte)=(1, 1) already exists.)
+30/12/2019 17:48:29.525 I Insertar Registros --> OK (0) -  ERROR (1)
+30/12/2019 17:48:29.540 I Insertar Carga --> OK
+30/12/2019 17:48:29.592 I Insertar Carga Bitacora --> OK
+30/12/2019 17:48:29.595 I Insertar Registros - Fin
+30/12/2019 17:48:29.595 I Fin

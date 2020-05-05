@@ -1,0 +1,7 @@
+18/12/2019 15:53:55.843 I Inicio
+18/12/2019 15:53:55.843 I Validar Formato Archivo --> TR_201803_201803.csv
+18/12/2019 15:53:55.844 I Validar Formato Archivo --> OK (201803 - 201803)
+18/12/2019 15:54:11.885 E Eliminar Registros --> ERROR (ERROR: update or delete on table "data_tr_base" violates foreign key constraint "tr_gastos_r_id_data_tr_fkey" on table "tr_gastos_r"
+  Detail: Key (id)=(323541) is still referenced from table "tr_gastos_r".)
+18/12/2019 15:54:11.900 E Insertar Carga --> ERROR (ERROR: current transaction is aborted, commands ignored until end of transaction block)
+18/12/2019 15:54:11.901 I Insertar Registros - Inicio

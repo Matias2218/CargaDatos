@@ -1,0 +1,12 @@
+23/12/2019 12:40:07.878 I Inicio
+23/12/2019 12:40:07.878 I Validar Formato Archivo --> TIE_2020_2020.csv
+23/12/2019 12:40:07.878 I Validar Formato Archivo --> OK (2020 - 2020)
+23/12/2019 12:40:07.962 I Eliminar Registros --> OK (0)
+23/12/2019 12:40:07.972 I Insertar Carga --> OK
+23/12/2019 12:40:07.972 I Insertar Registros - Inicio
+23/12/2019 12:40:07.998 I Insertar Registros --> OK en línea 1
+23/12/2019 12:40:07.999 I Insertar Registros --> OK (1) -  ERROR (0)
+23/12/2019 12:40:08.006 I Insertar Carga --> OK
+23/12/2019 12:40:08.011 I Insertar Carga Bitacora --> OK
+23/12/2019 12:40:08.034 I Insertar Registros - Fin
+23/12/2019 12:40:08.037 I Fin

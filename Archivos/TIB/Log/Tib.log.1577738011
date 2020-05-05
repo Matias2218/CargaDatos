@@ -1,0 +1,27 @@
+30/12/2019 17:33:37.242 I Inicio
+30/12/2019 17:33:37.242 I Validar Formato Archivo --> TIB_2016_2016.csv
+30/12/2019 17:33:37.243 I Validar Formato Archivo --> OK (2016 - 2016)
+30/12/2019 17:33:37.426 I Eliminar Registros --> OK (1)
+30/12/2019 17:33:37.489 I Insertar Carga --> OK
+30/12/2019 17:33:37.490 I Insertar Registros - Inicio
+30/12/2019 17:33:37.718 E Insertar Registros --> ERROR en línea 1 (ERROR: column "id_data_tr" of relation "ti_actividad_r" does not exist
+  Position: 33)
+30/12/2019 17:33:37.719 I Insertar Registros --> OK (0) -  ERROR (1)
+30/12/2019 17:33:37.726 I Insertar Carga --> OK
+30/12/2019 17:33:37.766 I Insertar Carga Bitacora --> OK
+30/12/2019 17:33:37.807 I Insertar Registros - Fin
+30/12/2019 17:33:37.807 I Fin
+30/12/2019 17:34:46.720 I Inicio
+30/12/2019 17:34:46.721 I Validar Formato Archivo --> TIB_2016_2016.csv
+30/12/2019 17:34:46.721 I Validar Formato Archivo --> OK (2016 - 2016)
+30/12/2019 17:34:47.103 I Eliminar Registros --> OK (1)
+30/12/2019 17:34:47.251 E Insertar Carga --> ERROR (ERROR: duplicate key value violates unique constraint "carga_id_key"
+  Detail: Key (id)=(1577738011) already exists.)
+30/12/2019 17:34:47.255 I Insertar Registros - Inicio
+30/12/2019 17:34:47.277 E Insertar Registros --> ERROR en línea 1 (ERROR: current transaction is aborted, commands ignored until end of transaction block)
+30/12/2019 17:34:47.278 I Insertar Registros --> OK (0) -  ERROR (1)
+30/12/2019 17:34:47.356 E Insertar Carga --> ERROR (ERROR: duplicate key value violates unique constraint "carga_id_key"
+  Detail: Key (id)=(1577738011) already exists.)
+30/12/2019 17:34:47.435 E Insertar Carga Bitacora --> ERROR (ERROR: current transaction is aborted, commands ignored until end of transaction block)
+30/12/2019 17:34:47.441 I Insertar Registros - Fin
+30/12/2019 17:34:47.442 I Fin

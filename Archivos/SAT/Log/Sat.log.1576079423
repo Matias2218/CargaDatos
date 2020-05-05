@@ -1,0 +1,21 @@
+11/12/2019 12:50:32.561 I Inicio
+11/12/2019 12:50:32.562 I Validar Formato Archivo --> SAT_2020_2020.csv
+11/12/2019 12:50:32.564 I Validar Formato Archivo --> OK (2020 - 2020)
+11/12/2019 12:50:32.797 I Eliminar Registros --> OK (10)
+11/12/2019 12:50:32.808 I Insertar Carga --> OK
+11/12/2019 12:50:32.810 I Insertar Registros - Inicio
+11/12/2019 12:50:32.900 I Insertar Registros --> OK en línea 1
+11/12/2019 12:50:32.912 I Insertar Registros --> OK en línea 2
+11/12/2019 12:50:32.926 I Insertar Registros --> OK en línea 3
+11/12/2019 12:50:32.939 I Insertar Registros --> OK en línea 4
+11/12/2019 12:50:32.959 I Insertar Registros --> OK en línea 5
+11/12/2019 12:50:32.975 I Insertar Registros --> OK en línea 6
+11/12/2019 12:50:32.989 I Insertar Registros --> OK en línea 7
+11/12/2019 12:50:33.002 I Insertar Registros --> OK en línea 8
+11/12/2019 12:50:33.014 I Insertar Registros --> OK en línea 9
+11/12/2019 12:50:33.027 I Insertar Registros --> OK en línea 10
+11/12/2019 12:50:33.028 I Insertar Registros --> OK (10) -  ERROR (0)
+11/12/2019 12:50:33.038 I Insertar Carga --> OK
+11/12/2019 12:50:33.043 I Insertar Carga Bitacora --> OK
+11/12/2019 12:50:33.053 I Insertar Registros - Fin
+11/12/2019 12:50:33.053 I Fin

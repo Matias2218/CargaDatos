@@ -1,0 +1,1780 @@
+AÑO;MES;ID PASO;PASO;ID PAÍS;PAÍS;SALIDAS
+2012;1;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);1918
+2012;1;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);1427
+2012;1;120200;Paso Apacheta de Irpa o Cancosa;1302;Bolivia (Estado Plurinacional de);16
+2012;1;210100;Aeropuerto Andrés Sabella;1301;Argentina;557
+2012;1;220100;Paso Jama;1301;Argentina;3716
+2012;1;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;232
+2012;1;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);21
+2012;1;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);828
+2012;1;220400;Paso Sico;1301;Argentina;130
+2012;1;230001;Puerto de Antofagasta;9800;Otros países del Mundo;18
+2012;1;230002;Puerto Angamos;9800;Otros países del Mundo;46
+2012;1;230004;Puerto Mejillones;9800;Otros países del Mundo;78
+2012;1;320100;Paso San Francisco;1301;Argentina;279
+2012;1;320200;Paso Pircas Negras;1301;Argentina;23
+2012;1;330002;Puerto Chañaral;1301;Argentina;19
+2012;1;410010;Aeródromo La Florida;1301;Argentina;63
+2012;1;420100;Paso Agua Negra;1301;Argentina;625
+2012;1;510100;Aeropuerto Mataveri;1301;Argentina;136
+2012;1;519919;Aeródromo Viña del Mar;1301;Argentina;7
+2012;1;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;31126
+2012;1;530001;Puerto de Valparaíso;9800;Otros países del Mundo;2
+2012;1;530003;Puerto Quintero;9800;Otros países del Mundo;72
+2012;1;720100;Paso Pehuenche;1301;Argentina;851
+2012;1;820003;Paso Pichachén;1301;Argentina;292
+2012;1;830002;Puerto San Vicente;9800;Otros países del Mundo;26
+2012;1;830004;Puerto Lirquén;9800;Otros países del Mundo;27
+2012;1;920100;Paso Mamuil Malal;1301;Argentina;8131
+2012;1;920200;Paso Pino Hachado (Liucura);1301;Argentina;10600
+2012;1;920300;Paso Icalma;1301;Argentina;2166
+2012;1;1010100;Aeropuerto El Tepual;1301;Argentina;5
+2012;1;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;27283
+2012;1;1020200;Paso Futaleufú;1301;Argentina;4246
+2012;1;1020300;Paso Río Encuentro;1301;Argentina;842
+2012;1;1020400;Paso Pérez Rosales;1301;Argentina;470
+2012;1;1020500;Paso Río Manso;1301;Argentina;156
+2012;1;1020600;Paso Río Puelo (Fluvial);1301;Argentina;80
+2012;1;1029901;Paso Vuriloche (Buriloche o Tronador);1301;Argentina;1
+2012;1;1110001;Aeródromo Balmaceda;1301;Argentina;1
+2012;1;1120100;Paso Río Jeinemeni;1301;Argentina;8556
+2012;1;1120200;Paso Huemules;1301;Argentina;1665
+2012;1;1120300;Paso Coyhaique;1301;Argentina;2634
+2012;1;1120400;Paso Triana;1301;Argentina;101
+2012;1;1120500;Paso Pampa Alta (Puesto Viejo);1301;Argentina;327
+2012;1;1120700;Paso Río Mosco;1301;Argentina;26
+2012;1;1120800;Paso Río Mayer, Ribera Norte;1301;Argentina;24
+2012;1;1120900;Paso Río Frías-Appeleg;1301;Argentina;62
+2012;1;1121000;Paso Ingeniero Ibáñez-Pallavicini;1301;Argentina;740
+2012;1;1121100;Paso Las Pampas-Lago Verde;1301;Argentina;51
+2012;1;1129901;Hito IV-O-B - Paso Dos Lagunas;1301;Argentina;17
+2012;1;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;126
+2012;1;1220100;Paso Integración Austral;1301;Argentina;11645
+2012;1;1220200;Paso Dorotea;1301;Argentina;14377
+2012;1;1220300;Paso Río Don Guillermo;1301;Argentina;2365
+2012;1;1220400;Paso San Sebastián;1301;Argentina;3148
+2012;1;1220500;Paso Laurita-Casas Viejas;1301;Argentina;1923
+2012;1;1229904;Paso Río Bellavista (Ex Radman);1301;Argentina;75
+2012;1;1230003;Puerto Navarino;1301;Argentina;579
+2012;1;1230004;Puerto Punta Arenas;1301;Argentina;292
+2012;1;1230005;Puerto Williams;1301;Argentina;687
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;1583
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;18077
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1103;México;7000
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;3
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;175
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;29
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;89
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;20
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;28
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;5321
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;18952
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);18
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;23636
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;4058
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;1769
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1309;Guyana Francesa;1
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1310;Islas Malvinas (Falkland);4
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;513
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;16212
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1313;Suriname;3
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;5644
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);739
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;6
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;6
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;1610
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;10
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;2
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;310
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;31
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;34
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;4222
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1420;Saint Kitts y Nevis;4
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;7
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;2
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;4
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;21
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;8
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;3
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;40
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;291
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;97
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;10
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;1
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;1
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;406
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;16
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;21
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;2862
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;8
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;40
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;108
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;5
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;1
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2407;España;5481
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;56
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;179
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;5
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;2999;Otros países de Europa;21
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;3101;China;44
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);9
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);28
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;13
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;2
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;2
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;8
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;10
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;31
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;1
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;3304;India;37
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;3499;Otros países de Asia;4
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;1125
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;564
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;3599;Otros países de Oceanía;2
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;8
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;26
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;1
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;4199;Otros países de Oriente Medio;4
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;7
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;1
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;21
+2012;1;1310100;Aeropuerto Arturo Merino Benítez;5999;Otros países de África;12
+2012;1;1420100;Paso Huahum;1301;Argentina;2834
+2012;1;1420200;Paso Carirriñe;1301;Argentina;55
+2012;1;1510100;Aeropuerto Chacalluta;1312;Perú;1100
+2012;1;1520100;Paso Concordia;1312;Perú;121243
+2012;1;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);3207
+2012;1;1520300;Paso Concordia (Ferroviario);1312;Perú;1105
+2012;1;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;64
+2012;1;1530001;Puerto de Arica;9800;Otros países del Mundo;1
+2012;2;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);2326
+2012;2;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);3835
+2012;2;120200;Paso Apacheta de Irpa o Cancosa;1302;Bolivia (Estado Plurinacional de);43
+2012;2;130001;Puerto de Iquique;9800;Otros países del Mundo;3
+2012;2;130002;Caleta Patillos;9800;Otros países del Mundo;29
+2012;2;210100;Aeropuerto Andrés Sabella;1301;Argentina;842
+2012;2;220100;Paso Jama;1301;Argentina;3296
+2012;2;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;341
+2012;2;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);8
+2012;2;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);1609
+2012;2;220400;Paso Sico;1301;Argentina;53
+2012;2;230002;Puerto Angamos;9800;Otros países del Mundo;20
+2012;2;230004;Puerto Mejillones;9800;Otros países del Mundo;86
+2012;2;320100;Paso San Francisco;1301;Argentina;201
+2012;2;320200;Paso Pircas Negras;1301;Argentina;20
+2012;2;410010;Aeródromo La Florida;1301;Argentina;32
+2012;2;420100;Paso Agua Negra;1301;Argentina;1065
+2012;2;510100;Aeropuerto Mataveri;1301;Argentina;494
+2012;2;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;40527
+2012;2;530001;Puerto de Valparaíso;9800;Otros países del Mundo;14
+2012;2;530002;Puerto de San Antonio;9800;Otros países del Mundo;52
+2012;2;530003;Puerto Quintero;9800;Otros países del Mundo;176
+2012;2;530005;Puerto de Hanga Roa;1301;Argentina;1
+2012;2;810001;Aeródromo Carriel Sur;1301;Argentina;1
+2012;2;820003;Paso Pichachén;1301;Argentina;540
+2012;2;830001;Puerto de Talcahuano;9800;Otros países del Mundo;5
+2012;2;830004;Puerto Lirquén;9800;Otros países del Mundo;27
+2012;2;910017;Aeródromo Maquehue;1301;Argentina;3
+2012;2;920100;Paso Mamuil Malal;1301;Argentina;18200
+2012;2;920200;Paso Pino Hachado (Liucura);1301;Argentina;12702
+2012;2;920300;Paso Icalma;1301;Argentina;4113
+2012;2;1010100;Aeropuerto El Tepual;1301;Argentina;10
+2012;2;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;41999
+2012;2;1020200;Paso Futaleufú;1301;Argentina;7372
+2012;2;1020300;Paso Río Encuentro;1301;Argentina;320
+2012;2;1020400;Paso Pérez Rosales;1301;Argentina;574
+2012;2;1020500;Paso Río Manso;1301;Argentina;169
+2012;2;1020600;Paso Río Puelo (Fluvial);1301;Argentina;163
+2012;2;1029901;Paso Vuriloche (Buriloche o Tronador);1301;Argentina;7
+2012;2;1120100;Paso Río Jeinemeni;1301;Argentina;7507
+2012;2;1120200;Paso Huemules;1301;Argentina;1459
+2012;2;1120300;Paso Coyhaique;1301;Argentina;4064
+2012;2;1120400;Paso Triana;1301;Argentina;200
+2012;2;1120500;Paso Pampa Alta (Puesto Viejo);1301;Argentina;327
+2012;2;1120600;Paso Roballos;1301;Argentina;161
+2012;2;1120700;Paso Río Mosco;1301;Argentina;15
+2012;2;1120800;Paso Río Mayer, Ribera Norte;1301;Argentina;17
+2012;2;1120900;Paso Río Frías-Appeleg;1301;Argentina;97
+2012;2;1121000;Paso Ingeniero Ibáñez-Pallavicini;1301;Argentina;528
+2012;2;1121100;Paso Las Pampas-Lago Verde;1301;Argentina;60
+2012;2;1129901;Hito IV-O-B - Paso Dos Lagunas;1301;Argentina;44
+2012;2;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;96
+2012;2;1220100;Paso Integración Austral;1301;Argentina;12349
+2012;2;1220200;Paso Dorotea;1301;Argentina;15554
+2012;2;1220300;Paso Río Don Guillermo;1301;Argentina;3326
+2012;2;1220400;Paso San Sebastián;1301;Argentina;3746
+2012;2;1220500;Paso Laurita-Casas Viejas;1301;Argentina;1963
+2012;2;1229904;Paso Río Bellavista (Ex Radman);1301;Argentina;165
+2012;2;1230001;Puerto Cabo Negro;1301;Argentina;10
+2012;2;1230003;Puerto Navarino;1301;Argentina;449
+2012;2;1230004;Puerto Punta Arenas;1301;Argentina;455
+2012;2;1230005;Puerto Williams;1301;Argentina;631
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;1334
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;18776
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1103;México;8426
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;2
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;158
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;29
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;57
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;26
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;14
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;6727
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;25487
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);12
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;29453
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;6276
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;2433
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1309;Guyana Francesa;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1310;Islas Malvinas (Falkland);13
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;715
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;17086
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1313;Suriname;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;7985
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);1016
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;2
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;4
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;3
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;2537
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;2
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;258
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;55
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;32
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;4766
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1420;Saint Kitts y Nevis;4
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;3
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;4
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;20
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;9
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;6
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;66
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;160
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;145
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;17
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2209;Hungría;2
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2217;Rumania;2
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;468
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;10
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;26
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;2683
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2306;Luxemburgo;2
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;6
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;26
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;70
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;4
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2403;Bosnia y Herzegovina;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2407;España;5522
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;54
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;243
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;7
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;2999;Otros países de Europa;16
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3101;China;78
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);8
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);19
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;21
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;4
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;4
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;29
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;3
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3304;India;45
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3308;Pakistán;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3499;Otros países de Asia;7
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;1529
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;515
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;3599;Otros países de Oceanía;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;17
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;17
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;2
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;1
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;5221;Kenya;3
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;39
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;5999;Otros países de África;13
+2012;2;1310100;Aeropuerto Arturo Merino Benítez;9800;Otros países del Mundo;1
+2012;2;1420100;Paso Huahum;1301;Argentina;985
+2012;2;1420200;Paso Carirriñe;1301;Argentina;759
+2012;2;1510100;Aeropuerto Chacalluta;1312;Perú;1482
+2012;2;1520100;Paso Concordia;1312;Perú;136884
+2012;2;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);5158
+2012;2;1520300;Paso Concordia (Ferroviario);1312;Perú;974
+2012;2;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;150
+2012;3;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);1231
+2012;3;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);735
+2012;3;120200;Paso Apacheta de Irpa o Cancosa;1302;Bolivia (Estado Plurinacional de);16
+2012;3;210100;Aeropuerto Andrés Sabella;1301;Argentina;400
+2012;3;220100;Paso Jama;1301;Argentina;695
+2012;3;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;172
+2012;3;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);19
+2012;3;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);380
+2012;3;230004;Puerto Mejillones;9800;Otros países del Mundo;38
+2012;3;320100;Paso San Francisco;1301;Argentina;43
+2012;3;330002;Puerto Chañaral;1301;Argentina;45
+2012;3;410010;Aeródromo La Florida;1301;Argentina;54
+2012;3;420100;Paso Agua Negra;1301;Argentina;447
+2012;3;430001;Puerto de Coquimbo;9800;Otros países del Mundo;71
+2012;3;510100;Aeropuerto Mataveri;1301;Argentina;379
+2012;3;519919;Aeródromo Viña del Mar;1301;Argentina;8
+2012;3;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;25238
+2012;3;530001;Puerto de Valparaíso;9800;Otros países del Mundo;5
+2012;3;530002;Puerto de San Antonio;9800;Otros países del Mundo;56
+2012;3;530003;Puerto Quintero;9800;Otros países del Mundo;82
+2012;3;530005;Puerto de Hanga Roa;1301;Argentina;3
+2012;3;810001;Aeródromo Carriel Sur;1301;Argentina;1
+2012;3;820001;Paso Copahue;1301;Argentina;24
+2012;3;820003;Paso Pichachén;1301;Argentina;99
+2012;3;830003;Puerto Coronel;9800;Otros países del Mundo;20
+2012;3;830004;Puerto Lirquén;9800;Otros países del Mundo;30
+2012;3;920100;Paso Mamuil Malal;1301;Argentina;4023
+2012;3;920200;Paso Pino Hachado (Liucura);1301;Argentina;6420
+2012;3;920300;Paso Icalma;1301;Argentina;908
+2012;3;1010100;Aeropuerto El Tepual;1301;Argentina;3
+2012;3;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;14811
+2012;3;1020200;Paso Futaleufú;1301;Argentina;3437
+2012;3;1020300;Paso Río Encuentro;1301;Argentina;859
+2012;3;1020400;Paso Pérez Rosales;1301;Argentina;277
+2012;3;1020500;Paso Río Manso;1301;Argentina;91
+2012;3;1020600;Paso Río Puelo (Fluvial);1301;Argentina;26
+2012;3;1120100;Paso Río Jeinemeni;1301;Argentina;5090
+2012;3;1120200;Paso Huemules;1301;Argentina;1118
+2012;3;1120300;Paso Coyhaique;1301;Argentina;1471
+2012;3;1120400;Paso Triana;1301;Argentina;121
+2012;3;1120500;Paso Pampa Alta (Puesto Viejo);1301;Argentina;98
+2012;3;1120600;Paso Roballos;1301;Argentina;91
+2012;3;1120700;Paso Río Mosco;1301;Argentina;18
+2012;3;1120800;Paso Río Mayer, Ribera Norte;1301;Argentina;30
+2012;3;1120900;Paso Río Frías-Appeleg;1301;Argentina;36
+2012;3;1121000;Paso Ingeniero Ibáñez-Pallavicini;1301;Argentina;559
+2012;3;1121100;Paso Las Pampas-Lago Verde;1301;Argentina;57
+2012;3;1129901;Hito IV-O-B - Paso Dos Lagunas;1301;Argentina;5
+2012;3;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;40
+2012;3;1220100;Paso Integración Austral;1301;Argentina;5633
+2012;3;1220200;Paso Dorotea;1301;Argentina;13071
+2012;3;1220300;Paso Río Don Guillermo;1301;Argentina;1059
+2012;3;1220400;Paso San Sebastián;1301;Argentina;1862
+2012;3;1220500;Paso Laurita-Casas Viejas;1301;Argentina;1567
+2012;3;1229904;Paso Río Bellavista (Ex Radman);1301;Argentina;43
+2012;3;1230003;Puerto Navarino;1301;Argentina;534
+2012;3;1230004;Puerto Punta Arenas;1301;Argentina;94
+2012;3;1230005;Puerto Williams;1301;Argentina;130
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;1521
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;14601
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1103;México;3032
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;4
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;109
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;23
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;46
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;10
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;10
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;4347
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;24295
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);39
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;15163
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;4447
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;1844
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1310;Islas Malvinas (Falkland);7
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;319
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;13656
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1313;Suriname;19
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;4867
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);924
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;5
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;2
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;467
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1409;Curaçao;2
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;3
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;2
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;19
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;30
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;21
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;1466
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;2
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;1
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;18
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;6
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;2
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;50
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;168
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;114
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;9
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2209;Hungría;2
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;6
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;2
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;4
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;424
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;12
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;17
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;2931
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2306;Luxemburgo;2
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;3
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;30
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;77
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;3
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2403;Bosnia y Herzegovina;1
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;5
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2407;España;4726
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;13
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;27
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;148
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;6
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;2999;Otros países de Europa;15
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3101;China;102
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);9
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);9
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;30
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;2
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;1
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;3
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;12
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;15
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;84
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3304;India;39
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3305;Irán (República Islámica del);3
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3308;Pakistán;2
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3499;Otros países de Asia;15
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;1339
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;523
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;3599;Otros países de Oceanía;2
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;7
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;10
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;2
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;1
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;4199;Otros países de Oriente Medio;6
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;3
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;3
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;13
+2012;3;1310100;Aeropuerto Arturo Merino Benítez;5999;Otros países de África;8
+2012;3;1420100;Paso Huahum;1301;Argentina;377
+2012;3;1420200;Paso Carirriñe;1301;Argentina;33
+2012;3;1510100;Aeropuerto Chacalluta;1312;Perú;745
+2012;3;1520100;Paso Concordia;1312;Perú;92929
+2012;3;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);1474
+2012;3;1520300;Paso Concordia (Ferroviario);1312;Perú;216
+2012;3;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;82
+2012;3;1530001;Puerto de Arica;9800;Otros países del Mundo;25
+2012;4;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);1265
+2012;4;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);793
+2012;4;120200;Paso Apacheta de Irpa o Cancosa;1302;Bolivia (Estado Plurinacional de);10
+2012;4;210100;Aeropuerto Andrés Sabella;1301;Argentina;444
+2012;4;220100;Paso Jama;1301;Argentina;987
+2012;4;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;120
+2012;4;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);4
+2012;4;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);425
+2012;4;230002;Puerto Angamos;9800;Otros países del Mundo;61
+2012;4;230004;Puerto Mejillones;9800;Otros países del Mundo;46
+2012;4;230005;Puerto Tocopilla;9800;Otros países del Mundo;27
+2012;4;320100;Paso San Francisco;1301;Argentina;71
+2012;4;320200;Paso Pircas Negras;1301;Argentina;10
+2012;4;330002;Puerto Chañaral;1301;Argentina;44
+2012;4;410010;Aeródromo La Florida;1301;Argentina;8
+2012;4;420100;Paso Agua Negra;1301;Argentina;285
+2012;4;510100;Aeropuerto Mataveri;1301;Argentina;360
+2012;4;519919;Aeródromo Viña del Mar;1301;Argentina;18
+2012;4;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;29203
+2012;4;530001;Puerto de Valparaíso;9800;Otros países del Mundo;75
+2012;4;530002;Puerto de San Antonio;9800;Otros países del Mundo;26
+2012;4;530003;Puerto Quintero;9800;Otros países del Mundo;152
+2012;4;820001;Paso Copahue;1301;Argentina;6
+2012;4;820003;Paso Pichachén;1301;Argentina;20
+2012;4;830001;Puerto de Talcahuano;9800;Otros países del Mundo;58
+2012;4;910020;Aeródromo Pucón;1301;Argentina;6
+2012;4;920100;Paso Mamuil Malal;1301;Argentina;4650
+2012;4;920200;Paso Pino Hachado (Liucura);1301;Argentina;7575
+2012;4;920300;Paso Icalma;1301;Argentina;1193
+2012;4;1010100;Aeropuerto El Tepual;1301;Argentina;3
+2012;4;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;13931
+2012;4;1020200;Paso Futaleufú;1301;Argentina;2936
+2012;4;1020300;Paso Río Encuentro;1301;Argentina;822
+2012;4;1020400;Paso Pérez Rosales;1301;Argentina;264
+2012;4;1020500;Paso Río Manso;1301;Argentina;82
+2012;4;1020600;Paso Río Puelo (Fluvial);1301;Argentina;17
+2012;4;1120100;Paso Río Jeinemeni;1301;Argentina;3813
+2012;4;1120200;Paso Huemules;1301;Argentina;837
+2012;4;1120300;Paso Coyhaique;1301;Argentina;1288
+2012;4;1120400;Paso Triana;1301;Argentina;69
+2012;4;1120500;Paso Pampa Alta (Puesto Viejo);1301;Argentina;95
+2012;4;1120600;Paso Roballos;1301;Argentina;68
+2012;4;1120700;Paso Río Mosco;1301;Argentina;10
+2012;4;1120800;Paso Río Mayer, Ribera Norte;1301;Argentina;9
+2012;4;1120900;Paso Río Frías-Appeleg;1301;Argentina;22
+2012;4;1121000;Paso Ingeniero Ibáñez-Pallavicini;1301;Argentina;406
+2012;4;1121100;Paso Las Pampas-Lago Verde;1301;Argentina;38
+2012;4;1129901;Hito IV-O-B - Paso Dos Lagunas;1301;Argentina;7
+2012;4;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;47
+2012;4;1220100;Paso Integración Austral;1301;Argentina;5703
+2012;4;1220200;Paso Dorotea;1301;Argentina;11912
+2012;4;1220300;Paso Río Don Guillermo;1301;Argentina;654
+2012;4;1220400;Paso San Sebastián;1301;Argentina;2064
+2012;4;1220500;Paso Laurita-Casas Viejas;1301;Argentina;2180
+2012;4;1229904;Paso Río Bellavista (Ex Radman);1301;Argentina;14
+2012;4;1230001;Puerto Cabo Negro;1301;Argentina;10
+2012;4;1230003;Puerto Navarino;1301;Argentina;261
+2012;4;1230004;Puerto Punta Arenas;1301;Argentina;44
+2012;4;1230005;Puerto Williams;1301;Argentina;22
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;1236
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;15897
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1103;México;2962
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1199;Otros países de América del Norte;2
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;4
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;96
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;31
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;51
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;10
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;10
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;4381
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;24232
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);15
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;12948
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;4631
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;1497
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;432
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;13427
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;4339
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);701
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;3
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;3
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;3
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;468
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1409;Curaçao;2
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;2
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;1
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;18
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;48
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;17
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;1319
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1420;Saint Kitts y Nevis;1
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;2
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;2
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;11
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;3
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;1
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;34
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;168
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;87
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;6
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;3
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;3
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2217;Rumania;1
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;1
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;567
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;11
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;38
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;3329
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;4
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;39
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;55
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;4
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2403;Bosnia y Herzegovina;2
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;1
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2407;España;5825
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;7
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;29
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;163
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;15
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;2999;Otros países de Europa;15
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;3101;China;198
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);6
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);42
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;17
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;3
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;2
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;1
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;14
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;6
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;5
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;3304;India;21
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;3499;Otros países de Asia;7
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;1471
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;343
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;3599;Otros países de Oceanía;1
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;12
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;10
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;1
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;4199;Otros países de Oriente Medio;10
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;3
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;2
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;5221;Kenya;1
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;17
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;5999;Otros países de África;5
+2012;4;1310100;Aeropuerto Arturo Merino Benítez;9800;Otros países del Mundo;1
+2012;4;1420100;Paso Huahum;1301;Argentina;572
+2012;4;1420200;Paso Carirriñe;1301;Argentina;17
+2012;4;1510100;Aeropuerto Chacalluta;1312;Perú;875
+2012;4;1520100;Paso Concordia;1312;Perú;93595
+2012;4;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);1536
+2012;4;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;80
+2012;5;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);1314
+2012;5;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);1036
+2012;5;120200;Paso Apacheta de Irpa o Cancosa;1302;Bolivia (Estado Plurinacional de);26
+2012;5;210100;Aeropuerto Andrés Sabella;1301;Argentina;407
+2012;5;220100;Paso Jama;1301;Argentina;937
+2012;5;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;179
+2012;5;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);2
+2012;5;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);397
+2012;5;230002;Puerto Angamos;9800;Otros países del Mundo;23
+2012;5;230004;Puerto Mejillones;9800;Otros países del Mundo;44
+2012;5;320100;Paso San Francisco;1301;Argentina;39
+2012;5;410010;Aeródromo La Florida;1301;Argentina;35
+2012;5;510100;Aeropuerto Mataveri;1301;Argentina;345
+2012;5;519919;Aeródromo Viña del Mar;1301;Argentina;25
+2012;5;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;18784
+2012;5;530001;Puerto de Valparaíso;9800;Otros países del Mundo;15
+2012;5;530002;Puerto de San Antonio;9800;Otros países del Mundo;26
+2012;5;530003;Puerto Quintero;9800;Otros países del Mundo;108
+2012;5;530005;Puerto de Hanga Roa;1301;Argentina;314
+2012;5;820001;Paso Copahue;1301;Argentina;16
+2012;5;830002;Puerto San Vicente;9800;Otros países del Mundo;1
+2012;5;830004;Puerto Lirquén;9800;Otros países del Mundo;27
+2012;5;920100;Paso Mamuil Malal;1301;Argentina;3119
+2012;5;920200;Paso Pino Hachado (Liucura);1301;Argentina;5859
+2012;5;920300;Paso Icalma;1301;Argentina;623
+2012;5;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;10511
+2012;5;1020200;Paso Futaleufú;1301;Argentina;2756
+2012;5;1020300;Paso Río Encuentro;1301;Argentina;746
+2012;5;1020400;Paso Pérez Rosales;1301;Argentina;184
+2012;5;1020500;Paso Río Manso;1301;Argentina;87
+2012;5;1020600;Paso Río Puelo (Fluvial);1301;Argentina;18
+2012;5;1030009;Muelle Fiscal (Puerto Puerto Montt);1301;Argentina;31
+2012;5;1120100;Paso Río Jeinemeni;1301;Argentina;3935
+2012;5;1120200;Paso Huemules;1301;Argentina;897
+2012;5;1120300;Paso Coyhaique;1301;Argentina;846
+2012;5;1120400;Paso Triana;1301;Argentina;55
+2012;5;1120500;Paso Pampa Alta (Puesto Viejo);1301;Argentina;48
+2012;5;1120600;Paso Roballos;1301;Argentina;14
+2012;5;1120700;Paso Río Mosco;1301;Argentina;7
+2012;5;1120800;Paso Río Mayer, Ribera Norte;1301;Argentina;30
+2012;5;1120900;Paso Río Frías-Appeleg;1301;Argentina;18
+2012;5;1121000;Paso Ingeniero Ibáñez-Pallavicini;1301;Argentina;299
+2012;5;1121100;Paso Las Pampas-Lago Verde;1301;Argentina;3
+2012;5;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;63
+2012;5;1220100;Paso Integración Austral;1301;Argentina;4873
+2012;5;1220200;Paso Dorotea;1301;Argentina;9257
+2012;5;1220300;Paso Río Don Guillermo;1301;Argentina;387
+2012;5;1220400;Paso San Sebastián;1301;Argentina;1439
+2012;5;1220500;Paso Laurita-Casas Viejas;1301;Argentina;2161
+2012;5;1230001;Puerto Cabo Negro;1301;Argentina;12
+2012;5;1230005;Puerto Williams;1301;Argentina;50
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;1040
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;18497
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1103;México;3926
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1199;Otros países de América del Norte;1
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;4
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;92
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;13
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;37
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;21
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;26
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;4557
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;25222
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);32
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;12958
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;5359
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;1548
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1309;Guyana Francesa;2
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1310;Islas Malvinas (Falkland);4
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;408
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;14008
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;3969
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);653
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;4
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;15
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;576
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1409;Curaçao;4
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;1
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;12
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;75
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;13
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;1722
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1421;San Vicente y las Granadinas;1
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;1
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;6
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;3
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;26
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;7
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;10
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2104;Islandia;1
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;68
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;238
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;129
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;19
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2209;Hungría;4
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;9
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;4
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2217;Rumania;2
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;1
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;650
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;23
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;31
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;4719
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2306;Luxemburgo;3
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;4
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;38
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;76
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;9
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2403;Bosnia y Herzegovina;1
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;2
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2407;España;7822
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;17
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;37
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;341
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;10
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;2999;Otros países de Europa;31
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3101;China;105
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);7
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);16
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;20
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;1
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;4
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;2
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;1
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;3
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;13
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3304;India;13
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3305;Irán (República Islámica del);2
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3499;Otros países de Asia;2
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;1329
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;295
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;3599;Otros países de Oceanía;4
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;6
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;12
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;4
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;2
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;4199;Otros países de Oriente Medio;8
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;10
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;1
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;5221;Kenya;1
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;16
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;5999;Otros países de África;6
+2012;5;1310100;Aeropuerto Arturo Merino Benítez;9800;Otros países del Mundo;3
+2012;5;1420100;Paso Huahum;1301;Argentina;301
+2012;5;1420200;Paso Carirriñe;1301;Argentina;9
+2012;5;1510100;Aeropuerto Chacalluta;1312;Perú;977
+2012;5;1520100;Paso Concordia;1312;Perú;86089
+2012;5;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);1589
+2012;5;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;50
+2012;5;1530001;Puerto de Arica;9800;Otros países del Mundo;25
+2012;6;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);1385
+2012;6;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);1240
+2012;6;120200;Paso Apacheta de Irpa o Cancosa;1302;Bolivia (Estado Plurinacional de);13
+2012;6;130001;Puerto de Iquique;9800;Otros países del Mundo;27
+2012;6;210100;Aeropuerto Andrés Sabella;1301;Argentina;387
+2012;6;220100;Paso Jama;1301;Argentina;504
+2012;6;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;113
+2012;6;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);1
+2012;6;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);477
+2012;6;230002;Puerto Angamos;9800;Otros países del Mundo;65
+2012;6;320100;Paso San Francisco;1301;Argentina;32
+2012;6;330002;Puerto Chañaral;1301;Argentina;46
+2012;6;410010;Aeródromo La Florida;1301;Argentina;21
+2012;6;510100;Aeropuerto Mataveri;1301;Argentina;299
+2012;6;519919;Aeródromo Viña del Mar;1301;Argentina;17
+2012;6;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;9262
+2012;6;530001;Puerto de Valparaíso;9800;Otros países del Mundo;21
+2012;6;530002;Puerto de San Antonio;9800;Otros países del Mundo;27
+2012;6;530003;Puerto Quintero;9800;Otros países del Mundo;64
+2012;6;920100;Paso Mamuil Malal;1301;Argentina;2350
+2012;6;920200;Paso Pino Hachado (Liucura);1301;Argentina;5027
+2012;6;920300;Paso Icalma;1301;Argentina;479
+2012;6;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;6996
+2012;6;1020200;Paso Futaleufú;1301;Argentina;2429
+2012;6;1020300;Paso Río Encuentro;1301;Argentina;709
+2012;6;1020400;Paso Pérez Rosales;1301;Argentina;168
+2012;6;1020500;Paso Río Manso;1301;Argentina;54
+2012;6;1020600;Paso Río Puelo (Fluvial);1301;Argentina;5
+2012;6;1120100;Paso Río Jeinemeni;1301;Argentina;3243
+2012;6;1120200;Paso Huemules;1301;Argentina;648
+2012;6;1120300;Paso Coyhaique;1301;Argentina;502
+2012;6;1120400;Paso Triana;1301;Argentina;33
+2012;6;1120500;Paso Pampa Alta (Puesto Viejo);1301;Argentina;7
+2012;6;1120600;Paso Roballos;1301;Argentina;7
+2012;6;1120700;Paso Río Mosco;1301;Argentina;15
+2012;6;1120800;Paso Río Mayer, Ribera Norte;1301;Argentina;12
+2012;6;1120900;Paso Río Frías-Appeleg;1301;Argentina;2
+2012;6;1121000;Paso Ingeniero Ibáñez-Pallavicini;1301;Argentina;218
+2012;6;1121100;Paso Las Pampas-Lago Verde;1301;Argentina;18
+2012;6;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;82
+2012;6;1220100;Paso Integración Austral;1301;Argentina;3579
+2012;6;1220200;Paso Dorotea;1301;Argentina;8152
+2012;6;1220300;Paso Río Don Guillermo;1301;Argentina;117
+2012;6;1220400;Paso San Sebastián;1301;Argentina;1006
+2012;6;1220500;Paso Laurita-Casas Viejas;1301;Argentina;1409
+2012;6;1230004;Puerto Punta Arenas;1301;Argentina;3
+2012;6;1230005;Puerto Williams;1301;Argentina;5
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;1100
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;16030
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1103;México;3656
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;6
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;94
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;21
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;74
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;28
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;5
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;4283
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;25657
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);181
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;10953
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;4788
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;1531
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1309;Guyana Francesa;3
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;368
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;13884
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1313;Suriname;1
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;3235
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);1094
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1399;Otros países de América del Sur;1
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;3
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;6
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;3
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;710
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1409;Curaçao;1
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;3
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;2
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;25
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;105
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;7
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;1844
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1420;Saint Kitts y Nevis;1
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1421;San Vicente y las Granadinas;2
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;5
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;5
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;1
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;37
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;21
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;3
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2104;Islandia;1
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;54
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;275
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;139
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;23
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;1
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;3
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;3
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;732
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;26
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;44
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;4577
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;12
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;47
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;87
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;3
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;2
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2407;España;7208
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;35
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;29
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;310
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;12
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;2999;Otros países de Europa;24
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3101;China;97
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);7
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);10
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;16
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;3
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;2
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;4
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;1
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;15
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;6
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;1
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3304;India;14
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3305;Irán (República Islámica del);1
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3499;Otros países de Asia;6
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;1310
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;245
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;3599;Otros países de Oceanía;5
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;13
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;7
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;1
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;2
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;4199;Otros países de Oriente Medio;3
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;7
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;1
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;10
+2012;6;1310100;Aeropuerto Arturo Merino Benítez;5999;Otros países de África;9
+2012;6;1420100;Paso Huahum;1301;Argentina;247
+2012;6;1510100;Aeropuerto Chacalluta;1312;Perú;972
+2012;6;1520100;Paso Concordia;1312;Perú;95644
+2012;6;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);3584
+2012;6;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;162
+2012;7;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);1649
+2012;7;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);1472
+2012;7;120200;Paso Apacheta de Irpa o Cancosa;1302;Bolivia (Estado Plurinacional de);34
+2012;7;130002;Caleta Patillos;9800;Otros países del Mundo;23
+2012;7;210100;Aeropuerto Andrés Sabella;1301;Argentina;470
+2012;7;220100;Paso Jama;1301;Argentina;852
+2012;7;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;317
+2012;7;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);571
+2012;7;230004;Puerto Mejillones;9800;Otros países del Mundo;24
+2012;7;320100;Paso San Francisco;1301;Argentina;39
+2012;7;410010;Aeródromo La Florida;1301;Argentina;32
+2012;7;510100;Aeropuerto Mataveri;1301;Argentina;429
+2012;7;519919;Aeródromo Viña del Mar;1301;Argentina;7
+2012;7;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;21771
+2012;7;530001;Puerto de Valparaíso;9800;Otros países del Mundo;2
+2012;7;530002;Puerto de San Antonio;9800;Otros países del Mundo;56
+2012;7;530003;Puerto Quintero;9800;Otros países del Mundo;88
+2012;7;830002;Puerto San Vicente;9800;Otros países del Mundo;23
+2012;7;830004;Puerto Lirquén;9800;Otros países del Mundo;29
+2012;7;920100;Paso Mamuil Malal;1301;Argentina;4677
+2012;7;920200;Paso Pino Hachado (Liucura);1301;Argentina;4952
+2012;7;920300;Paso Icalma;1301;Argentina;476
+2012;7;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;13644
+2012;7;1020200;Paso Futaleufú;1301;Argentina;3086
+2012;7;1020300;Paso Río Encuentro;1301;Argentina;655
+2012;7;1020400;Paso Pérez Rosales;1301;Argentina;239
+2012;7;1020500;Paso Río Manso;1301;Argentina;48
+2012;7;1020600;Paso Río Puelo (Fluvial);1301;Argentina;4
+2012;7;1120100;Paso Río Jeinemeni;1301;Argentina;4238
+2012;7;1120200;Paso Huemules;1301;Argentina;1083
+2012;7;1120300;Paso Coyhaique;1301;Argentina;950
+2012;7;1120400;Paso Triana;1301;Argentina;40
+2012;7;1120500;Paso Pampa Alta (Puesto Viejo);1301;Argentina;24
+2012;7;1120600;Paso Roballos;1301;Argentina;14
+2012;7;1120700;Paso Río Mosco;1301;Argentina;3
+2012;7;1120900;Paso Río Frías-Appeleg;1301;Argentina;5
+2012;7;1121000;Paso Ingeniero Ibáñez-Pallavicini;1301;Argentina;371
+2012;7;1121100;Paso Las Pampas-Lago Verde;1301;Argentina;9
+2012;7;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;77
+2012;7;1220100;Paso Integración Austral;1301;Argentina;4595
+2012;7;1220200;Paso Dorotea;1301;Argentina;10697
+2012;7;1220300;Paso Río Don Guillermo;1301;Argentina;52
+2012;7;1220400;Paso San Sebastián;1301;Argentina;1530
+2012;7;1220500;Paso Laurita-Casas Viejas;1301;Argentina;1260
+2012;7;1230004;Puerto Punta Arenas;1301;Argentina;39
+2012;7;1230005;Puerto Williams;1301;Argentina;3
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;1635
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;19669
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1103;México;5695
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;2
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;221
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;36
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;48
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;16
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;13
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;6591
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;27562
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);24
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;13901
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;5748
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;2103
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1309;Guyana Francesa;1
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;317
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;15685
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;2224
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);632
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;4
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;10
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;2
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;1211
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1409;Curaçao;6
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;2
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;1
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;295
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;111
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;21
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;2589
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1420;Saint Kitts y Nevis;3
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1421;San Vicente y las Granadinas;2
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;1
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;2
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;8
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;46
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;12
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;7
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2104;Islandia;6
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;55
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;362
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;134
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;32
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2209;Hungría;1
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;12
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;8
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;666
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;37
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;54
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;4453
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2306;Luxemburgo;4
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;12
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;62
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;114
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;3
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;3
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2407;España;7965
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;30
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;42
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;387
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;10
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;2999;Otros países de Europa;32
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;3101;China;93
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);12
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);7
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;12
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;1
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;7
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;2
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;12
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;3304;India;11
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;3308;Pakistán;1
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;3499;Otros países de Asia;7
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;1384
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;312
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;3599;Otros países de Oceanía;1
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;1
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;5
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;3
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;4
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;4199;Otros países de Oriente Medio;1
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;1
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;21
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;5999;Otros países de África;10
+2012;7;1310100;Aeropuerto Arturo Merino Benítez;9800;Otros países del Mundo;4
+2012;7;1420100;Paso Huahum;1301;Argentina;560
+2012;7;1510100;Aeropuerto Chacalluta;1312;Perú;1078
+2012;7;1520100;Paso Concordia;1312;Perú;95813
+2012;7;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);2783
+2012;7;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;67
+2012;8;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);1398
+2012;8;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);1579
+2012;8;120200;Paso Apacheta de Irpa o Cancosa;1302;Bolivia (Estado Plurinacional de);64
+2012;8;130001;Puerto de Iquique;9800;Otros países del Mundo;23
+2012;8;210100;Aeropuerto Andrés Sabella;1301;Argentina;336
+2012;8;220100;Paso Jama;1301;Argentina;501
+2012;8;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;139
+2012;8;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);14
+2012;8;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);342
+2012;8;230004;Puerto Mejillones;9800;Otros países del Mundo;24
+2012;8;320100;Paso San Francisco;1301;Argentina;22
+2012;8;410010;Aeródromo La Florida;1301;Argentina;11
+2012;8;510100;Aeropuerto Mataveri;1301;Argentina;277
+2012;8;519919;Aeródromo Viña del Mar;1301;Argentina;8
+2012;8;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;14769
+2012;8;530002;Puerto de San Antonio;9800;Otros países del Mundo;26
+2012;8;530003;Puerto Quintero;9800;Otros países del Mundo;81
+2012;8;530004;Caleta Higuerillas;9800;Otros países del Mundo;1
+2012;8;830004;Puerto Lirquén;9800;Otros países del Mundo;27
+2012;8;920100;Paso Mamuil Malal;1301;Argentina;2099
+2012;8;920200;Paso Pino Hachado (Liucura);1301;Argentina;4620
+2012;8;920300;Paso Icalma;1301;Argentina;451
+2012;8;1010100;Aeropuerto El Tepual;1301;Argentina;2
+2012;8;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;7756
+2012;8;1020200;Paso Futaleufú;1301;Argentina;2810
+2012;8;1020300;Paso Río Encuentro;1301;Argentina;647
+2012;8;1020400;Paso Pérez Rosales;1301;Argentina;211
+2012;8;1020500;Paso Río Manso;1301;Argentina;59
+2012;8;1020600;Paso Río Puelo (Fluvial);1301;Argentina;11
+2012;8;1110001;Aeródromo Balmaceda;1301;Argentina;14
+2012;8;1120100;Paso Río Jeinemeni;1301;Argentina;4004
+2012;8;1120200;Paso Huemules;1301;Argentina;888
+2012;8;1120300;Paso Coyhaique;1301;Argentina;791
+2012;8;1120400;Paso Triana;1301;Argentina;24
+2012;8;1120500;Paso Pampa Alta (Puesto Viejo);1301;Argentina;10
+2012;8;1120600;Paso Roballos;1301;Argentina;19
+2012;8;1120700;Paso Río Mosco;1301;Argentina;11
+2012;8;1120900;Paso Río Frías-Appeleg;1301;Argentina;3
+2012;8;1121000;Paso Ingeniero Ibáñez-Pallavicini;1301;Argentina;225
+2012;8;1121100;Paso Las Pampas-Lago Verde;1301;Argentina;8
+2012;8;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;48
+2012;8;1220100;Paso Integración Austral;1301;Argentina;4821
+2012;8;1220200;Paso Dorotea;1301;Argentina;12014
+2012;8;1220300;Paso Río Don Guillermo;1301;Argentina;162
+2012;8;1220400;Paso San Sebastián;1301;Argentina;1675
+2012;8;1220500;Paso Laurita-Casas Viejas;1301;Argentina;1121
+2012;8;1230004;Puerto Punta Arenas;1301;Argentina;4
+2012;8;1230005;Puerto Williams;1301;Argentina;13
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;1280
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;16947
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1103;México;3948
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;3
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;155
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;42
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;67
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;27
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;7
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;3677
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;27044
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);16
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;12523
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;5255
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;1611
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1309;Guyana Francesa;1
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1310;Islas Malvinas (Falkland);7
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;407
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;15105
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1313;Suriname;1
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;2848
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);792
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;3
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;4
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;4
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;1015
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1409;Curaçao;2
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;3
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;207
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;169
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;17
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;2255
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1420;Saint Kitts y Nevis;2
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;2
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;1
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;3
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;55
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;40
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;8
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;41
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;432
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;128
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;30
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2209;Hungría;11
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;10
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;19
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;3
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;758
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;36
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;53
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;3674
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2306;Luxemburgo;1
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;15
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;98
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;115
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;7
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;15
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2407;España;5562
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;45
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;75
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;394
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;24
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;2999;Otros países de Europa;53
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3101;China;210
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);10
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);40
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;39
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;3
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;3
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;1
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;3
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;16
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;10
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;3
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3304;India;25
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3499;Otros países de Asia;6
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;1080
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;410
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3519;Polinesia Francesa;1
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;3599;Otros países de Oceanía;92
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;7
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;16
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;4
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;7
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;4199;Otros países de Oriente Medio;5
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;10
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;2
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;27
+2012;8;1310100;Aeropuerto Arturo Merino Benítez;5999;Otros países de África;19
+2012;8;1420100;Paso Huahum;1301;Argentina;229
+2012;8;1510100;Aeropuerto Chacalluta;1312;Perú;933
+2012;8;1520100;Paso Concordia;1312;Perú;105682
+2012;8;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);2177
+2012;8;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;105
+2012;9;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);1763
+2012;9;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);1532
+2012;9;120200;Paso Apacheta de Irpa o Cancosa;1302;Bolivia (Estado Plurinacional de);167
+2012;9;130001;Puerto de Iquique;9800;Otros países del Mundo;24
+2012;9;210100;Aeropuerto Andrés Sabella;1301;Argentina;523
+2012;9;220100;Paso Jama;1301;Argentina;636
+2012;9;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;209
+2012;9;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);12
+2012;9;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);584
+2012;9;320100;Paso San Francisco;1301;Argentina;132
+2012;9;320200;Paso Pircas Negras;1301;Argentina;1
+2012;9;330002;Puerto Chañaral;1301;Argentina;26
+2012;9;510100;Aeropuerto Mataveri;1301;Argentina;397
+2012;9;519919;Aeródromo Viña del Mar;1301;Argentina;15
+2012;9;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;30842
+2012;9;530001;Puerto de Valparaíso;9800;Otros países del Mundo;1
+2012;9;530002;Puerto de San Antonio;9800;Otros países del Mundo;1
+2012;9;530003;Puerto Quintero;9800;Otros países del Mundo;41
+2012;9;920100;Paso Mamuil Malal;1301;Argentina;6783
+2012;9;920200;Paso Pino Hachado (Liucura);1301;Argentina;7872
+2012;9;920300;Paso Icalma;1301;Argentina;933
+2012;9;1010100;Aeropuerto El Tepual;1301;Argentina;2
+2012;9;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;17943
+2012;9;1020200;Paso Futaleufú;1301;Argentina;3829
+2012;9;1020300;Paso Río Encuentro;1301;Argentina;765
+2012;9;1020400;Paso Pérez Rosales;1301;Argentina;444
+2012;9;1020500;Paso Río Manso;1301;Argentina;73
+2012;9;1020600;Paso Río Puelo (Fluvial);1301;Argentina;18
+2012;9;1120100;Paso Río Jeinemeni;1301;Argentina;5603
+2012;9;1120200;Paso Huemules;1301;Argentina;1407
+2012;9;1120300;Paso Coyhaique;1301;Argentina;2249
+2012;9;1120400;Paso Triana;1301;Argentina;163
+2012;9;1120500;Paso Pampa Alta (Puesto Viejo);1301;Argentina;201
+2012;9;1120600;Paso Roballos;1301;Argentina;22
+2012;9;1120700;Paso Río Mosco;1301;Argentina;11
+2012;9;1120800;Paso Río Mayer, Ribera Norte;1301;Argentina;21
+2012;9;1120900;Paso Río Frías-Appeleg;1301;Argentina;6
+2012;9;1121000;Paso Ingeniero Ibáñez-Pallavicini;1301;Argentina;578
+2012;9;1121100;Paso Las Pampas-Lago Verde;1301;Argentina;9
+2012;9;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;64
+2012;9;1220100;Paso Integración Austral;1301;Argentina;7166
+2012;9;1220200;Paso Dorotea;1301;Argentina;14694
+2012;9;1220300;Paso Río Don Guillermo;1301;Argentina;762
+2012;9;1220400;Paso San Sebastián;1301;Argentina;2481
+2012;9;1220500;Paso Laurita-Casas Viejas;1301;Argentina;2167
+2012;9;1230003;Puerto Navarino;1301;Argentina;271
+2012;9;1230004;Puerto Punta Arenas;1301;Argentina;1
+2012;9;1230005;Puerto Williams;1301;Argentina;2
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;1093
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;24335
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1103;México;6222
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;9
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;310
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;52
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;117
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;32
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;32
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;3271
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;29262
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);33
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;17731
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;6354
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;1905
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1309;Guyana Francesa;3
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;420
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;15309
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1313;Suriname;1
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;2823
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);759
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;3
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;17
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;5
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;1609
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1409;Curaçao;2
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;4
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;1
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;21
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;190
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;27
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;4505
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1420;Saint Kitts y Nevis;3
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;4
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;5
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;18
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;50
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;23
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;55
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2104;Islandia;1
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;55
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;942
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;138
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;119
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2209;Hungría;9
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;19
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;19
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2217;Rumania;6
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;3
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;1258
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;59
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;68
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;4771
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2306;Luxemburgo;4
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;23
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;116
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;151
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;3
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2403;Bosnia y Herzegovina;2
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;31
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2407;España;7743
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;51
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;140
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;1045
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;67
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;2999;Otros países de Europa;71
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3101;China;268
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);43
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);46
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;52
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;8
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;9
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;10
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;7
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;25
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;25
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;3
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3304;India;86
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3305;Irán (República Islámica del);5
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3308;Pakistán;4
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3499;Otros países de Asia;10
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;1619
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;477
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;3599;Otros países de Oceanía;6
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;35
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;25
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;4
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;10
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;4199;Otros países de Oriente Medio;9
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;19
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;4
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;5221;Kenya;11
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;75
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;5999;Otros países de África;44
+2012;9;1310100;Aeropuerto Arturo Merino Benítez;9800;Otros países del Mundo;2
+2012;9;1420100;Paso Huahum;1301;Argentina;899
+2012;9;1510100;Aeropuerto Chacalluta;1312;Perú;1152
+2012;9;1520100;Paso Concordia;1312;Perú;110409
+2012;9;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);2243
+2012;9;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;79
+2012;10;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);1552
+2012;10;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);1228
+2012;10;120200;Paso Apacheta de Irpa o Cancosa;1302;Bolivia (Estado Plurinacional de);24
+2012;10;130001;Puerto de Iquique;9800;Otros países del Mundo;25
+2012;10;210100;Aeropuerto Andrés Sabella;1301;Argentina;572
+2012;10;220100;Paso Jama;1301;Argentina;750
+2012;10;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;133
+2012;10;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);2
+2012;10;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);385
+2012;10;230004;Puerto Mejillones;9800;Otros países del Mundo;23
+2012;10;320100;Paso San Francisco;1301;Argentina;214
+2012;10;410010;Aeródromo La Florida;1301;Argentina;15
+2012;10;510100;Aeropuerto Mataveri;1301;Argentina;293
+2012;10;519919;Aeródromo Viña del Mar;1301;Argentina;11
+2012;10;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;34426
+2012;10;530001;Puerto de Valparaíso;9800;Otros países del Mundo;26
+2012;10;530002;Puerto de San Antonio;9800;Otros países del Mundo;1
+2012;10;530003;Puerto Quintero;9800;Otros países del Mundo;58
+2012;10;830001;Puerto de Talcahuano;9800;Otros países del Mundo;44
+2012;10;910017;Aeródromo Maquehue;1301;Argentina;10
+2012;10;910020;Aeródromo Pucón;1301;Argentina;10
+2012;10;920100;Paso Mamuil Malal;1301;Argentina;3351
+2012;10;920200;Paso Pino Hachado (Liucura);1301;Argentina;6223
+2012;10;920300;Paso Icalma;1301;Argentina;825
+2012;10;1010100;Aeropuerto El Tepual;1301;Argentina;13
+2012;10;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;11950
+2012;10;1020200;Paso Futaleufú;1301;Argentina;3169
+2012;10;1020300;Paso Río Encuentro;1301;Argentina;887
+2012;10;1020400;Paso Pérez Rosales;1301;Argentina;301
+2012;10;1020500;Paso Río Manso;1301;Argentina;71
+2012;10;1020600;Paso Río Puelo (Fluvial);1301;Argentina;16
+2012;10;1110001;Aeródromo Balmaceda;1301;Argentina;2
+2012;10;1120100;Paso Río Jeinemeni;1301;Argentina;4674
+2012;10;1120200;Paso Huemules;1301;Argentina;1101
+2012;10;1120300;Paso Coyhaique;1301;Argentina;1246
+2012;10;1120400;Paso Triana;1301;Argentina;59
+2012;10;1120500;Paso Pampa Alta (Puesto Viejo);1301;Argentina;70
+2012;10;1120600;Paso Roballos;1301;Argentina;55
+2012;10;1120700;Paso Río Mosco;1301;Argentina;10
+2012;10;1120800;Paso Río Mayer, Ribera Norte;1301;Argentina;19
+2012;10;1120900;Paso Río Frías-Appeleg;1301;Argentina;6
+2012;10;1121000;Paso Ingeniero Ibáñez-Pallavicini;1301;Argentina;317
+2012;10;1121100;Paso Las Pampas-Lago Verde;1301;Argentina;8
+2012;10;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;52
+2012;10;1220100;Paso Integración Austral;1301;Argentina;5249
+2012;10;1220200;Paso Dorotea;1301;Argentina;14483
+2012;10;1220300;Paso Río Don Guillermo;1301;Argentina;629
+2012;10;1220400;Paso San Sebastián;1301;Argentina;1592
+2012;10;1220500;Paso Laurita-Casas Viejas;1301;Argentina;1986
+2012;10;1230003;Puerto Navarino;1301;Argentina;438
+2012;10;1230004;Puerto Punta Arenas;1301;Argentina;48
+2012;10;1230005;Puerto Williams;1301;Argentina;110
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;956
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;20710
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1103;México;5019
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;2
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;220
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;46
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;81
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;27
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;37
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;3229
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;29562
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);54
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;15188
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;5968
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;2619
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;527
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;16329
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1313;Suriname;3
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;3175
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);944
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;3
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;52
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;1
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;1512
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1409;Curaçao;2
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;5
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;35
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;303
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;23
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;4101
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1421;San Vicente y las Granadinas;1
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;3
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;6
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;25
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;23
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;15
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;5
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2104;Islandia;2
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;44
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;383
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;99
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;33
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2209;Hungría;9
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;22
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;7
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2217;Rumania;1
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;1
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;781
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;30
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;72
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;2830
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;24
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;65
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;122
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;6
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2403;Bosnia y Herzegovina;1
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;10
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2407;España;5598
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;30
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;95
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;693
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;34
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;2999;Otros países de Europa;82
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3101;China;555
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);26
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);134
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;68
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;11
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;6
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;8
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;7
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;30
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;61
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;8
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3304;India;60
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3308;Pakistán;5
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3499;Otros países de Asia;10
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;1316
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;355
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;3599;Otros países de Oceanía;7
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;70
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;31
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;3
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;3
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;4199;Otros países de Oriente Medio;12
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;18
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;1
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;5221;Kenya;5
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;37
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;5999;Otros países de África;30
+2012;10;1310100;Aeropuerto Arturo Merino Benítez;9800;Otros países del Mundo;1
+2012;10;1420100;Paso Huahum;1301;Argentina;434
+2012;10;1510100;Aeropuerto Chacalluta;1312;Perú;901
+2012;10;1520100;Paso Concordia;1312;Perú;107342
+2012;10;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);2147
+2012;10;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;53
+2012;10;1530001;Puerto de Arica;9800;Otros países del Mundo;25
+2012;11;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);1436
+2012;11;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);1441
+2012;11;120200;Paso Apacheta de Irpa o Cancosa;1302;Bolivia (Estado Plurinacional de);17
+2012;11;130002;Caleta Patillos;9800;Otros países del Mundo;46
+2012;11;210100;Aeropuerto Andrés Sabella;1301;Argentina;420
+2012;11;220100;Paso Jama;1301;Argentina;877
+2012;11;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;168
+2012;11;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);10
+2012;11;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);416
+2012;11;230004;Puerto Mejillones;9800;Otros países del Mundo;22
+2012;11;320100;Paso San Francisco;1301;Argentina;136
+2012;11;320200;Paso Pircas Negras;1301;Argentina;11
+2012;11;330002;Puerto Chañaral;1301;Argentina;23
+2012;11;410010;Aeródromo La Florida;1301;Argentina;24
+2012;11;420100;Paso Agua Negra;1301;Argentina;177
+2012;11;510100;Aeropuerto Mataveri;1301;Argentina;373
+2012;11;519919;Aeródromo Viña del Mar;1301;Argentina;17
+2012;11;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;33554
+2012;11;530002;Puerto de San Antonio;9800;Otros países del Mundo;24
+2012;11;530003;Puerto Quintero;9800;Otros países del Mundo;21
+2012;11;820003;Paso Pichachén;1301;Argentina;206
+2012;11;830004;Puerto Lirquén;9800;Otros países del Mundo;10
+2012;11;910017;Aeródromo Maquehue;1301;Argentina;5
+2012;11;910020;Aeródromo Pucón;1301;Argentina;19
+2012;11;920100;Paso Mamuil Malal;1301;Argentina;5004
+2012;11;920200;Paso Pino Hachado (Liucura);1301;Argentina;6755
+2012;11;920300;Paso Icalma;1301;Argentina;1035
+2012;11;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;15513
+2012;11;1020200;Paso Futaleufú;1301;Argentina;2968
+2012;11;1020300;Paso Río Encuentro;1301;Argentina;805
+2012;11;1020400;Paso Pérez Rosales;1301;Argentina;356
+2012;11;1020500;Paso Río Manso;1301;Argentina;85
+2012;11;1020600;Paso Río Puelo (Fluvial);1301;Argentina;24
+2012;11;1120100;Paso Río Jeinemeni;1301;Argentina;4773
+2012;11;1120200;Paso Huemules;1301;Argentina;964
+2012;11;1120300;Paso Coyhaique;1301;Argentina;1391
+2012;11;1120400;Paso Triana;1301;Argentina;79
+2012;11;1120500;Paso Pampa Alta (Puesto Viejo);1301;Argentina;76
+2012;11;1120600;Paso Roballos;1301;Argentina;57
+2012;11;1120700;Paso Río Mosco;1301;Argentina;17
+2012;11;1120800;Paso Río Mayer, Ribera Norte;1301;Argentina;19
+2012;11;1120900;Paso Río Frías-Appeleg;1301;Argentina;12
+2012;11;1121000;Paso Ingeniero Ibáñez-Pallavicini;1301;Argentina;282
+2012;11;1121100;Paso Las Pampas-Lago Verde;1301;Argentina;10
+2012;11;1129901;Hito IV-O-B - Paso Dos Lagunas;1301;Argentina;3
+2012;11;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;29
+2012;11;1220100;Paso Integración Austral;1301;Argentina;6249
+2012;11;1220200;Paso Dorotea;1301;Argentina;15786
+2012;11;1220300;Paso Río Don Guillermo;1301;Argentina;967
+2012;11;1220400;Paso San Sebastián;1301;Argentina;2141
+2012;11;1220500;Paso Laurita-Casas Viejas;1301;Argentina;2001
+2012;11;1230003;Puerto Navarino;1301;Argentina;514
+2012;11;1230004;Puerto Punta Arenas;1301;Argentina;23
+2012;11;1230005;Puerto Williams;1301;Argentina;27
+2012;11;1230011;Muelle Puerto Natales;1301;Argentina;3
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;721
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;14772
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1103;México;4680
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1199;Otros países de América del Norte;1
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;2
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;237
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;40
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;98
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;22
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;21
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;2880
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;25490
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);21
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;14799
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;5052
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;1435
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1310;Islas Malvinas (Falkland);4
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;352
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;14431
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;3034
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);808
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;5
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;5
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;958
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1409;Curaçao;6
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;4
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;6
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;64
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;97
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;37
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;2687
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;23
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;6
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;22
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;17
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;15
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;6
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;41
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;278
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;107
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;11
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2209;Hungría;1
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;28
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;9
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2217;Rumania;3
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;3
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;599
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;13
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;102
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;1970
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;19
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;75
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;89
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;3
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;5
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2407;España;3604
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;10
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;66
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;331
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;23
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;2999;Otros países de Europa;55
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3101;China;287
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);35
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);33
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;35
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;9
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;3
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;4
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;16
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;29
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;1
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3304;India;39
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3305;Irán (República Islámica del);2
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3308;Pakistán;6
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3499;Otros países de Asia;16
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;1373
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;303
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;3599;Otros países de Oceanía;5
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;15
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;16
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;3
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;3
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;4199;Otros países de Oriente Medio;4
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;13
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;5221;Kenya;3
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;28
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;5999;Otros países de África;9
+2012;11;1310100;Aeropuerto Arturo Merino Benítez;9800;Otros países del Mundo;2
+2012;11;1420100;Paso Huahum;1301;Argentina;563
+2012;11;1420200;Paso Carirriñe;1301;Argentina;8
+2012;11;1510100;Aeropuerto Chacalluta;1312;Perú;938
+2012;11;1520100;Paso Concordia;1312;Perú;118948
+2012;11;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);2243
+2012;11;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;65
+2012;12;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);1248
+2012;12;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);1617
+2012;12;130002;Caleta Patillos;9800;Otros países del Mundo;23
+2012;12;210100;Aeropuerto Andrés Sabella;1301;Argentina;227
+2012;12;220100;Paso Jama;1301;Argentina;998
+2012;12;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;204
+2012;12;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);11
+2012;12;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1302;Bolivia (Estado Plurinacional de);750
+2012;12;230004;Puerto Mejillones;9800;Otros países del Mundo;26
+2012;12;310002;Aeródromo Chamonate;1301;Argentina;1
+2012;12;320100;Paso San Francisco;1301;Argentina;34
+2012;12;320200;Paso Pircas Negras;1301;Argentina;13
+2012;12;410010;Aeródromo La Florida;1301;Argentina;19
+2012;12;420100;Paso Agua Negra;1301;Argentina;242
+2012;12;510100;Aeropuerto Mataveri;1301;Argentina;471
+2012;12;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;24155
+2012;12;530002;Puerto de San Antonio;9800;Otros países del Mundo;52
+2012;12;530003;Puerto Quintero;9800;Otros países del Mundo;61
+2012;12;530005;Puerto de Hanga Roa;1301;Argentina;3
+2012;12;720100;Paso Pehuenche;1301;Argentina;194
+2012;12;820003;Paso Pichachén;1301;Argentina;81
+2012;12;830001;Puerto de Talcahuano;9800;Otros países del Mundo;2
+2012;12;830003;Puerto Coronel;9800;Otros países del Mundo;20
+2012;12;920100;Paso Mamuil Malal;1301;Argentina;4280
+2012;12;920200;Paso Pino Hachado (Liucura);1301;Argentina;6495
+2012;12;920300;Paso Icalma;1301;Argentina;1012
+2012;12;1010100;Aeropuerto El Tepual;1301;Argentina;5
+2012;12;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;21331
+2012;12;1020200;Paso Futaleufú;1301;Argentina;3927
+2012;12;1020300;Paso Río Encuentro;1301;Argentina;939
+2012;12;1020400;Paso Pérez Rosales;1301;Argentina;545
+2012;12;1020600;Paso Río Puelo (Fluvial);1301;Argentina;54
+2012;12;1030009;Muelle Fiscal (Puerto Puerto Montt);1301;Argentina;2
+2012;12;1120100;Paso Río Jeinemeni;1301;Argentina;5596
+2012;12;1120200;Paso Huemules;1301;Argentina;1115
+2012;12;1120300;Paso Coyhaique;1301;Argentina;1728
+2012;12;1120400;Paso Triana;1301;Argentina;72
+2012;12;1120500;Paso Pampa Alta (Puesto Viejo);1301;Argentina;301
+2012;12;1120600;Paso Roballos;1301;Argentina;60
+2012;12;1120800;Paso Río Mayer, Ribera Norte;1301;Argentina;12
+2012;12;1120900;Paso Río Frías-Appeleg;1301;Argentina;50
+2012;12;1121000;Paso Ingeniero Ibáñez-Pallavicini;1301;Argentina;379
+2012;12;1121100;Paso Las Pampas-Lago Verde;1301;Argentina;4
+2012;12;1129901;Hito IV-O-B - Paso Dos Lagunas;1301;Argentina;12
+2012;12;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;76
+2012;12;1220100;Paso Integración Austral;1301;Argentina;9176
+2012;12;1220200;Paso Dorotea;1301;Argentina;17996
+2012;12;1220300;Paso Río Don Guillermo;1301;Argentina;1199
+2012;12;1220400;Paso San Sebastián;1301;Argentina;1848
+2012;12;1220500;Paso Laurita-Casas Viejas;1301;Argentina;2953
+2012;12;1230001;Puerto Cabo Negro;1301;Argentina;28
+2012;12;1230003;Puerto Navarino;1301;Argentina;463
+2012;12;1230004;Puerto Punta Arenas;1301;Argentina;134
+2012;12;1230005;Puerto Williams;1301;Argentina;3
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;812
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;19319
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1103;México;4423
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1199;Otros países de América del Norte;1
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;328
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;29
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;91
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;31
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;10
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;3163
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;19141
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);9
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;19824
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;4669
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;2138
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1310;Islas Malvinas (Falkland);8
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;461
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;12989
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;4285
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);696
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;4
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;11
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;1
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;977
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;1
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;7
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;21
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;103
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;57
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;2555
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1420;Saint Kitts y Nevis;3
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1421;San Vicente y las Granadinas;1
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;3
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;11
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;1499;Otros países del Caribe;10
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;49
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;18
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;9
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2104;Islandia;1
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;51
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;325
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;142
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;17
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;6
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;2
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2217;Rumania;2
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;2
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;879
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;33
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;45
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;2122
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2306;Luxemburgo;1
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;16
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;79
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;131
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2403;Bosnia y Herzegovina;4
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;1
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2407;España;4775
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;5
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;101
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;271
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;12
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;2999;Otros países de Europa;28
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3101;China;192
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);20
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);16
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;33
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;8
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;4
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;5
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;5
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;21
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;36
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;7
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3304;India;67
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3305;Irán (República Islámica del);2
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3308;Pakistán;10
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3499;Otros países de Asia;12
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;1925
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;403
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;3599;Otros países de Oceanía;6
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;30
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;23
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;5
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;4199;Otros países de Oriente Medio;7
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;10
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;4
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;5221;Kenya;16
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;23
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;5999;Otros países de África;14
+2012;12;1310100;Aeropuerto Arturo Merino Benítez;9800;Otros países del Mundo;1
+2012;12;1420100;Paso Huahum;1301;Argentina;575
+2012;12;1420200;Paso Carirriñe;1301;Argentina;21
+2012;12;1510100;Aeropuerto Chacalluta;1312;Perú;844
+2012;12;1520100;Paso Concordia;1312;Perú;105277
+2012;12;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);1866
+2012;12;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;60

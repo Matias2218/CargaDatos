@@ -1,0 +1,14 @@
+11/12/2019 12:50:36.526 I Inicio
+11/12/2019 12:50:36.526 I Validar Formato Archivo --> TO_2020_2020.csv
+11/12/2019 12:50:36.542 I Validar Formato Archivo --> OK (2020 - 2020)
+11/12/2019 12:50:36.604 I Eliminar Registros --> OK (3)
+11/12/2019 12:50:36.604 I Insertar Carga --> OK
+11/12/2019 12:50:36.604 I Insertar Registros - Inicio
+11/12/2019 12:50:36.683 I Insertar Registros --> OK en línea 1
+11/12/2019 12:50:36.698 I Insertar Registros --> OK en línea 2
+11/12/2019 12:50:36.714 I Insertar Registros --> OK en línea 3
+11/12/2019 12:50:36.714 I Insertar Registros --> OK (3) -  ERROR (0)
+11/12/2019 12:50:36.731 I Insertar Carga --> OK
+11/12/2019 12:50:36.731 I Insertar Carga Bitacora --> OK
+11/12/2019 12:50:36.747 I Insertar Registros - Fin
+11/12/2019 12:50:36.747 I Fin

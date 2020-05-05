@@ -1,0 +1,13 @@
+26/12/2019 14:25:05.237 I Inicio
+26/12/2019 14:25:05.237 I Validar Formato Archivo --> TIB_2016_2016.csv
+26/12/2019 14:25:05.237 I Validar Formato Archivo --> OK (2016 - 2016)
+26/12/2019 14:25:05.314 I Eliminar Registros --> OK (0)
+26/12/2019 14:25:05.354 I Insertar Carga --> OK
+26/12/2019 14:25:05.354 I Insertar Registros - Inicio
+26/12/2019 14:25:05.427 E Insertar Registros --> ERROR en línea 1 (ERROR: insert or update on table "data_ti_base" violates foreign key constraint "data_ti_base_id_mes_fkey"
+  Detail: Key (id_mes)=(5) is not present in table "anio".)
+26/12/2019 14:25:05.432 I Insertar Registros --> OK (0) -  ERROR (1)
+26/12/2019 14:25:05.444 I Insertar Carga --> OK
+26/12/2019 14:25:05.467 I Insertar Carga Bitacora --> OK
+26/12/2019 14:25:05.475 I Insertar Registros - Fin
+26/12/2019 14:25:05.477 I Fin

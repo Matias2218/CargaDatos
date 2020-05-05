@@ -1,0 +1,21 @@
+03/04/2020 15:42:40.789 I Inicio
+03/04/2020 15:42:40.790 I Validar Formato Archivo --> Carga_201801_201812.csv
+03/04/2020 15:42:40.791 I Validar Formato Archivo --> OK (201801 - 201812)
+03/04/2020 15:42:41.161 I Eliminar Registros --> OK (2607)
+03/04/2020 15:42:41.197 I Insertar Carga --> OK
+03/04/2020 15:42:41.198 I Insertar Registros - Inicio
+03/04/2020 15:42:41.340 E Insertar Registros --> ERROR en línea 1 (ResultSet not positioned properly, perhaps you need to call next.)
+03/04/2020 15:42:41.452 E Insertar Registros --> ERROR en línea 2 (ResultSet not positioned properly, perhaps you need to call next.)
+03/04/2020 15:42:41.564 E Insertar Registros --> ERROR en línea 3 (ResultSet not positioned properly, perhaps you need to call next.)
+03/04/2020 15:42:41.680 E Insertar Registros --> ERROR en línea 4 (ResultSet not positioned properly, perhaps you need to call next.)
+03/04/2020 15:42:41.792 E Insertar Registros --> ERROR en línea 5 (ResultSet not positioned properly, perhaps you need to call next.)
+03/04/2020 15:42:41.904 E Insertar Registros --> ERROR en línea 6 (ResultSet not positioned properly, perhaps you need to call next.)
+03/04/2020 15:42:42.015 E Insertar Registros --> ERROR en línea 7 (ResultSet not positioned properly, perhaps you need to call next.)
+03/04/2020 15:42:42.127 E Insertar Registros --> ERROR en línea 8 (ResultSet not positioned properly, perhaps you need to call next.)
+03/04/2020 15:42:42.239 E Insertar Registros --> ERROR en línea 9 (ResultSet not positioned properly, perhaps you need to call next.)
+03/04/2020 15:42:42.576 E Insertar Registros --> ERROR en línea 10 (ResultSet not positioned properly, perhaps you need to call next.)
+03/04/2020 15:42:42.687 E Insertar Registros --> ERROR en línea 11 (ResultSet not positioned properly, perhaps you need to call next.)
+03/04/2020 15:42:42.799 E Insertar Registros --> ERROR en línea 12 (ResultSet not positioned properly, perhaps you need to call next.)
+03/04/2020 15:42:43.591 E Insertar Registros --> ERROR en línea 13 (ResultSet not positioned properly, perhaps you need to call next.)
+03/04/2020 15:42:43.704 E Insertar Registros --> ERROR en línea 14 (ResultSet not positioned properly, perhaps you need to call next.)
+03/04/2020 15:42:43.816 E Insertar Registros --> ERROR en línea 15 (ResultSet not positioned properly, perhaps you need to call next.)

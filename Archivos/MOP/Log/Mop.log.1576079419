@@ -1,0 +1,16 @@
+11/12/2019 12:50:30.577 I Inicio
+11/12/2019 12:50:30.579 I Validar Formato Archivo --> MOP-ERROR_202003_202005.csv
+11/12/2019 12:50:30.580 I Validar Formato Archivo --> OK (202003 - 202005)
+11/12/2019 12:50:30.623 I Eliminar Registros --> OK (4)
+11/12/2019 12:50:30.633 I Insertar Carga --> OK
+11/12/2019 12:50:30.634 I Insertar Registros - Inicio
+11/12/2019 12:50:30.644 I Insertar Registros --> OK en línea 1
+11/12/2019 12:50:30.645 I Insertar Registros --> ERROR en línea 2 (Rango invalido de año)
+11/12/2019 12:50:30.647 I Insertar Registros --> ERROR en línea 3 (tipo invalido de tipo de vehículo 1)
+11/12/2019 12:50:30.657 I Insertar Registros --> OK en línea 4
+11/12/2019 12:50:30.658 I Insertar Registros --> OK (2) -  ERROR (2)
+11/12/2019 12:50:30.666 I Insertar Carga --> OK
+11/12/2019 12:50:30.671 I Insertar Carga Bitacora --> OK
+11/12/2019 12:50:30.674 I Insertar Carga Bitacora --> OK
+11/12/2019 12:50:30.683 I Insertar Registros - Fin
+11/12/2019 12:50:30.684 I Fin

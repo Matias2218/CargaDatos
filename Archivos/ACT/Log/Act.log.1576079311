@@ -1,0 +1,16 @@
+11/12/2019 12:48:46.672 I Inicio
+11/12/2019 12:48:46.672 I Validar Formato Archivo --> ACT_2020_2020.csv
+11/12/2019 12:48:46.673 I Validar Formato Archivo --> OK (2020 - 2020)
+11/12/2019 12:48:51.454 I Eliminar Registros --> OK (5)
+11/12/2019 12:48:54.470 I Insertar Carga --> OK
+11/12/2019 12:48:54.472 I Insertar Registros - Inicio
+11/12/2019 12:48:56.295 I Insertar Registros --> OK en línea 1
+11/12/2019 12:48:56.420 I Insertar Registros --> OK en línea 2
+11/12/2019 12:48:56.436 I Insertar Registros --> OK en línea 3
+11/12/2019 12:48:56.530 I Insertar Registros --> OK en línea 4
+11/12/2019 12:48:56.565 I Insertar Registros --> OK en línea 5
+11/12/2019 12:48:56.565 I Insertar Registros --> OK (5) -  ERROR (0)
+11/12/2019 12:48:57.563 I Insertar Carga --> OK
+11/12/2019 12:48:57.641 I Insertar Carga Bitacora --> OK
+11/12/2019 12:48:57.641 I Insertar Registros - Fin
+11/12/2019 12:48:57.641 I Fin

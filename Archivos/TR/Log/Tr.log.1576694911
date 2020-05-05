@@ -1,0 +1,15 @@
+18/12/2019 15:49:03.612 I Inicio
+18/12/2019 15:49:03.612 I Validar Formato Archivo --> TR_201803_201803.csv
+18/12/2019 15:49:03.613 I Validar Formato Archivo --> OK (201803 - 201803)
+18/12/2019 15:49:24.357 E Eliminar Registros --> ERROR (ERROR: update or delete on table "data_tr_base" violates foreign key constraint "tr_financia_r_id_data_tr_base_fkey" on table "tr_financia_r"
+  Detail: Key (id)=(323541) is still referenced from table "tr_financia_r".)
+18/12/2019 15:49:24.372 E Insertar Carga --> ERROR (ERROR: current transaction is aborted, commands ignored until end of transaction block)
+18/12/2019 15:49:24.380 I Insertar Registros - Inicio
+18/12/2019 15:50:00.834 E Insertar Registros --> ERROR en línea 1 (For input string: "Arriendo de auto sin chofer")
+18/12/2019 15:50:03.466 I Insertar Registros --> ERROR en línea 2 (Número de campos no corresponde)
+18/12/2019 15:50:03.467 I Insertar Registros --> OK (0) -  ERROR (2)
+18/12/2019 15:50:03.583 I Insertar Carga --> OK
+18/12/2019 15:50:03.604 I Insertar Carga Bitacora --> OK
+18/12/2019 15:50:03.609 I Insertar Carga Bitacora --> OK
+18/12/2019 15:50:03.646 I Insertar Registros - Fin
+18/12/2019 15:50:03.648 I Fin

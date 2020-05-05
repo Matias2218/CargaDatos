@@ -1,0 +1,15 @@
+11/12/2019 12:50:32.173 I Inicio
+11/12/2019 12:50:32.173 I Validar Formato Archivo --> PF_2020_2020.csv
+11/12/2019 12:50:32.173 I Validar Formato Archivo --> OK (2020 - 2020)
+11/12/2019 12:50:32.227 I Eliminar Registros --> OK (4)
+11/12/2019 12:50:32.234 I Insertar Carga --> OK
+11/12/2019 12:50:32.235 I Insertar Registros - Inicio
+11/12/2019 12:50:32.263 I Insertar Registros --> OK en línea 1
+11/12/2019 12:50:32.270 I Insertar Registros --> OK en línea 2
+11/12/2019 12:50:32.276 I Insertar Registros --> OK en línea 3
+11/12/2019 12:50:32.284 I Insertar Registros --> OK en línea 4
+11/12/2019 12:50:32.285 I Insertar Registros --> OK (4) -  ERROR (0)
+11/12/2019 12:50:32.291 I Insertar Carga --> OK
+11/12/2019 12:50:32.294 I Insertar Carga Bitacora --> OK
+11/12/2019 12:50:32.311 I Insertar Registros - Fin
+11/12/2019 12:50:32.311 I Fin

@@ -1,0 +1,14 @@
+11/12/2019 12:50:30.700 I Inicio
+11/12/2019 12:50:30.702 I Validar Formato Archivo --> PDI_202001_202005.csv
+11/12/2019 12:50:30.703 I Validar Formato Archivo --> OK (202001 - 202005)
+11/12/2019 12:50:31.829 I Eliminar Registros --> OK (3)
+11/12/2019 12:50:31.829 I Insertar Carga --> OK
+11/12/2019 12:50:31.829 I Insertar Registros - Inicio
+11/12/2019 12:50:32.120 I Insertar Registros --> OK en línea 1
+11/12/2019 12:50:32.131 I Insertar Registros --> OK en línea 2
+11/12/2019 12:50:32.141 I Insertar Registros --> OK en línea 3
+11/12/2019 12:50:32.141 I Insertar Registros --> OK (3) -  ERROR (0)
+11/12/2019 12:50:32.158 I Insertar Carga --> OK
+11/12/2019 12:50:32.161 I Insertar Carga Bitacora --> OK
+11/12/2019 12:50:32.169 I Insertar Registros - Fin
+11/12/2019 12:50:32.169 I Fin

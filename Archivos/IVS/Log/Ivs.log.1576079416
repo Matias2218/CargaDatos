@@ -1,0 +1,23 @@
+11/12/2019 12:50:28.831 I Inicio
+11/12/2019 12:50:28.831 I Validar Formato Archivo --> IVS_202007_202012.csv
+11/12/2019 12:50:28.831 I Validar Formato Archivo --> OK (202007 - 202012)
+11/12/2019 12:50:28.925 I Eliminar Registros --> OK (12)
+11/12/2019 12:50:28.941 I Insertar Carga --> OK
+11/12/2019 12:50:28.941 I Insertar Registros - Inicio
+11/12/2019 12:50:28.988 I Insertar Registros --> OK en línea 1
+11/12/2019 12:50:29.003 I Insertar Registros --> OK en línea 2
+11/12/2019 12:50:29.011 I Insertar Registros --> OK en línea 3
+11/12/2019 12:50:29.021 I Insertar Registros --> OK en línea 4
+11/12/2019 12:50:29.029 I Insertar Registros --> OK en línea 5
+11/12/2019 12:50:29.035 I Insertar Registros --> OK en línea 6
+11/12/2019 12:50:29.050 I Insertar Registros --> OK en línea 7
+11/12/2019 12:50:29.057 I Insertar Registros --> OK en línea 8
+11/12/2019 12:50:29.064 I Insertar Registros --> OK en línea 9
+11/12/2019 12:50:29.068 I Insertar Registros --> OK en línea 10
+11/12/2019 12:50:29.068 I Insertar Registros --> OK en línea 11
+11/12/2019 12:50:29.083 I Insertar Registros --> OK en línea 12
+11/12/2019 12:50:29.083 I Insertar Registros --> OK (12) -  ERROR (0)
+11/12/2019 12:50:29.083 I Insertar Carga --> OK
+11/12/2019 12:50:29.083 I Insertar Carga Bitacora --> OK
+11/12/2019 12:50:29.099 I Insertar Registros - Fin
+11/12/2019 12:50:29.099 I Fin

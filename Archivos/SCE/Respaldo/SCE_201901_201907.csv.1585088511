@@ -1,0 +1,1222 @@
+AÑO;MES;ID PASO;PASO;ID PAÍS;PAÍS;SALIDAS
+2019;1;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);514
+2019;1;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);3322
+2019;1;130002;Caleta Patillos;9800;Otros países del Mundo;20
+2019;1;210100;Aeropuerto Andrés Sabella;1301;Argentina;1018
+2019;1;220100;Paso Jama;1301;Argentina;1938
+2019;1;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;929
+2019;1;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1301;Argentina;2190
+2019;1;220400;Paso Sico;1301;Argentina;37
+2019;1;230002;Puerto Angamos;9800;Otros países del Mundo;22
+2019;1;230004;Puerto Mejillones;9800;Otros países del Mundo;18
+2019;1;320100;Paso San Francisco;1301;Argentina;144
+2019;1;320200;Paso Pircas Negras;1301;Argentina;19
+2019;1;330002;Puerto Chañaral;1301;Argentina;23
+2019;1;410010;Aeródromo La Florida;1301;Argentina;174
+2019;1;420100;Paso Agua Negra;1301;Argentina;570
+2019;1;510100;Aeropuerto Mataveri;1301;Argentina;250
+2019;1;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;22677
+2019;1;530001;Puerto de Valparaíso;9800;Otros países del Mundo;34
+2019;1;530002;Puerto de San Antonio;9800;Otros países del Mundo;27
+2019;1;530005;Puerto de Hanga Roa;1301;Argentina;7
+2019;1;620001;Paso Las Damas;1301;Argentina;9
+2019;1;720100;Paso Pehuenche;1301;Argentina;2471
+2019;1;820003;Paso Pichachén;1301;Argentina;282
+2019;1;830001;Puerto de Talcahuano;9800;Otros países del Mundo;24
+2019;1;830002;Puerto San Vicente;9800;Otros países del Mundo;50
+2019;1;920100;Paso Mamuil Malal;1301;Argentina;9255
+2019;1;920200;Paso Pino Hachado (Liucura);1301;Argentina;11101
+2019;1;920300;Paso Icalma;1301;Argentina;3226
+2019;1;1010100;Aeropuerto El Tepual;1301;Argentina;25
+2019;1;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;28213
+2019;1;1020200;Paso Futaleufú;1301;Argentina;3421
+2019;1;1020300;Paso Río Encuentro;1301;Argentina;722
+2019;1;1020400;Paso Pérez Rosales;1301;Argentina;578
+2019;1;1120100;Paso Río Jeinemeni;1301;Argentina;8379
+2019;1;1120200;Paso Huemules;1301;Argentina;2157
+2019;1;1120300;Paso Coyhaique;1301;Argentina;1210
+2019;1;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;115
+2019;1;1219907;Aeródromo Guardiamarina Zañartu;1301;Argentina;4
+2019;1;1220200;Paso Dorotea;1301;Argentina;7913
+2019;1;1220300;Paso Río Don Guillermo;1301;Argentina;4486
+2019;1;1220400;Paso San Sebastián;1301;Argentina;3102
+2019;1;1220500;Paso Laurita-Casas Viejas;1301;Argentina;1486
+2019;1;1229904;Paso Río Bellavista (Ex Radman);1301;Argentina;108
+2019;1;1230003;Puerto Navarino;1301;Argentina;525
+2019;1;1230004;Puerto Punta Arenas;1301;Argentina;251
+2019;1;1230005;Puerto Williams;1301;Argentina;15
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;1731
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;29987
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1103;México;10761
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;4,385926564
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;1009
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;59,64860127
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;178,0686185
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;62,2801572
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;22,80681813
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;4696
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;24843
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);1484
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;42384
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;10120
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;2223
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1309;Guyana Francesa;4,385926564
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;1117
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;25656
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1313;Suriname;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;6148
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);215,7875869
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;2,631555938
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;20,17526219
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;7,894667815
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;2670
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;1,754370625
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;1,754370625
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;64,03452783
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;279,8221148
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;179,8229891
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;6379
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1420;Saint Kitts y Nevis;2,631555938
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1421;San Vicente y las Granadinas;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;1,754370625
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;82,4554194
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;38,59615376
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;42,98208032
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2104;Islandia;8,771853127
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;114,911276
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;1807
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;296,4886357
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2201;Armenia;6,140297189
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2202;Azerbaiyán;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2204;Bulgaria;5,263111876
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2205;Eslovaquia;2,631555938
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2206;Estonia;2,631555938
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;32,45585657
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2208;Georgia;1,754370625
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2209;Hungría;4,385926564
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2210;Kazajstán;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2212;Letonia;1,754370625
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2213;Lituania;2,631555938
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;15,78933563
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;27,19274469
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2217;Rumania;6,140297189
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;1,754370625
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;1277
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;66,66608377
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;125,4374997
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;1944
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2306;Luxemburgo;7,894667815
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;818,4138968
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;304,3833035
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2402;Andorra;3,508741251
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;14,034965
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2406;Eslovenia;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2407;España;8216
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;41,2277097
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;304,3833035
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;1732
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2413;Malta;5,263111876
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;96,4903844
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2418;Serbia;2,631555938
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;2419;Turquía;80,70104877
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3101;China;592,9772714
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);62,2801572
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);150,8758738
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;296,4886357
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3107;Mongolia;1,754370625
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;35,96459782
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3202;Camboya;2,631555938
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;10,52622375
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;11,40340907
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;7,017482502
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;77,19230752
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;344,7338279
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;21,92963282
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3301;Afganistán;9
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3304;India;262,2784085
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3305;Irán (República Islámica del);3,508741251
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3306;Maldivas;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3308;Pakistán;11,40340907
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3309;Sri Lanka;4,385926564
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;2903
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3502;Estado de Kosrae;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3503;Fiji;2,631555938
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;680,6958027
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;3524;Vanuatu;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;4101;Arabia Saudita;9,64903844
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;4102;Bahrein;6,140297189
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;59,64860127
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;815,7823408
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;4105;Estado de Palestina;2,631555938
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;4106;Iraq;1,754370625
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;16,66652094
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;4108;Kuwait;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;4,385926564
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;4112;Qatar;10,52622375
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5101;Argelia;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;8,771853127
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5104;Sudán;1,754370625
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5105;Túnez;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5201;Angola;4,385926564
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5210;Congo (República Democrática del);0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5214;Etiopía;12,28059438
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5217;Ghana;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5218;Guinea;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5219;Guinea Ecuatorial;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;2,631555938
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5221;Kenya;8,771853127
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5226;Malí;2,631555938
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5227;Mauricio;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5228;Mauritania;2,631555938
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5230;Mozambique;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5233;Nigeria;0,877185313
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5235;Rwanda;7,017482502
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;282,4536707
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5244;Tanzanía (República Unida de);7,894667815
+2019;1;1310100;Aeropuerto Arturo Merino Benítez;5246;Uganda;1,754370625
+2019;1;1420100;Paso Huahum;1301;Argentina;5185
+2019;1;1420200;Paso Carirriñe;1301;Argentina;170
+2019;1;1510100;Aeropuerto Chacalluta;1312;Perú;14
+2019;1;1520100;Paso Concordia;1312;Perú;181400
+2019;1;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);2958
+2019;1;1520300;Paso Concordia (Ferroviario);1312;Perú;1732
+2019;1;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;401
+2019;1;1530001;Puerto de Arica;9800;Otros países del Mundo;20
+2019;2;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);3573
+2019;2;220100;Paso Jama;1301;Argentina;1137
+2019;2;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;1008
+2019;2;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1301;Argentina;2668
+2019;2;220400;Paso Sico;1301;Argentina;2
+2019;2;320100;Paso San Francisco;1301;Argentina;169
+2019;2;320200;Paso Pircas Negras;1301;Argentina;8
+2019;2;420100;Paso Agua Negra;1301;Argentina;853
+2019;2;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;26691
+2019;2;620001;Paso Las Damas;1301;Argentina;42
+2019;2;720100;Paso Pehuenche;1301;Argentina;3584
+2019;2;820003;Paso Pichachén;1301;Argentina;437
+2019;2;920100;Paso Mamuil Malal;1301;Argentina;14616
+2019;2;920200;Paso Pino Hachado (Liucura);1301;Argentina;13122
+2019;2;920300;Paso Icalma;1301;Argentina;5941
+2019;2;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;42288
+2019;2;1020200;Paso Futaleufú;1301;Argentina;5857
+2019;2;1020300;Paso Río Encuentro;1301;Argentina;792
+2019;2;1020400;Paso Pérez Rosales;1301;Argentina;601
+2019;2;1120100;Paso Río Jeinemeni;1301;Argentina;8015
+2019;2;1120200;Paso Huemules;1301;Argentina;2360
+2019;2;1120300;Paso Coyhaique;1301;Argentina;1610
+2019;2;1220200;Paso Dorotea;1301;Argentina;10138
+2019;2;1220300;Paso Río Don Guillermo;1301;Argentina;6182
+2019;2;1220400;Paso San Sebastián;1301;Argentina;3283
+2019;2;1220500;Paso Laurita-Casas Viejas;1301;Argentina;1447
+2019;2;1229904;Paso Río Bellavista (Ex Radman);1301;Argentina;177
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;1789
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;31191
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1103;México;13964
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;10,89872015
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;929,3635909
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;65,39232089
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;175,3703151
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;29,72378222
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;54,49360074
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;3894
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;25112
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);1581
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;47505
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;12747
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;2832
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;978,9032279
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;24909
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1313;Suriname;8,917134667
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;8107
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);220,9467812
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;3,963170963
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;31,70536771
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;5,944756445
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;3590
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;1,981585482
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;4,953963704
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;65,39232089
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;362,6301431
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;184,2874498
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;7253
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1420;Saint Kitts y Nevis;1,981585482
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1421;San Vicente y las Granadinas;3,963170963
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1422;Santa Lucía;2,972378222
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;2,972378222
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;49,53963704
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;27,74219674
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;29,72378222
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2104;Islandia;2,972378222
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;98,08848134
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;1340
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;15,85268385
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;236,7994651
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2203;Belarús;0,990792741
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2204;Bulgaria;7,926341926
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;22,78823304
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2209;Hungría;1,981585482
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;20,80664756
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;21,7974403
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2217;Rumania;3,963170963
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;3,963170963
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;1137
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;46,56725882
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;79,26341926
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;2428
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2306;Luxemburgo;2,972378222
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;852,0817571
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;271,477211
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;1,981585482
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2402;Andorra;0,990792741
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2403;Bosnia y Herzegovina;1,981585482
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2404;Chipre;0,990792741
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;9,907927408
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2407;España;8611
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;36,65933141
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;262,5600763
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;2248
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2413;Malta;0,990792741
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;79,26341926
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2418;Serbia;5,944756445
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;2419;Turquía;50,53042978
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3101;China;247,6981852
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);56,47518623
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);72,32787008
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;570,6966187
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3107;Mongolia;2,972378222
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;15,85268385
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3202;Camboya;0,990792741
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;5,944756445
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;18,82506208
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;7,926341926
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;54,49360074
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;217,974403
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;32,69616045
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3301;Afganistán;4,953963704
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3304;India;220,9467812
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3305;Irán (República Islámica del);1,981585482
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3307;Nepal;4,953963704
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3308;Pakistán;12,88030563
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3309;Sri Lanka;3,963170963
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;3337
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3502;Estado de Kosrae;1,981585482
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3503;Fiji;4,953963704
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;700,4904678
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3517;Papua Nueva Guinea;2,972378222
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3522;Tonga;1,981585482
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;3524;Vanuatu;0,990792741
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;4101;Arabia Saudita;5,944756445
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;4102;Bahrein;1,981585482
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;74,30945556
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;94,12531038
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;4106;Iraq;4,953963704
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;19,81585482
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;4108;Kuwait;2,972378222
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;2,972378222
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;4112;Qatar;6,935549186
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;41,61329511
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5105;Túnez;0,990792741
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5201;Angola;0,990792741
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5202;Benin;0,990792741
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5214;Etiopía;1,981585482
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;1,981585482
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5221;Kenya;16,84347659
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5224;Madagascar;0,990792741
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5230;Mozambique;1,981585482
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5231;Namibia;1,981585482
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5233;Nigeria;4,953963704
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5234;República Centroafricana;2,972378222
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5238;Senegal;0,990792741
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5240;Sierra Leona;2,972378222
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;343,8050811
+2019;2;1310100;Aeropuerto Arturo Merino Benítez;5244;Tanzanía (República Unida de);6,935549186
+2019;2;1320002;Paso Portillo de Piuquenes;1301;Argentina;8
+2019;2;1420100;Paso Huahum;1301;Argentina;9007
+2019;2;1420200;Paso Carirriñe;1301;Argentina;561
+2019;2;1510100;Aeropuerto Chacalluta;1312;Perú;12
+2019;2;1520100;Paso Concordia;1312;Perú;166397
+2019;2;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);2280
+2019;2;1520300;Paso Concordia (Ferroviario);1312;Perú;919
+2019;2;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;350
+2019;2;9910000;Aeródromos No Identificados;1301;Argentina;1676
+2019;2;9910000;Aeródromos No Identificados;1302;Bolivia (Estado Plurinacional de);561,2970413
+2019;2;9910000;Aeródromos No Identificados;9800;Otros países del Mundo;130,4312823
+2019;3;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);196
+2019;3;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);1981
+2019;3;210100;Aeropuerto Andrés Sabella;1301;Argentina;740
+2019;3;220100;Paso Jama;1301;Argentina;731
+2019;3;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;705
+2019;3;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1301;Argentina;1158
+2019;3;220400;Paso Sico;1301;Argentina;8
+2019;3;230002;Puerto Angamos;9800;Otros países del Mundo;42
+2019;3;230004;Puerto Mejillones;9800;Otros países del Mundo;54
+2019;3;320100;Paso San Francisco;1301;Argentina;90
+2019;3;320200;Paso Pircas Negras;1301;Argentina;22
+2019;3;330002;Puerto Chañaral;1301;Argentina;25
+2019;3;420100;Paso Agua Negra;1301;Argentina;435
+2019;3;430001;Puerto de Coquimbo;9800;Otros países del Mundo;215
+2019;3;510100;Aeropuerto Mataveri;1301;Argentina;147
+2019;3;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;20627
+2019;3;530001;Puerto de Valparaíso;9800;Otros países del Mundo;26
+2019;3;530002;Puerto de San Antonio;9800;Otros países del Mundo;25
+2019;3;530005;Puerto de Hanga Roa;1301;Argentina;53
+2019;3;620001;Paso Las Damas;1301;Argentina;119
+2019;3;720100;Paso Pehuenche;1301;Argentina;1463
+2019;3;820003;Paso Pichachén;1301;Argentina;404
+2019;3;830002;Puerto San Vicente;9800;Otros países del Mundo;89
+2019;3;920100;Paso Mamuil Malal;1301;Argentina;6215
+2019;3;920200;Paso Pino Hachado (Liucura);1301;Argentina;8882
+2019;3;920300;Paso Icalma;1301;Argentina;1640
+2019;3;1010100;Aeropuerto El Tepual;1301;Argentina;1
+2019;3;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;16717
+2019;3;1020200;Paso Futaleufú;1301;Argentina;2715
+2019;3;1020300;Paso Río Encuentro;1301;Argentina;737
+2019;3;1020400;Paso Pérez Rosales;1301;Argentina;424
+2019;3;1110032;Aeródromo Teniente Vidal;1301;Argentina;16
+2019;3;1120100;Paso Río Jeinemeni;1301;Argentina;4643
+2019;3;1120200;Paso Huemules;1301;Argentina;1378
+2019;3;1120300;Paso Coyhaique;1301;Argentina;717
+2019;3;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;69
+2019;3;1219914;Aeródromo Tte. Julio Gallardo;1301;Argentina;3
+2019;3;1220200;Paso Dorotea;1301;Argentina;6786
+2019;3;1220300;Paso Río Don Guillermo;1301;Argentina;2866
+2019;3;1220400;Paso San Sebastián;1301;Argentina;2238
+2019;3;1220500;Paso Laurita-Casas Viejas;1301;Argentina;1075
+2019;3;1229904;Paso Río Bellavista (Ex Radman);1301;Argentina;52
+2019;3;1230003;Puerto Navarino;1301;Argentina;475
+2019;3;1230004;Puerto Punta Arenas;1301;Argentina;42
+2019;3;1230005;Puerto Williams;1301;Argentina;138
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;1694
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;23965
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1103;México;8418
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;2,849311012
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;870,9393992
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;75,03185664
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;183,3056751
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;48,4382872
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;13,29678472
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;2248
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;26592
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);1224
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;28106
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;9934
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;1774
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1309;Guyana Francesa;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;896,5831983
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;21950
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1313;Suriname;4,748851686
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;3882
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);211,7987852
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;1,899540674
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;20,89494742
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;8,547933035
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;3422
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;10,44747371
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;1,899540674
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;37,04104315
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;169,05912
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;147,2144023
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;4515
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1421;San Vicente y las Granadinas;1,899540674
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1422;Santa Lucía;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;7,598162698
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;98,77611507
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;34,19173214
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;162,4107277
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2104;Islandia;12,34701438
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;132,9678472
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;1291
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;316,2735223
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2201;Armenia;1,899540674
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2202;Azerbaiyán;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2204;Bulgaria;9,497703372
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2205;Eslovaquia;2,849311012
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2206;Estonia;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;41,78989484
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2208;Georgia;3,799081349
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2209;Hungría;10,44747371
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2210;Kazajstán;1,899540674
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2212;Letonia;4,748851686
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;34,19173214
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;5,698622023
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2217;Rumania;1,899540674
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;4,748851686
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;1522
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;80,73047866
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;131,0683065
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;2067
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2306;Luxemburgo;1,899540674
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;8,547933035
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;721,8254563
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;286,8306418
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;3,799081349
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2402;Andorra;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2403;Bosnia y Herzegovina;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2404;Chipre;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;28,49311012
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2406;Eslovenia;4,748851686
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2407;España;7481
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;51,28759821
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;177,6070531
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;1782
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2413;Malta;10,44747371
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2414;Montenegro;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;113,9724405
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2418;Serbia;2,849311012
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;2419;Turquía;92,12772271
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3101;China;409,3510153
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);71,23277529
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);103,5249668
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;428,3464221
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3107;Mongolia;1,899540674
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;17,09586607
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;15,1963254
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;17,09586607
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;17,09586607
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;34,19173214
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;189,0042971
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;17,09586607
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3301;Afganistán;2,849311012
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3304;India;179,5065937
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3306;Maldivas;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3307;Nepal;7,598162698
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3308;Pakistán;9,497703372
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3309;Sri Lanka;3,799081349
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;3388
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3509;Islas Marshall;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;788,3093799
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;4101;Arabia Saudita;13,29678472
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;4102;Bahrein;1,899540674
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;60,78530158
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;396,0542306
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;4106;Iraq;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;9,497703372
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;1,899540674
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;4112;Qatar;10,44747371
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5101;Argelia;2,849311012
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;28,49311012
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5105;Túnez;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5202;Benin;1,899540674
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5206;Cabo Verde;1,899540674
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5210;Congo (República Democrática del);0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5211;Côte d'Ivoire;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5216;Gambia;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5218;Guinea;1,899540674
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;4,748851686
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5221;Kenya;10,44747371
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5226;Malí;1,899540674
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5227;Mauricio;1,899540674
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5228;Mauritania;2,849311012
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5230;Mozambique;3,799081349
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5234;República Centroafricana;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5237;Santo Tomé y Príncipe;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5238;Senegal;0,949770337
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;105,4245074
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5244;Tanzanía (República Unida de);2,849311012
+2019;3;1310100;Aeropuerto Arturo Merino Benítez;5247;Zambia;0,949770337
+2019;3;1420100;Paso Huahum;1301;Argentina;1779
+2019;3;1420200;Paso Carirriñe;1301;Argentina;87
+2019;3;1510100;Aeropuerto Chacalluta;1312;Perú;13
+2019;3;1520100;Paso Concordia;1312;Perú;134221
+2019;3;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);1944
+2019;3;1520300;Paso Concordia (Ferroviario);1312;Perú;1382
+2019;3;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;660
+2019;3;1530001;Puerto de Arica;9800;Otros países del Mundo;2
+2019;4;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);152
+2019;4;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);1766
+2019;4;130002;Caleta Patillos;9800;Otros países del Mundo;23
+2019;4;210100;Aeropuerto Andrés Sabella;1301;Argentina;614
+2019;4;220100;Paso Jama;1301;Argentina;594
+2019;4;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;398
+2019;4;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1301;Argentina;848
+2019;4;220500;Paso Socompa (Ferroviario y carretero);1301;Argentina;2
+2019;4;230002;Puerto Angamos;9800;Otros países del Mundo;84
+2019;4;230004;Puerto Mejillones;9800;Otros países del Mundo;22
+2019;4;320100;Paso San Francisco;1301;Argentina;115
+2019;4;420100;Paso Agua Negra;1301;Argentina;395
+2019;4;430001;Puerto de Coquimbo;9800;Otros países del Mundo;14
+2019;4;510100;Aeropuerto Mataveri;1301;Argentina;213
+2019;4;519919;Aeródromo Viña del Mar;1301;Argentina;9
+2019;4;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;20419
+2019;4;530001;Puerto de Valparaíso;9800;Otros países del Mundo;14
+2019;4;530002;Puerto de San Antonio;9800;Otros países del Mundo;48
+2019;4;530005;Puerto de Hanga Roa;1301;Argentina;5
+2019;4;720100;Paso Pehuenche;1301;Argentina;1446
+2019;4;820003;Paso Pichachén;1301;Argentina;96
+2019;4;910017;Aeródromo Maquehue;1301;Argentina;5
+2019;4;920100;Paso Mamuil Malal;1301;Argentina;5793
+2019;4;920200;Paso Pino Hachado (Liucura);1301;Argentina;8991
+2019;4;920300;Paso Icalma;1301;Argentina;1474
+2019;4;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;16425
+2019;4;1020200;Paso Futaleufú;1301;Argentina;2132
+2019;4;1020300;Paso Río Encuentro;1301;Argentina;567
+2019;4;1020400;Paso Pérez Rosales;1301;Argentina;400
+2019;4;1030009;Muelle Fiscal (Puerto Puerto Montt);1301;Argentina;20
+2019;4;1120100;Paso Río Jeinemeni;1301;Argentina;3551
+2019;4;1120200;Paso Huemules;1301;Argentina;1452
+2019;4;1120300;Paso Coyhaique;1301;Argentina;647
+2019;4;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;56
+2019;4;1219914;Aeródromo Tte. Julio Gallardo;1301;Argentina;8
+2019;4;1220200;Paso Dorotea;1301;Argentina;6088
+2019;4;1220300;Paso Río Don Guillermo;1301;Argentina;1251
+2019;4;1220400;Paso San Sebastián;1301;Argentina;2039
+2019;4;1220500;Paso Laurita-Casas Viejas;1301;Argentina;1306
+2019;4;1229904;Paso Río Bellavista (Ex Radman);1301;Argentina;19
+2019;4;1230003;Puerto Navarino;1301;Argentina;96
+2019;4;1230004;Puerto Punta Arenas;1301;Argentina;2
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;1800
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;30866
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1103;México;9525
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;4,193765
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;515,833095
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;65,0033575
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;155,169305
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;41,93765
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;46,131415
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;3072
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;24774
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);1453
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;22460
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;10979
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;2190
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1309;Guyana Francesa;2,0968825
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;992,8738637
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;21732
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1313;Suriname;3,14532375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;2893
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);130,006715
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;3,14532375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;7,33908875
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;2562
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;6,2906475
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;16,77506
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;185,5741012
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;67,10024
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;5789
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1420;Saint Kitts y Nevis;2,0968825
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1421;San Vicente y las Granadinas;3,14532375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1422;Santa Lucía;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;5,24220625
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;70,24556375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;28,30791375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;53,47050375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2104;Islandia;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;61,85803375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;1780
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;11,53285375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;225,4148687
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2201;Armenia;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2204;Bulgaria;5,24220625
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2205;Eslovaquia;2,0968825
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2206;Estonia;2,0968825
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;71,294005
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2208;Georgia;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2209;Hungría;18,8719425
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2210;Kazajstán;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;20,968825
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;19,92038375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2217;Rumania;5,24220625
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2218;Tayikistán;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;3,14532375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;1250
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;58,71271
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;146,781775
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;3053
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2306;Luxemburgo;3,14532375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2307;Mónaco;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;1032
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;256,8681062
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;7,33908875
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2403;Bosnia y Herzegovina;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;15,72661875
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2406;Eslovenia;2,0968825
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2407;España;9276
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;68,14868125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;116,3769787
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;2401
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2413;Malta;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;80,72997625
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2416;San Marino;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2418;Serbia;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;2419;Turquía;120,5707437
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3101;China;853,4311775
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);55,56738625
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);296,7088737
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;397,3592337
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3107;Mongolia;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;13,62973625
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;16,77506
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;31,4532375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;13,62973625
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;56,6158275
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;137,3458037
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;7,33908875
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3301;Afganistán;7,33908875
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3302;Bangladesh;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3304;India;74,43932875
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3305;Irán (República Islámica del);3,14532375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3306;Maldivas;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3307;Nepal;3,14532375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3308;Pakistán;2,0968825
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3309;Sri Lanka;6,2906475
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;3066
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;542,0441262
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;3524;Vanuatu;3,14532375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;4101;Arabia Saudita;11,53285375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;4102;Bahrein;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;52,4220625
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;61,85803375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;4106;Iraq;6,2906475
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;3,14532375
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;4108;Kuwait;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;6,2906475
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;4112;Qatar;8,38753
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;41,93765
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5104;Sudán;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5105;Túnez;14,6781775
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5208;Chad;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5209;Comoras;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5210;Congo (República Democrática del);2,0968825
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5211;Côte d'Ivoire;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5216;Gambia;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5217;Ghana;2,0968825
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5218;Guinea;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;2,0968825
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5221;Kenya;6,2906475
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5223;Liberia;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5226;Malí;1,04844125
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5228;Mauritania;2,0968825
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;163,556835
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5244;Tanzanía (República Unida de);2,0968825
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5246;Uganda;5,24220625
+2019;4;1310100;Aeropuerto Arturo Merino Benítez;5247;Zambia;2,0968825
+2019;4;1420100;Paso Huahum;1301;Argentina;1092
+2019;4;1420200;Paso Carirriñe;1301;Argentina;64
+2019;4;1510100;Aeropuerto Chacalluta;1312;Perú;8
+2019;4;1520100;Paso Concordia;1312;Perú;114511
+2019;4;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);1788
+2019;4;1520300;Paso Concordia (Ferroviario);1312;Perú;936
+2019;4;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;462
+2019;5;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);202
+2019;5;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);1684
+2019;5;130002;Caleta Patillos;9800;Otros países del Mundo;21
+2019;5;210100;Aeropuerto Andrés Sabella;1301;Argentina;790
+2019;5;220100;Paso Jama;1301;Argentina;663
+2019;5;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;262
+2019;5;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1301;Argentina;712
+2019;5;220500;Paso Socompa (Ferroviario y carretero);1301;Argentina;2
+2019;5;230002;Puerto Angamos;9800;Otros países del Mundo;22
+2019;5;230004;Puerto Mejillones;9800;Otros países del Mundo;23
+2019;5;320100;Paso San Francisco;1301;Argentina;25
+2019;5;510100;Aeropuerto Mataveri;1301;Argentina;205
+2019;5;519919;Aeródromo Viña del Mar;1301;Argentina;4
+2019;5;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;13364
+2019;5;530001;Puerto de Valparaíso;9800;Otros países del Mundo;14
+2019;5;530002;Puerto de San Antonio;9800;Otros países del Mundo;25
+2019;5;530005;Puerto de Hanga Roa;1301;Argentina;5
+2019;5;720100;Paso Pehuenche;1301;Argentina;668
+2019;5;810001;Aeródromo Carriel Sur;1301;Argentina;2
+2019;5;830002;Puerto San Vicente;9800;Otros países del Mundo;25
+2019;5;920100;Paso Mamuil Malal;1301;Argentina;5129
+2019;5;920200;Paso Pino Hachado (Liucura);1301;Argentina;7442
+2019;5;920300;Paso Icalma;1301;Argentina;1247
+2019;5;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;10135
+2019;5;1020200;Paso Futaleufú;1301;Argentina;2072
+2019;5;1020300;Paso Río Encuentro;1301;Argentina;690
+2019;5;1020400;Paso Pérez Rosales;1301;Argentina;316
+2019;5;1020500;Paso Río Manso;1301;Argentina;18
+2019;5;1120100;Paso Río Jeinemeni;1301;Argentina;3173
+2019;5;1120200;Paso Huemules;1301;Argentina;1162
+2019;5;1120300;Paso Coyhaique;1301;Argentina;620
+2019;5;1120400;Paso Triana;1301;Argentina;4
+2019;5;1120600;Paso Roballos;1301;Argentina;4
+2019;5;1120900;Paso Río Frías-Appeleg;1301;Argentina;1
+2019;5;1121100;Paso Las Pampas-Lago Verde;1301;Argentina;2
+2019;5;1210100;Aeropuerto Pdte. Carlos Ibáñez del Campo;1301;Argentina;2
+2019;5;1220100;Paso Integración Austral;1301;Argentina;915
+2019;5;1220200;Paso Dorotea;1301;Argentina;5170
+2019;5;1220300;Paso Río Don Guillermo;1301;Argentina;581
+2019;5;1220400;Paso San Sebastián;1301;Argentina;1490
+2019;5;1220500;Paso Laurita-Casas Viejas;1301;Argentina;997
+2019;5;1230003;Puerto Navarino;1301;Argentina;7
+2019;5;1230005;Puerto Williams;1301;Argentina;45
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;2051
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;38570
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1103;México;13221
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;4,633956811
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;668,4482699
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;60,24143854
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;212,0035241
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;67,19237375
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;27,80374086
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;3847
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;27202
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);2433
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;24534
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;12821
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;1945
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1309;Guyana Francesa;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;1322
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;25656
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1313;Suriname;8,109424418
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;4123
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);164,5054668
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;28,96223007
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;3,475467608
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;3855
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;30,12071927
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;5,792446013
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;16,21884884
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;286,1468331
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;107,7394958
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;8159
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1420;Saint Kitts y Nevis;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;5,792446013
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;163,3469776
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;55,60748173
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;67,19237375
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2104;Islandia;2,316978405
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;94,99611462
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;2695
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;11,58489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;340,5958256
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2201;Armenia;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2204;Bulgaria;8,109424418
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2205;Eslovaquia;4,633956811
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2206;Estonia;6,950935216
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;130,9092799
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2209;Hungría;50,97352492
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2210;Kazajstán;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2212;Letonia;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;34,75467608
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;52,13201412
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2217;Rumania;9,267913621
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2218;Tayikistán;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;45,1810789
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;1705
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;213,1620133
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;136,7017259
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;5050
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2306;Luxemburgo;12,74338123
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;1532
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;323,2184875
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;5,792446013
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2403;Bosnia y Herzegovina;4,633956811
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2404;Chipre;4,633956811
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;26,64525166
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2406;Eslovenia;3,475467608
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2407;España;14295
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2409;Gibraltar;4,633956811
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;127,4338123
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;212,0035241
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;4166
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2413;Malta;2,316978405
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2414;Montenegro;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;166,8224452
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2418;Serbia;4,633956811
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;2419;Turquía;143,6526611
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3101;China;459,9202134
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);77,61877658
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);152,9205747
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;384,6184153
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3107;Mongolia;3,475467608
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;10,42640282
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3202;Camboya;2,316978405
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;18,53582724
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;24,32827326
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;6,950935216
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;38,23014369
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;130,9092799
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;12,74338123
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3301;Afganistán;4,633956811
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3302;Bangladesh;2,316978405
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3304;India;55,60748173
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3305;Irán (República Islámica del);1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3307;Nepal;2,316978405
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3308;Pakistán;2,316978405
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3309;Sri Lanka;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;2783
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3503;Fiji;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;547,9653928
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3517;Papua Nueva Guinea;4,633956811
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;3522;Tonga;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;4101;Arabia Saudita;4,633956811
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;30,12071927
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;50,97352492
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;4106;Iraq;4,633956811
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;6,950935216
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;4108;Kuwait;3,475467608
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;4111;Omán;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;4112;Qatar;4,633956811
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;4113;República Árabe Siria;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5101;Argelia;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;31,27920847
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5105;Túnez;2,316978405
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5201;Angola;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5202;Benin;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5206;Cabo Verde;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5214;Etiopía;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5215;Gabón;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5217;Ghana;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5218;Guinea;3,475467608
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;5,792446013
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5221;Kenya;5,792446013
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5225;Malawi;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5226;Malí;2,316978405
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5230;Mozambique;4,633956811
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5231;Namibia;1,158489203
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5233;Nigeria;2,316978405
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;148,2866179
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5244;Tanzanía (República Unida de);2,316978405
+2019;5;1310100;Aeropuerto Arturo Merino Benítez;5247;Zambia;1,158489203
+2019;5;1420100;Paso Huahum;1301;Argentina;773
+2019;5;1520100;Paso Concordia;1312;Perú;121753
+2019;5;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);727
+2019;5;1520300;Paso Concordia (Ferroviario);1312;Perú;876
+2019;5;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;403
+2019;6;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);153
+2019;6;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);1571
+2019;6;120200;Paso Apacheta de Irpa o Cancosa;1302;Bolivia (Estado Plurinacional de);1
+2019;6;210100;Aeropuerto Andrés Sabella;1301;Argentina;770
+2019;6;220100;Paso Jama;1301;Argentina;463
+2019;6;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;142
+2019;6;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1301;Argentina;738
+2019;6;320100;Paso San Francisco;1301;Argentina;10
+2019;6;510100;Aeropuerto Mataveri;1301;Argentina;209
+2019;6;519919;Aeródromo Viña del Mar;1301;Argentina;5
+2019;6;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;3233
+2019;6;529901;Paso de Valle Hermoso;1301;Argentina;1
+2019;6;530001;Puerto de Valparaíso;9800;Otros países del Mundo;290
+2019;6;530002;Puerto de San Antonio;9800;Otros países del Mundo;76
+2019;6;810001;Aeródromo Carriel Sur;1301;Argentina;3
+2019;6;920100;Paso Mamuil Malal;1301;Argentina;3890
+2019;6;920200;Paso Pino Hachado (Liucura);1301;Argentina;2174
+2019;6;920300;Paso Icalma;1301;Argentina;722
+2019;6;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;8079
+2019;6;1020200;Paso Futaleufú;1301;Argentina;1729
+2019;6;1020300;Paso Río Encuentro;1301;Argentina;543
+2019;6;1020400;Paso Pérez Rosales;1301;Argentina;197
+2019;6;1120100;Paso Río Jeinemeni;1301;Argentina;2739
+2019;6;1120100;Paso Río Jeinemeni;1301;Argentina;48
+2019;6;1120200;Paso Huemules;1301;Argentina;715
+2019;6;1120300;Paso Coyhaique;1301;Argentina;314
+2019;6;1120400;Paso Triana;1301;Argentina;2
+2019;6;1120500;Paso Pampa Alta (Puesto Viejo);1301;Argentina;11
+2019;6;1121100;Paso Las Pampas-Lago Verde;1301;Argentina;2
+2019;6;1220100;Paso Integración Austral;1301;Argentina;869
+2019;6;1220200;Paso Dorotea;1301;Argentina;2547
+2019;6;1220300;Paso Río Don Guillermo;1301;Argentina;242
+2019;6;1220400;Paso San Sebastián;1301;Argentina;1036
+2019;6;1220500;Paso Laurita-Casas Viejas;1301;Argentina;1939
+2019;6;1230005;Puerto Williams;1301;Argentina;3
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;2344
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;23,37424269
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;31461
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1103;México;11156
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;635,5567892
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;56,76601795
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;153,6021662
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;48,97460372
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;11,13059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;3688
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;23055
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);1763
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;18515
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;10547
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;4,452236702
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;1941
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1309;Guyana Francesa;2,226118351
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1309;Guyana Francesa;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;1109
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;24310
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1313;Suriname;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;2494
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);169,1849947
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;4,452236702
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1403;Aruba;537,6075818
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;24,48730186
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;4,452236702
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;3450
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1409;Curaçao;12,24365093
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;8,904473404
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;17,80894681
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1413;Islas Caimán;4,452236702
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;312,7696283
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;103,5145033
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;7218
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1420;Saint Kitts y Nevis;2,226118351
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;5,565295878
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;144,6976928
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;55,65295878
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;74,57496476
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2104;Islandia;7,791414229
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;155,8282846
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;2601
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;460,8064987
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2201;Armenia;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2202;Azerbaiyán;5,565295878
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2204;Bulgaria;8,904473404
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2205;Eslovaquia;2,226118351
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2206;Estonia;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;218,1595984
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2209;Hungría;18,92200598
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2212;Letonia;5,565295878
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2213;Lituania;3,339177527
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;72,34884641
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;51,20072208
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2217;Rumania;10,01753258
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;14,46976928
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;1752
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;120,210391
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;227,0640718
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;5059
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2306;Luxemburgo;7,791414229
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;1154
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;366,1964688
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;10,01753258
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2402;Andorra;3,339177527
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2403;Bosnia y Herzegovina;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;48,97460372
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2406;Eslovenia;5,565295878
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2407;España;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2407;España;13812
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;116,8712134
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;104,6275625
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;3526
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2413;Malta;15,58282846
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;149,1499295
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2418;Serbia;11,13059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;2419;Turquía;97,94920745
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3101;China;371,7617646
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);50,0876629
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3103;Corea (República Popular Democrática de);1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);64,55743218
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;320,5610426
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;15,58282846
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3202;Camboya;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;12,24365093
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;17,80894681
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;7,791414229
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;40,07013032
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;84,59249734
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3210;Viet Nam;13,35671011
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3301;Afganistán;2,226118351
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3304;India;51,20072208
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3305;Irán (República Islámica del);2,226118351
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3307;Nepal;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3308;Pakistán;2,226118351
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3309;Sri Lanka;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;2320
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3503;Fiji;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3506;Islas Cook;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;683,4183338
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;3524;Vanuatu;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;4101;Arabia Saudita;4,452236702
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;4102;Bahrein;2,226118351
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;27,82647939
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;34,50483444
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;4106;Iraq;6,678355053
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;5,565295878
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;11,13059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;4112;Qatar;4,452236702
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5101;Argelia;2,226118351
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;26,71342021
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5104;Sudán;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5105;Túnez;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5201;Angola;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5202;Benin;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;2,226118351
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5221;Kenya;11,13059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5223;Liberia;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5227;Mauricio;2,226118351
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5231;Namibia;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5233;Nigeria;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5234;República Centroafricana;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5237;Santo Tomé y Príncipe;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5238;Senegal;1,113059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;111,3059176
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5244;Tanzanía (República Unida de);2,226118351
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5246;Uganda;3,339177527
+2019;6;1310100;Aeropuerto Arturo Merino Benítez;5248;Zimbabwe;1,113059176
+2019;6;1420100;Paso Huahum;1301;Argentina;312
+2019;6;1510100;Aeropuerto Chacalluta;1312;Perú;5
+2019;6;1520100;Paso Concordia;1312;Perú;113419
+2019;6;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);400
+2019;6;1520300;Paso Concordia (Ferroviario);1312;Perú;963
+2019;6;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;498
+2019;7;110100;Aeropuerto Diego Aracena;1302;Bolivia (Estado Plurinacional de);239
+2019;7;120100;Paso Colchane-Pisiga;1302;Bolivia (Estado Plurinacional de);3138
+2019;7;130002;Caleta Patillos;9800;Otros países del Mundo;17
+2019;7;210100;Aeropuerto Andrés Sabella;1301;Argentina;749
+2019;7;219904;Aeródromo El Loa;1301;Argentina;498
+2019;7;220100;Paso Jama;1301;Argentina;620
+2019;7;220200;Paso Portezuelo del Cajón (Hito Cajón);1301;Argentina;567
+2019;7;220300;Paso Salar de Ollagüe (Ferroviario y carretero);1301;Argentina;1441
+2019;7;230002;Puerto Angamos;9800;Otros países del Mundo;38
+2019;7;230004;Puerto Mejillones;9800;Otros países del Mundo;45
+2019;7;320100;Paso San Francisco;1301;Argentina;100
+2019;7;410010;Aeródromo La Florida;1301;Argentina;5
+2019;7;510100;Aeropuerto Mataveri;1301;Argentina;474
+2019;7;520100;Paso Sistema Cristo Redentor (Túnel carretero);1301;Argentina;7474
+2019;7;530001;Puerto de Valparaíso;9800;Otros países del Mundo;37
+2019;7;720100;Paso Pehuenche;1301;Argentina;337
+2019;7;920100;Paso Mamuil Malal;1301;Argentina;7235
+2019;7;920200;Paso Pino Hachado (Liucura);1301;Argentina;4624
+2019;7;920300;Paso Icalma;1301;Argentina;852
+2019;7;1010100;Aeropuerto El Tepual;1301;Argentina;2
+2019;7;1019905;Aeródromo Cañal Bajo-Carlos Hott S.;1301;Argentina;14
+2019;7;1020100;Paso Cardenal Antonio Samoré (Portezuelo de Puyehue);1301;Argentina;10545
+2019;7;1020200;Paso Futaleufú;1301;Argentina;2078
+2019;7;1020300;Paso Río Encuentro;1301;Argentina;610
+2019;7;1020400;Paso Pérez Rosales;1301;Argentina;275
+2019;7;1120100;Paso Río Jeinemeni;1301;Argentina;3719
+2019;7;1120200;Paso Huemules;1301;Argentina;1005
+2019;7;1120300;Paso Coyhaique;1301;Argentina;598
+2019;7;1120500;Paso Pampa Alta (Puesto Viejo);1301;Argentina;37
+2019;7;1219907;Aeródromo Guardiamarina Zañartu;1301;Argentina;1
+2019;7;1220100;Paso Integración Austral;1301;Argentina;1232
+2019;7;1220200;Paso Dorotea;1301;Argentina;5175
+2019;7;1220300;Paso Río Don Guillermo;1301;Argentina;313
+2019;7;1220400;Paso San Sebastián;1301;Argentina;1003
+2019;7;1220500;Paso Laurita-Casas Viejas;1301;Argentina;1004
+2019;7;1230005;Puerto Williams;1301;Argentina;2
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1101;Canadá;2903
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1102;Estados Unidos de América;40114
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1103;México;13664
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1201;Belice;11,57124116
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1202;Costa Rica;841,5448119
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1203;El Salvador;55,75234379
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1204;Guatemala;194,6072378
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1205;Honduras;37,86951654
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1206;Nicaragua;9,467379134
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1207;Panamá;4167
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1301;Argentina;29741
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1302;Bolivia (Estado Plurinacional de);1958
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1303;Brasil;27618
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1305;Colombia;11986
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1306;Ecuador;2425
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1309;Guyana Francesa;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1311;Paraguay;1227
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1312;Perú;31151
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1313;Suriname;6,31158609
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1314;Uruguay;3120
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1315;Venezuela (República Bolivariana de);180,9321346
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1402;Antigua y Barbuda;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1404;Bahamas;31,55793045
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1405;Barbados;3,155793045
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1408;Cuba;3468
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1410;Dominica;9,467379134
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1411;Granada;2,10386203
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1412;Haití;10,51931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1416;Jamaica;372,3835793
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1418;Puerto Rico;89,41413627
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1419;República Dominicana;8383
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1421;San Vicente y las Granadinas;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1422;Santa Lucía;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;1423;Trinidad y Tabago;6,31158609
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2101;Dinamarca;126,2317218
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2102;Finlandia;46,28496466
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2103;Irlanda;78,89482612
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2104;Islandia;19,98668928
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2106;Noruega;102,0373084
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2107;Reino Unido;2967
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2108;Suecia;421,824337
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2203;Belarús;3,155793045
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2204;Bulgaria;10,51931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2205;Eslovaquia;7,363517105
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2206;Estonia;3,155793045
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2207;Federación de Rusia;171,4647554
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2208;Georgia;2,10386203
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2209;Hungría;15,77896522
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2213;Lituania;3,155793045
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2214;Moldova (República de) ;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2215;Polonia;34,71372349
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2216;República Checa;46,28496466
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2217;Rumania;10,51931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2219;Turkmenistán;9,467379134
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2220;Ucrania;12,62317218
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2221;Uzbekistán;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2301;Alemania;1836
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2302;Austria;125,1797908
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2303;Bélgica;323,9947526
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2304;Francia;4866
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2306;Luxemburgo;11,57124116
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2308;Países Bajos;1109
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2309;Suiza;419,720475
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2401;Albania;2,10386203
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2402;Andorra;2,10386203
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2403;Bosnia y Herzegovina;3,155793045
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2405;Croacia;80,99868815
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2406;Eslovenia;4,20772406
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2407;España;13071
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2410;Grecia;98,8815154
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2411;Israel;102,0373084
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2412;Italia;3686
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2413;Malta;2,10386203
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2415;Portugal;97,82958439
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2416;San Marino;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2418;Serbia;2,10386203
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;2419;Turquía;134,6471699
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3101;China;350,293028
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3102;Corea (República de);39,97337857
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3104;Hong Kong (China);48,38882669
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3105;Japón;231,4248233
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3107;Mongolia;2,10386203
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3108;Provincia china de Taiwán;15,77896522
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3203;Filipinas;10,51931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3204;Indonesia;25,24634436
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3205;Malasia;13,67510319
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3208;Singapur;30,50599943
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3209;Tailandia;98,8815154
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3301;Afganistán;4,20772406
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3303;Bhután;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3304;India;65,21972293
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3305;Irán (República Islámica del);4,20772406
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3307;Nepal;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3308;Pakistán;3,155793045
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3309;Sri Lanka;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3501;Australia;2621
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3503;Fiji;4,20772406
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3514;Nueva Caledonia;3,155793045
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3515;Nueva Zelandia;559,6272999
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;3522;Tonga;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;4101;Arabia Saudita;12,62317218
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;4103;Egipto;33,66179248
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;4104;Emiratos Árabes Unidos;580,6659202
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;4106;Iraq;4,20772406
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;4107;Jordania;8,415448119
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;4108;Kuwait;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;4109;Líbano;11,57124116
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;4111;Omán;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;4112;Qatar;5,259655075
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5101;Argelia;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5102;Marruecos;5,259655075
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5104;Sudán;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5201;Angola;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5202;Benin;3,155793045
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5214;Etiopía;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5220;Guinea-Bissau;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5221;Kenya;10,51931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5223;Liberia;6,31158609
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5224;Madagascar;3,155793045
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5228;Mauritania;1,051931015
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5230;Mozambique;4,20772406
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5234;República Centroafricana;3,155793045
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5242;Sudáfrica;187,2437207
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5244;Tanzanía (República Unida de);16,83089624
+2019;7;1310100;Aeropuerto Arturo Merino Benítez;5246;Uganda;3,155793045
+2019;7;1420100;Paso Huahum;1301;Argentina;1344
+2019;7;1520100;Paso Concordia;1312;Perú;158491
+2019;7;1520200;Paso Chungará-Tambo Quemado;1302;Bolivia (Estado Plurinacional de);2153
+2019;7;1520300;Paso Concordia (Ferroviario);1312;Perú;1353
+2019;7;1520400;Paso Visviri (Ferroviario y carretero);1312;Perú;460

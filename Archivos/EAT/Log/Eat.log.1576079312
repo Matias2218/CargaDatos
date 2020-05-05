@@ -1,0 +1,16 @@
+11/12/2019 12:48:57.674 I Inicio
+11/12/2019 12:48:57.674 I Validar Formato Archivo --> EAT_202001_202001.csv
+11/12/2019 12:48:57.674 I Validar Formato Archivo --> OK (202001 - 202001)
+11/12/2019 12:48:59.237 I Eliminar Registros --> OK (5)
+11/12/2019 12:48:59.253 I Insertar Carga --> OK
+11/12/2019 12:48:59.253 I Insertar Registros - Inicio
+11/12/2019 12:48:59.839 I Insertar Registros --> OK en línea 1
+11/12/2019 12:49:00.090 I Insertar Registros --> OK en línea 2
+11/12/2019 12:49:00.313 I Insertar Registros --> OK en línea 3
+11/12/2019 12:49:00.532 I Insertar Registros --> OK en línea 4
+11/12/2019 12:49:00.728 I Insertar Registros --> OK en línea 5
+11/12/2019 12:49:00.728 I Insertar Registros --> OK (5) -  ERROR (0)
+11/12/2019 12:49:00.745 I Insertar Carga --> OK
+11/12/2019 12:49:00.745 I Insertar Carga Bitacora --> OK
+11/12/2019 12:49:00.745 I Insertar Registros - Fin
+11/12/2019 12:49:00.745 I Fin

@@ -1,0 +1,8 @@
+26/12/2019 14:20:15.436 I Inicio
+26/12/2019 14:20:15.436 I Validar Formato Archivo --> TIB_2016_2016.csv
+26/12/2019 14:20:15.436 I Validar Formato Archivo --> OK (2016 - 2016)
+26/12/2019 14:20:15.514 I Eliminar Registros --> OK (0)
+26/12/2019 14:20:15.545 I Insertar Carga --> OK
+26/12/2019 14:20:15.545 I Insertar Registros - Inicio
+26/12/2019 14:20:15.576 E Error
+26/12/2019 14:20:15.576 I Fin

@@ -1,0 +1,15 @@
+11/12/2019 12:50:29.972 I Inicio
+11/12/2019 12:50:29.972 I Validar Formato Archivo --> MOP-AAA_202003_202005.csv
+11/12/2019 12:50:29.972 I Validar Formato Archivo --> OK (202003 - 202005)
+11/12/2019 12:50:30.330 I Eliminar Registros --> OK (4)
+11/12/2019 12:50:30.338 I Insertar Carga --> OK
+11/12/2019 12:50:30.338 I Insertar Registros - Inicio
+11/12/2019 12:50:30.497 I Insertar Registros --> OK en línea 1
+11/12/2019 12:50:30.506 I Insertar Registros --> OK en línea 2
+11/12/2019 12:50:30.517 I Insertar Registros --> OK en línea 3
+11/12/2019 12:50:30.530 I Insertar Registros --> OK en línea 4
+11/12/2019 12:50:30.539 I Insertar Registros --> OK (4) -  ERROR (0)
+11/12/2019 12:50:30.553 I Insertar Carga --> OK
+11/12/2019 12:50:30.560 I Insertar Carga Bitacora --> OK
+11/12/2019 12:50:30.568 I Insertar Registros - Fin
+11/12/2019 12:50:30.569 I Fin

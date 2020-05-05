@@ -1,0 +1,14 @@
+11/12/2019 12:49:00.776 I Inicio
+11/12/2019 12:49:00.776 I Validar Formato Archivo --> GTCE_202001_202010.csv
+11/12/2019 12:49:00.776 I Validar Formato Archivo --> OK (202001 - 202010)
+11/12/2019 12:50:26.989 I Eliminar Registros --> OK (3)
+11/12/2019 12:50:27.004 I Insertar Carga --> OK
+11/12/2019 12:50:27.007 I Insertar Registros - Inicio
+11/12/2019 12:50:27.801 I Insertar Registros --> OK en línea 1
+11/12/2019 12:50:27.942 I Insertar Registros --> OK en línea 2
+11/12/2019 12:50:28.068 I Insertar Registros --> OK en línea 3
+11/12/2019 12:50:28.069 I Insertar Registros --> OK (3) -  ERROR (0)
+11/12/2019 12:50:28.088 I Insertar Carga --> OK
+11/12/2019 12:50:28.088 I Insertar Carga Bitacora --> OK
+11/12/2019 12:50:28.103 I Insertar Registros - Fin
+11/12/2019 12:50:28.103 I Fin

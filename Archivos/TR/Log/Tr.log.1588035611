@@ -1,0 +1,13 @@
+27/04/2020 21:01:35.382 I Inicio
+27/04/2020 21:01:35.382 I Validar Formato Archivo --> TR_201803_201803.csv
+27/04/2020 21:01:35.383 I Validar Formato Archivo --> OK (201803 - 201803)
+27/04/2020 21:01:37.305 I Eliminar Registros --> OK (1)
+27/04/2020 21:01:37.340 I Insertar Carga --> OK
+27/04/2020 21:01:37.340 I Insertar Registros - Inicio
+27/04/2020 21:02:48.627 E Insertar Registros --> ERROR en línea 2 (ERROR: relation "tr_acompañamiento_r" does not exist
+  Position: 41)
+27/04/2020 21:02:48.636 I Insertar Registros --> OK (0) -  ERROR (1)
+27/04/2020 21:02:48.694 I Insertar Carga --> OK
+27/04/2020 21:02:48.725 I Insertar Carga Bitacora --> OK
+27/04/2020 21:02:48.753 I Insertar Registros - Fin
+27/04/2020 21:02:48.756 I Fin

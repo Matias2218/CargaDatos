@@ -1,0 +1,14 @@
+11/12/2019 12:50:28.137 I Inicio
+11/12/2019 12:50:28.137 I Validar Formato Archivo --> IIT_2020_2020.csv
+11/12/2019 12:50:28.137 I Validar Formato Archivo --> OK (2020 - 2020)
+11/12/2019 12:50:28.216 I Eliminar Registros --> OK (3)
+11/12/2019 12:50:28.231 I Insertar Carga --> OK
+11/12/2019 12:50:28.231 I Insertar Registros - Inicio
+11/12/2019 12:50:28.262 I Insertar Registros --> OK en línea 1
+11/12/2019 12:50:28.262 I Insertar Registros --> OK en línea 2
+11/12/2019 12:50:28.278 I Insertar Registros --> OK en línea 3
+11/12/2019 12:50:28.278 I Insertar Registros --> OK (3) -  ERROR (0)
+11/12/2019 12:50:28.309 I Insertar Carga --> OK
+11/12/2019 12:50:28.309 I Insertar Carga Bitacora --> OK
+11/12/2019 12:50:28.325 I Insertar Registros - Fin
+11/12/2019 12:50:28.325 I Fin

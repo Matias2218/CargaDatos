@@ -1,0 +1,19 @@
+11/12/2019 12:50:28.340 I Inicio
+11/12/2019 12:50:28.340 I Validar Formato Archivo --> IPC_202001_202002.csv
+11/12/2019 12:50:28.340 I Validar Formato Archivo --> OK (202001 - 202002)
+11/12/2019 12:50:28.419 I Eliminar Registros --> OK (8)
+11/12/2019 12:50:28.434 I Insertar Carga --> OK
+11/12/2019 12:50:28.434 I Insertar Registros - Inicio
+11/12/2019 12:50:28.655 I Insertar Registros --> OK en línea 1
+11/12/2019 12:50:28.655 I Insertar Registros --> OK en línea 2
+11/12/2019 12:50:28.670 I Insertar Registros --> OK en línea 3
+11/12/2019 12:50:28.670 I Insertar Registros --> OK en línea 4
+11/12/2019 12:50:28.691 I Insertar Registros --> OK en línea 5
+11/12/2019 12:50:28.707 I Insertar Registros --> OK en línea 6
+11/12/2019 12:50:28.722 I Insertar Registros --> OK en línea 7
+11/12/2019 12:50:28.722 I Insertar Registros --> OK en línea 8
+11/12/2019 12:50:28.722 I Insertar Registros --> OK (8) -  ERROR (0)
+11/12/2019 12:50:28.769 I Insertar Carga --> OK
+11/12/2019 12:50:28.769 I Insertar Carga Bitacora --> OK
+11/12/2019 12:50:28.816 I Insertar Registros - Fin
+11/12/2019 12:50:28.816 I Fin

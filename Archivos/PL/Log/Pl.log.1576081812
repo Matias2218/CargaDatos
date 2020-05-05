@@ -1,0 +1,21 @@
+11/12/2019 13:30:49.740 I Inicio
+11/12/2019 13:30:49.741 I Validar Formato Archivo --> PL_201911_201912.csv
+11/12/2019 13:30:49.742 I Validar Formato Archivo --> OK (201911 - 201912)
+11/12/2019 13:30:49.800 I Eliminar Registros --> OK (0)
+11/12/2019 13:30:49.807 I Insertar Carga --> OK
+11/12/2019 13:30:49.807 I Insertar Registros - Inicio
+11/12/2019 13:30:49.815 I Insertar Registros --> OK en línea 1
+11/12/2019 13:30:49.819 I Insertar Registros --> OK en línea 2
+11/12/2019 13:30:49.824 I Insertar Registros --> OK en línea 3
+11/12/2019 13:30:49.830 I Insertar Registros --> OK en línea 4
+11/12/2019 13:30:49.841 I Insertar Registros --> OK en línea 5
+11/12/2019 13:30:49.847 I Insertar Registros --> OK en línea 6
+11/12/2019 13:30:49.853 I Insertar Registros --> OK en línea 7
+11/12/2019 13:30:49.858 I Insertar Registros --> OK en línea 8
+11/12/2019 13:30:49.864 I Insertar Registros --> OK en línea 9
+11/12/2019 13:30:49.870 I Insertar Registros --> OK en línea 10
+11/12/2019 13:30:49.871 I Insertar Registros --> OK (10) -  ERROR (0)
+11/12/2019 13:30:49.878 I Insertar Carga --> OK
+11/12/2019 13:30:49.882 I Insertar Carga Bitacora --> OK
+11/12/2019 13:30:49.902 I Insertar Registros - Fin
+11/12/2019 13:30:49.903 I Fin

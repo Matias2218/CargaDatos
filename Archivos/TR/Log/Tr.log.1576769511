@@ -1,0 +1,12 @@
+19/12/2019 12:33:00.601 I Inicio
+19/12/2019 12:33:00.601 I Validar Formato Archivo --> TR_201803_201803.csv
+19/12/2019 12:33:00.602 I Validar Formato Archivo --> OK (201803 - 201803)
+19/12/2019 12:33:02.654 I Eliminar Registros --> OK (1)
+19/12/2019 12:33:02.670 I Insertar Carga --> OK
+19/12/2019 12:33:02.671 I Insertar Registros - Inicio
+19/12/2019 12:33:41.014 E Insertar Registros --> ERROR en línea 2 (ResultSet not positioned properly, perhaps you need to call next.)
+19/12/2019 12:33:43.970 I Insertar Registros --> OK (0) -  ERROR (1)
+19/12/2019 12:33:43.978 I Insertar Carga --> OK
+19/12/2019 12:33:43.986 I Insertar Carga Bitacora --> OK
+19/12/2019 12:33:43.990 I Insertar Registros - Fin
+19/12/2019 12:33:43.990 I Fin

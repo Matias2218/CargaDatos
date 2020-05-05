@@ -1,0 +1,13 @@
+19/12/2019 12:25:25.834 I Inicio
+19/12/2019 12:25:25.835 I Validar Formato Archivo --> TR_201803_201803.csv
+19/12/2019 12:25:25.835 I Validar Formato Archivo --> OK (201803 - 201803)
+19/12/2019 12:25:27.808 I Eliminar Registros --> OK (1)
+19/12/2019 12:25:27.825 I Insertar Carga --> OK
+19/12/2019 12:25:27.826 I Insertar Registros - Inicio
+19/12/2019 12:27:13.921 E Insertar Registros --> ERROR en línea 2 (ERROR: duplicate key value violates unique constraint "tr_organiza_r_pkey"
+  Detail: Key (id_data_tr, id_tr_organiza)=(340562, 1) already exists.)
+19/12/2019 12:27:13.925 I Insertar Registros --> OK (0) -  ERROR (1)
+19/12/2019 12:27:13.937 I Insertar Carga --> OK
+19/12/2019 12:27:13.944 I Insertar Carga Bitacora --> OK
+19/12/2019 12:27:13.947 I Insertar Registros - Fin
+19/12/2019 12:27:13.948 I Fin

@@ -1,0 +1,16 @@
+11/12/2019 12:50:34.642 I Inicio
+11/12/2019 12:50:34.657 I Validar Formato Archivo --> TIP_2020_2020.csv
+11/12/2019 12:50:34.657 I Validar Formato Archivo --> OK (2020 - 2020)
+11/12/2019 12:50:35.125 I Eliminar Registros --> OK (5)
+11/12/2019 12:50:35.125 I Insertar Carga --> OK
+11/12/2019 12:50:35.141 I Insertar Registros - Inicio
+11/12/2019 12:50:35.798 I Insertar Registros --> OK en línea 1
+11/12/2019 12:50:35.986 I Insertar Registros --> OK en línea 2
+11/12/2019 12:50:36.156 I Insertar Registros --> OK en línea 3
+11/12/2019 12:50:36.304 I Insertar Registros --> OK en línea 4
+11/12/2019 12:50:36.492 I Insertar Registros --> OK en línea 5
+11/12/2019 12:50:36.492 I Insertar Registros --> OK (5) -  ERROR (0)
+11/12/2019 12:50:36.509 I Insertar Carga --> OK
+11/12/2019 12:50:36.509 I Insertar Carga Bitacora --> OK
+11/12/2019 12:50:36.509 I Insertar Registros - Fin
+11/12/2019 12:50:36.509 I Fin

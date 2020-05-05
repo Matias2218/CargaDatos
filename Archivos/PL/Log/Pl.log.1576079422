@@ -1,0 +1,16 @@
+11/12/2019 12:50:32.316 I Inicio
+11/12/2019 12:50:32.316 I Validar Formato Archivo --> PL_202001_202001.csv
+11/12/2019 12:50:32.316 I Validar Formato Archivo --> OK (202001 - 202001)
+11/12/2019 12:50:32.362 I Eliminar Registros --> OK (5)
+11/12/2019 12:50:32.369 I Insertar Carga --> OK
+11/12/2019 12:50:32.370 I Insertar Registros - Inicio
+11/12/2019 12:50:32.459 I Insertar Registros --> OK en línea 1
+11/12/2019 12:50:32.466 I Insertar Registros --> OK en línea 2
+11/12/2019 12:50:32.473 I Insertar Registros --> OK en línea 3
+11/12/2019 12:50:32.480 I Insertar Registros --> OK en línea 4
+11/12/2019 12:50:32.488 I Insertar Registros --> OK en línea 5
+11/12/2019 12:50:32.489 I Insertar Registros --> OK (5) -  ERROR (0)
+11/12/2019 12:50:32.532 I Insertar Carga --> OK
+11/12/2019 12:50:32.538 I Insertar Carga Bitacora --> OK
+11/12/2019 12:50:32.543 I Insertar Registros - Fin
+11/12/2019 12:50:32.544 I Fin

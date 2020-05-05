@@ -1,0 +1,12 @@
+30/12/2019 18:04:03.047 I Inicio
+30/12/2019 18:04:03.047 I Validar Formato Archivo --> TIB_2016_2016.csv
+30/12/2019 18:04:03.048 I Validar Formato Archivo --> OK (2016 - 2016)
+30/12/2019 18:04:03.177 I Eliminar Registros --> OK (1)
+30/12/2019 18:04:03.186 I Insertar Carga --> OK
+30/12/2019 18:04:03.187 I Insertar Registros - Inicio
+30/12/2019 18:04:03.422 I Insertar Registros --> OK en línea 1
+30/12/2019 18:04:03.423 I Insertar Registros --> OK (1) -  ERROR (0)
+30/12/2019 18:04:03.455 I Insertar Carga --> OK
+30/12/2019 18:04:03.461 I Insertar Carga Bitacora --> OK
+30/12/2019 18:04:03.466 I Insertar Registros - Fin
+30/12/2019 18:04:03.473 I Fin

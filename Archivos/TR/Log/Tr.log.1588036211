@@ -1,0 +1,12 @@
+27/04/2020 21:11:31.405 I Inicio
+27/04/2020 21:11:31.406 I Validar Formato Archivo --> TR_201803_201803.csv
+27/04/2020 21:11:31.410 I Validar Formato Archivo --> OK (201803 - 201803)
+27/04/2020 21:11:33.397 I Eliminar Registros --> OK (1)
+27/04/2020 21:11:33.433 I Insertar Carga --> OK
+27/04/2020 21:11:33.434 I Insertar Registros - Inicio
+27/04/2020 21:11:52.966 I Insertar Registros --> OK en línea 2
+27/04/2020 21:11:52.966 I Insertar Registros --> OK (1) -  ERROR (0)
+27/04/2020 21:11:53.025 I Insertar Carga --> OK
+27/04/2020 21:11:53.056 I Insertar Carga Bitacora --> OK
+27/04/2020 21:11:53.085 I Insertar Registros - Fin
+27/04/2020 21:11:53.088 I Fin

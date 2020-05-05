@@ -1,0 +1,13 @@
+18/12/2019 17:13:04.995 I Inicio
+18/12/2019 17:13:04.996 I Validar Formato Archivo --> TR_201803_201803.csv
+18/12/2019 17:13:04.996 I Validar Formato Archivo --> OK (201803 - 201803)
+18/12/2019 17:14:20.901 I Eliminar Registros --> OK (5228)
+18/12/2019 17:14:20.922 I Insertar Carga --> OK
+18/12/2019 17:14:20.924 I Insertar Registros - Inicio
+18/12/2019 17:22:12.566 E Insertar Registros --> ERROR en línea 2 (ERROR: duplicate key value violates unique constraint "tr_actividad_r_id_key"
+  Detail: Key (id)=(1041717) already exists.)
+18/12/2019 17:22:12.569 I Insertar Registros --> OK (0) -  ERROR (1)
+18/12/2019 17:22:12.584 I Insertar Carga --> OK
+18/12/2019 17:22:12.588 I Insertar Carga Bitacora --> OK
+18/12/2019 17:22:12.590 I Insertar Registros - Fin
+18/12/2019 17:22:12.591 I Fin

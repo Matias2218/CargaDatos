@@ -1,0 +1,13 @@
+27/04/2020 21:05:13.713 I Inicio
+27/04/2020 21:05:13.714 I Validar Formato Archivo --> TR_201803_201803.csv
+27/04/2020 21:05:13.715 I Validar Formato Archivo --> OK (201803 - 201803)
+27/04/2020 21:05:16.183 I Eliminar Registros --> OK (1)
+27/04/2020 21:05:16.217 I Insertar Carga --> OK
+27/04/2020 21:05:16.218 I Insertar Registros - Inicio
+27/04/2020 21:05:38.100 E Insertar Registros --> ERROR en línea 2 (ERROR: duplicate key value violates unique constraint "tr_acompañamiento_r_pk_doble"
+  Detail: Key (id_tr_base, id_parentesco)=(340562, 3) already exists.)
+27/04/2020 21:05:38.102 I Insertar Registros --> OK (0) -  ERROR (1)
+27/04/2020 21:05:38.160 I Insertar Carga --> OK
+27/04/2020 21:05:38.194 I Insertar Carga Bitacora --> OK
+27/04/2020 21:05:38.470 I Insertar Registros - Fin
+27/04/2020 21:05:38.475 I Fin

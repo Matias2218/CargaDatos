@@ -1,0 +1,15 @@
+11/12/2019 12:50:36.762 I Inicio
+11/12/2019 12:50:36.762 I Validar Formato Archivo --> TRD_202001_202004.csv
+11/12/2019 12:50:36.762 I Validar Formato Archivo --> OK (202001 - 202004)
+11/12/2019 12:50:36.794 I Eliminar Registros --> OK (4)
+11/12/2019 12:50:36.794 I Insertar Carga --> OK
+11/12/2019 12:50:36.794 I Insertar Registros - Inicio
+11/12/2019 12:50:36.809 I Insertar Registros --> OK en línea 1
+11/12/2019 12:50:36.825 I Insertar Registros --> OK en línea 2
+11/12/2019 12:50:36.840 I Insertar Registros --> OK en línea 3
+11/12/2019 12:50:36.840 I Insertar Registros --> OK en línea 4
+11/12/2019 12:50:36.840 I Insertar Registros --> OK (4) -  ERROR (0)
+11/12/2019 12:50:36.872 I Insertar Carga --> OK
+11/12/2019 12:50:36.887 I Insertar Carga Bitacora --> OK
+11/12/2019 12:50:36.887 I Insertar Registros - Fin
+11/12/2019 12:50:36.887 I Fin

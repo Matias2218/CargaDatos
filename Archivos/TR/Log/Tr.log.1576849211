@@ -1,0 +1,13 @@
+20/12/2019 10:40:31.564 I Inicio
+20/12/2019 10:40:31.564 I Validar Formato Archivo --> TR_201803_201803.csv
+20/12/2019 10:40:31.564 I Validar Formato Archivo --> OK (201803 - 201803)
+20/12/2019 10:40:33.401 E Eliminar Registros --> ERROR (ERROR: update or delete on table "data_tr_base" violates foreign key constraint "tr_motivo_r_id_data_tr_fkey" on table "tr_motivos_r"
+  Detail: Key (id)=(340562) is still referenced from table "tr_motivos_r".)
+20/12/2019 10:40:33.464 E Insertar Carga --> ERROR (ERROR: current transaction is aborted, commands ignored until end of transaction block)
+20/12/2019 10:40:33.495 I Insertar Registros - Inicio
+20/12/2019 10:40:33.526 E Insertar Registros --> ERROR en línea 2 (ERROR: current transaction is aborted, commands ignored until end of transaction block)
+20/12/2019 10:40:33.542 I Insertar Registros --> OK (0) -  ERROR (1)
+20/12/2019 10:40:33.557 I Insertar Carga --> OK
+20/12/2019 10:40:33.557 I Insertar Carga Bitacora --> OK
+20/12/2019 10:40:33.573 I Insertar Registros - Fin
+20/12/2019 10:40:33.573 I Fin

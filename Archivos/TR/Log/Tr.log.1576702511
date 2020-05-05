@@ -1,0 +1,6 @@
+18/12/2019 17:55:24.526 I Inicio
+18/12/2019 17:55:24.526 I Validar Formato Archivo --> TR_201803_201803.csv
+18/12/2019 17:55:24.526 I Validar Formato Archivo --> OK (201803 - 201803)
+18/12/2019 17:58:16.787 I Eliminar Registros --> OK (5228)
+18/12/2019 17:58:16.810 I Insertar Carga --> OK
+18/12/2019 17:58:16.811 I Insertar Registros - Inicio

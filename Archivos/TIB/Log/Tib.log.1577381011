@@ -1,0 +1,13 @@
+26/12/2019 14:23:38.119 I Inicio
+26/12/2019 14:23:38.119 I Validar Formato Archivo --> TIB_2016_2016.csv
+26/12/2019 14:23:38.119 I Validar Formato Archivo --> OK (2016 - 2016)
+26/12/2019 14:23:38.197 I Eliminar Registros --> OK (0)
+26/12/2019 14:23:38.244 I Insertar Carga --> OK
+26/12/2019 14:23:38.244 I Insertar Registros - Inicio
+26/12/2019 14:23:38.291 E Insertar Registros --> ERROR en línea 1 (ERROR: column "idnombrecodigo_encuestafechaid_anioid_mesid_mes_trimestreid_mes" of relation "data_ti_base" does not exist
+  Position: 27)
+26/12/2019 14:23:38.291 I Insertar Registros --> OK (0) -  ERROR (1)
+26/12/2019 14:23:38.307 I Insertar Carga --> OK
+26/12/2019 14:23:38.323 I Insertar Carga Bitacora --> OK
+26/12/2019 14:23:38.338 I Insertar Registros - Fin
+26/12/2019 14:23:38.338 I Fin

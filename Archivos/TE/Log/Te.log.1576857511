@@ -1,0 +1,12 @@
+20/12/2019 12:58:35.326 I Inicio
+20/12/2019 12:58:35.326 I Validar Formato Archivo --> TE_202001_202003.csv
+20/12/2019 12:58:35.326 I Validar Formato Archivo --> OK (202001 - 202003)
+20/12/2019 12:58:35.806 I Eliminar Registros --> OK (1)
+20/12/2019 12:58:35.821 I Insertar Carga --> OK
+20/12/2019 12:58:35.821 I Insertar Registros - Inicio
+20/12/2019 12:58:36.071 I Insertar Registros --> OK en línea 1
+20/12/2019 12:58:36.071 I Insertar Registros --> OK (1) -  ERROR (0)
+20/12/2019 12:58:36.087 I Insertar Carga --> OK
+20/12/2019 12:58:36.087 I Insertar Carga Bitacora --> OK
+20/12/2019 12:58:36.103 I Insertar Registros - Fin
+20/12/2019 12:58:36.113 I Fin

@@ -1,0 +1,13 @@
+18/12/2019 17:43:11.025 I Inicio
+18/12/2019 17:43:11.026 I Validar Formato Archivo --> TR_201803_201803.csv
+18/12/2019 17:43:11.026 I Validar Formato Archivo --> OK (201803 - 201803)
+18/12/2019 17:44:28.690 I Eliminar Registros --> OK (5228)
+18/12/2019 17:44:28.706 I Insertar Carga --> OK
+18/12/2019 17:44:28.707 I Insertar Registros - Inicio
+18/12/2019 17:44:28.884 E Insertar Registros --> ERROR en línea 2 (ERROR: column "id_tr_tipo_alimenta" of relation "tr_aloja_r" does not exist
+  Position: 41)
+18/12/2019 17:44:28.889 I Insertar Registros --> OK (0) -  ERROR (1)
+18/12/2019 17:44:28.898 I Insertar Carga --> OK
+18/12/2019 17:44:28.906 I Insertar Carga Bitacora --> OK
+18/12/2019 17:44:28.909 I Insertar Registros - Fin
+18/12/2019 17:44:28.910 I Fin

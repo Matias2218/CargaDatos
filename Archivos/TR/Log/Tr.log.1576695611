@@ -1,0 +1,14 @@
+18/12/2019 16:00:35.172 I Inicio
+18/12/2019 16:00:35.172 I Validar Formato Archivo --> TR_201803_201803.csv
+18/12/2019 16:00:35.173 I Validar Formato Archivo --> OK (201803 - 201803)
+18/12/2019 16:03:20.628 I Eliminar Registros --> OK (5228)
+18/12/2019 16:03:20.655 I Insertar Carga --> OK
+18/12/2019 16:03:20.657 I Insertar Registros - Inicio
+18/12/2019 16:06:41.610 E Insertar Registros --> ERROR en línea 1 (For input string: "Arriendo de auto sin chofer")
+18/12/2019 16:06:45.152 E Insertar Registros --> ERROR en línea 2 (For input string: "1,00")
+18/12/2019 16:06:45.929 I Insertar Registros --> OK (0) -  ERROR (2)
+18/12/2019 16:06:45.944 I Insertar Carga --> OK
+18/12/2019 16:06:45.952 I Insertar Carga Bitacora --> OK
+18/12/2019 16:06:45.956 I Insertar Carga Bitacora --> OK
+18/12/2019 16:06:45.960 I Insertar Registros - Fin
+18/12/2019 16:06:45.960 I Fin
