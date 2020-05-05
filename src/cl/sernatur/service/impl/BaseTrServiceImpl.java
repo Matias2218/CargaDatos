@@ -148,7 +148,7 @@ public class BaseTrServiceImpl implements BaseTrService {
 		agregarServicioPaqueteTuristico(idBase, servicioPaqueteTuristico);
 		agregarPais(idBase, base.getId_nacionalidad().toString());
 		agregarMotivos(idBase, base.getId_motivo_principal());
-		agregarGrupos(idBase, grupo);
+		agregarGrupos(idBase, grupo, base.getId_anio());
 		agregarAcompañamiento(idBase, grupo);
 
 		return resultado;
@@ -190,7 +190,7 @@ public class BaseTrServiceImpl implements BaseTrService {
 		}
 		return 1;
 	}
-	private Integer agregarGrupos(String id_base, Grupo grupo) throws SQLException{
+	private Integer agregarGrupos(String id_base, Grupo grupo, int anio) throws SQLException{
 		List<Pair<Integer, Integer>> valores = grupo.validarGrupos();
 		if(valores.size() == 0) {
 			return 0;
@@ -201,7 +201,12 @@ public class BaseTrServiceImpl implements BaseTrService {
 			rs.next();
 			String idGrupo = rs.getString("id");
 			sql = "INSERT INTO tr_grupo (id, id_data_tr, id_genero, id_tr_parentesco, edad, id_tr_tramo_etario) VALUES (" +
-					idGrupo + ", " + id_base + ", " + valores.get(i).getKey() + ", 1, "+valores.get(i).getValue()+", "+grupo.retornarTramoEtario(valores.get(i).getValue())+" )";
+					idGrupo + ", " + id_base + ", " + valores.get(i).getKey() + ", 1, "+valores.get(i).getValue()+", ";
+			if(anio >= 2017) {
+				sql =+ grupo.retornarTramoEtario2(valores.get(i).getValue())+" )";
+			} else {
+				sql =+ grupo.retornarTramoEtario(valores.get(i).getValue())+" )";
+			}
 			con.prepareCall(sql).executeUpdate();
 		}
 		return 1;

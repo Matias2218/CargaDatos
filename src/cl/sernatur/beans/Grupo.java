@@ -364,4 +364,38 @@ public class Grupo {
             return 7;
         }
     }
+    
+    public Integer retornarTramoEtario2(Integer edad){
+        if (edad < 10) {
+            return 1;
+        } else if (edad >= 10 && edad <= 14) {
+            return 2;
+        } else if (edad >= 15 && edad <= 19) {
+            return 3;
+        } else if (edad >= 20 && edad <= 24) {
+            return 4;
+        } else if (edad >= 25 && edad <= 29) {
+            return 5;
+        } else if (edad >= 30 && edad <= 34) {
+            return 6;
+        } else if (edad >= 35 && edad <= 39) {
+            return 7;
+        } else if (edad >= 40 && edad <= 44) {
+            return 8;
+        } else if (edad >= 45 && edad <= 49) {
+            return 9;
+        } else if (edad >= 50 && edad <= 54) {
+            return 10;
+        } else if (edad >= 55 && edad <= 59) {
+            return 11;
+        } else if (edad >= 60 && edad <= 64) {
+            return 12;
+        } else if (edad >= 65 && edad <= 69) {
+            return 13;
+        } else if (edad >= 70 && edad <= 74) {
+            return 14;
+        } else {
+            return 15;
+        }
+    }
 }
