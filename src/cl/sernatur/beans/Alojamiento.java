@@ -8,14 +8,14 @@ public class Alojamiento {
 	private Integer hotel;
 	private Integer cabaña;
 	private Integer hostal;
-	private Integer camping;
-	private Integer refugio;
-	private Integer lodge;
-	private Integer resort;
-	private Integer departamento;
-	private Integer familia;
-	private Integer airbnb;
-	private Integer crucero;
+	private Integer campingRefugioLodgeResort;
+	private Integer casaDepartamento;
+	private Integer airbnbCouchsurfingHouse;
+	private Integer pernoctacionCrucero;
+	private Integer casaFamiliares;
+	private Integer residenciaParticular;
+	private Integer recintoParticular;
+	private Integer vehiculoMotorizado;
 	private Integer otro;
 	
 	public Alojamiento() {
@@ -46,68 +46,68 @@ public class Alojamiento {
 		this.hostal = hostal;
 	}
 
-	public Integer getCamping() {
-		return camping;
+	public Integer getCampingRefugioLodgeResort() {
+		return campingRefugioLodgeResort;
 	}
 
-	public void setCamping(Integer camping) {
-		this.camping = camping;
+	public void setCampingRefugioLodgeResort(Integer campingRefugioLodgeResort) {
+		this.campingRefugioLodgeResort = campingRefugioLodgeResort;
 	}
 
-	public Integer getRefugio() {
-		return refugio;
+	public Integer getCasaDepartamento() {
+		return casaDepartamento;
 	}
 
-	public void setRefugio(Integer refugio) {
-		this.refugio = refugio;
+	public void setCasaDepartamento(Integer casaDepartamento) {
+		this.casaDepartamento = casaDepartamento;
 	}
 
-	public Integer getLodge() {
-		return lodge;
+	public Integer getAirbnbCouchsurfingHouse() {
+		return airbnbCouchsurfingHouse;
 	}
 
-	public void setLodge(Integer lodge) {
-		this.lodge = lodge;
+	public void setAirbnbCouchsurfingHouse(Integer airbnbCouchsurfingHouse) {
+		this.airbnbCouchsurfingHouse = airbnbCouchsurfingHouse;
 	}
 
-	public Integer getResort() {
-		return resort;
+	public Integer getPernoctacionCrucero() {
+		return pernoctacionCrucero;
 	}
 
-	public void setResort(Integer resort) {
-		this.resort = resort;
+	public void setPernoctacionCrucero(Integer pernoctacionCrucero) {
+		this.pernoctacionCrucero = pernoctacionCrucero;
 	}
 
-	public Integer getDepartamento() {
-		return departamento;
+	public Integer getCasaFamiliares() {
+		return casaFamiliares;
 	}
 
-	public void setDepartamento(Integer departamento) {
-		this.departamento = departamento;
+	public void setCasaFamiliares(Integer casaFamiliares) {
+		this.casaFamiliares = casaFamiliares;
 	}
 
-	public Integer getFamilia() {
-		return familia;
+	public Integer getResidenciaParticular() {
+		return residenciaParticular;
 	}
 
-	public void setFamilia(Integer familia) {
-		this.familia = familia;
+	public void setResidenciaParticular(Integer residenciaParticular) {
+		this.residenciaParticular = residenciaParticular;
 	}
 
-	public Integer getAirbnb() {
-		return airbnb;
+	public Integer getRecintoParticular() {
+		return recintoParticular;
 	}
 
-	public void setAirbnb(Integer airbnb) {
-		this.airbnb = airbnb;
+	public void setRecintoParticular(Integer recintoParticular) {
+		this.recintoParticular = recintoParticular;
 	}
 
-	public Integer getCrucero() {
-		return crucero;
+	public Integer getVehiculoMotorizado() {
+		return vehiculoMotorizado;
 	}
 
-	public void setCrucero(Integer crucero) {
-		this.crucero = crucero;
+	public void setVehiculoMotorizado(Integer vehiculoMotorizado) {
+		this.vehiculoMotorizado = vehiculoMotorizado;
 	}
 
 	public Integer getOtro() {
@@ -129,28 +129,28 @@ public class Alojamiento {
 		if(hostal != 0) {
 			resultado.add(hostal.toString());
 		}
-		if(camping != 0) {
-			resultado.add(camping.toString());
+		if(campingRefugioLodgeResort != 0) {
+			resultado.add(campingRefugioLodgeResort.toString());
 		}
-		if(refugio != 0) {
-			resultado.add(refugio.toString());
+		if(casaDepartamento != 0) {
+			resultado.add(casaDepartamento.toString());
 		}
-		if(lodge != 0) {
-			resultado.add(lodge.toString());
+		if(airbnbCouchsurfingHouse != 0) {
+			resultado.add(airbnbCouchsurfingHouse.toString());
 		}
-		if(resort != 0) {
-			resultado.add(resort.toString());
-		}if(departamento != 0) {
-			resultado.add(departamento.toString());
+		if(pernoctacionCrucero != 0) {
+			resultado.add(pernoctacionCrucero.toString());
+		}if(casaFamiliares != 0) {
+			resultado.add(casaFamiliares.toString());
 		}
-		if(familia != 0) {
-			resultado.add(familia.toString());
+		if(residenciaParticular != 0) {
+			resultado.add(residenciaParticular.toString());
 		}
-		if(airbnb != 0) {
-			resultado.add(airbnb.toString());
+		if(recintoParticular != 0) {
+			resultado.add(recintoParticular.toString());
 		}
-		if(crucero != 0) {
-			resultado.add(crucero.toString());
+		if(vehiculoMotorizado != 0) {
+			resultado.add(vehiculoMotorizado.toString());
 		}
 		if(otro != 0) {
 			resultado.add(otro.toString());

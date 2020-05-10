@@ -16,7 +16,25 @@ public class MediosInformacion {
 	private Integer organizaOtro;
 	private Integer conocimientoPrevio;
 	private Integer otro;
-	
+	private Integer noSabe;
+	private Integer noResponde;
+
+	public Integer getNoSabe() {
+		return noSabe;
+	}
+
+	public void setNoSabe(Integer noSabe) {
+		this.noSabe = noSabe;
+	}
+
+	public Integer getNoResponde() {
+		return noResponde;
+	}
+
+	public void setNoResponde(Integer noResponde) {
+		this.noResponde = noResponde;
+	}
+
 	public MediosInformacion() {
 		
 	}
@@ -143,7 +161,12 @@ public class MediosInformacion {
 		if(otro != 0) {
 			resultado.add(otro.toString());
 		}
-		
+		if(noSabe != 0) {
+			resultado.add(noSabe.toString());
+		}
+		if(noResponde != 0) {
+			resultado.add(noResponde.toString());
+		}
 		return resultado;
 	}
 

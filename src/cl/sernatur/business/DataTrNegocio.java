@@ -344,14 +344,14 @@ public class DataTrNegocio {
                 alojamiento.setHotel(Integer.parseInt(data[47].toString()) == 1 ? 1 : 0);
                 alojamiento.setCabaña(Integer.parseInt(data[48].toString()) == 1 ? 2 : 0);
                 alojamiento.setHostal(Integer.parseInt(data[49].toString()) == 1 ? 3 : 0);
-                alojamiento.setCamping(Integer.parseInt(data[50].toString()) == 1 ? 4 : 0);
-                alojamiento.setRefugio(Integer.parseInt(data[51].toString()) == 1 ? 5 : 0);
-                alojamiento.setLodge(Integer.parseInt(data[52].toString()) == 1 ? 6 : 0);
-                alojamiento.setResort(Integer.parseInt(data[53].toString()) == 1 ? 7 : 0);
-                alojamiento.setDepartamento(Integer.parseInt(data[54].toString()) == 1 ? 8 : 0);
-                alojamiento.setFamilia(Integer.parseInt(data[55].toString()) == 1 ? 9 : 0);
-                alojamiento.setAirbnb(Integer.parseInt(data[56].toString()) == 1 ? 10 : 0);
-                alojamiento.setCrucero(Integer.parseInt(data[57].toString()) == 1 ? 11 : 0);
+                alojamiento.setCampingRefugioLodgeResort(Integer.parseInt(data[50].toString()) == 1 ? 4 : 0);
+                alojamiento.setCasaDepartamento(Integer.parseInt(data[51].toString()) == 1 ? 5 : 0);
+                alojamiento.setAirbnbCouchsurfingHouse(Integer.parseInt(data[52].toString()) == 1 ? 6 : 0);
+                alojamiento.setPernoctacionCrucero(Integer.parseInt(data[53].toString()) == 1 ? 7 : 0);
+                alojamiento.setCasaFamiliares(Integer.parseInt(data[54].toString()) == 1 ? 8 : 0);
+                alojamiento.setResidenciaParticular(Integer.parseInt(data[55].toString()) == 1 ? 9 : 0);
+                alojamiento.setRecintoParticular(Integer.parseInt(data[56].toString()) == 1 ? 10 : 0);
+                alojamiento.setVehiculoMotorizado(Integer.parseInt(data[57].toString()) == 1 ? 11 : 0);
                 alojamiento.setOtro(Integer.parseInt(data[58].toString()) == 1 ? 12 : 0);
 
                 // Setear datos tr_ciudad_r
@@ -361,11 +361,11 @@ public class DataTrNegocio {
 
                 // Setear datos tr_financia_tr
                 financia = new Financia();
-                financia.setUdMismo(Integer.valueOf(data[170].toString()) == 1 ? 1 : 0);
-                financia.setEmpresaInstitucionExterna(Integer.valueOf(data[171].toString()) == 1 ? 2 : 0);
-                financia.setFamiliaDesdeExtranjero(Integer.valueOf(data[172].toString()) == 1 ? 3 : 0);
-                financia.setInvitacionChile(Integer.valueOf(data[173].toString()) == 1 ? 4 : 0);
-                financia.setOtro(Integer.valueOf(data[174].toString()) == 1 ? 5 : 0);
+                financia.setUdMismo(Integer.valueOf(data[172].toString()) == 1 ? 1 : 0);
+                financia.setEmpresaInstitucionExterna(Integer.valueOf(data[173].toString()) == 1 ? 2 : 0);
+                financia.setFamiliaDesdeExtranjero(Integer.valueOf(data[174].toString()) == 1 ? 3 : 0);
+                financia.setInvitacionChile(Integer.valueOf(data[175].toString()) == 1 ? 4 : 0);
+                financia.setOtro(Integer.valueOf(data[176].toString()) == 1 ? 5 : 0);
 
 //				// Setear datps tr_gasto_r
                 gasto = new Gasto();
@@ -397,35 +397,38 @@ public class DataTrNegocio {
                 mediosInformacion.setFolletosOficiasTurismoEmbajada(Integer.valueOf(data[151].toString()) == 1 ? 7 : 0);
                 mediosInformacion.setOrganizaEmpresa(Integer.valueOf(data[152].toString()) == 1 ? 8 : 0);
                 mediosInformacion.setOrganizaOtro(Integer.valueOf(data[153].toString()) == 1 ? 9 : 0);
-                mediosInformacion.setConocimientoPrevio(Integer.valueOf(data[154].toString()) == 10 ? 1 : 0);
+                mediosInformacion.setConocimientoPrevio(Integer.valueOf(data[154].toString()) == 1 ? 10 : 0);
                 mediosInformacion.setOtro(Integer.valueOf(data[155].toString()) == 1 ? 11 : 0);
+                mediosInformacion.setNoSabe(Integer.valueOf(data[156].toString()) == 1 ? 12 : 0);
+                mediosInformacion.setNoResponde(Integer.valueOf(data[157].toString()) == 1 ? 13 : 0);
+
 
                 // Setear datos tr_organiza_r
                 organiza = new Organiza();
-                organiza.setUstedMismo(Integer.valueOf(data[175].toString()) == 1 ? 1 : 0);
-                organiza.setAgenciaViajeOnline(Integer.valueOf(data[176].toString()) == 1 ? 2 : 0);
-                organiza.setAgenciaViajeFueraChile(Integer.valueOf(data[177].toString()) == 1 ? 3 : 0);
-                organiza.setOficinaViajePresencialOnlineChilena(Integer.valueOf(data[178].toString()) == 1 ? 4 : 0);
-                organiza.setSitiosWebReserva(Integer.valueOf(data[179].toString()) == 1 ? 5 : 0);
-                organiza.setSitiosWebComparadorPrecios(Integer.valueOf(data[180].toString()) == 1 ? 6 : 0);
-                organiza.setOtro(Integer.valueOf(data[181].toString()) == 1 ? 7 : 0);
+                organiza.setUstedMismo(Integer.valueOf(data[177].toString()) == 1 ? 1 : 0);
+                organiza.setAgenciaViajeOnline(Integer.valueOf(data[178].toString()) == 1 ? 2 : 0);
+                organiza.setAgenciaViajeFueraChile(Integer.valueOf(data[179].toString()) == 1 ? 3 : 0);
+                organiza.setOficinaViajePresencialOnlineChilena(Integer.valueOf(data[180].toString()) == 1 ? 4 : 0);
+                organiza.setSitiosWebReserva(Integer.valueOf(data[181].toString()) == 1 ? 5 : 0);
+                organiza.setSitiosWebComparadorPrecios(Integer.valueOf(data[182].toString()) == 1 ? 6 : 0);
+                organiza.setOtro(Integer.valueOf(data[183].toString()) == 1 ? 7 : 0);
 
                 // Setear datos tr_razon_r
                 razonViaje = new RazonViaje();
-                razonViaje.setNaturalezaPaisajesFloraFauna(Integer.valueOf(data[156].toString()) == 1 ? 1 : 0);
-                razonViaje.setCulturaLocal(Integer.valueOf(data[157].toString()) == 1 ? 2 : 0);
-                razonViaje.setLosChilenos(Integer.valueOf(data[158].toString()) == 1 ? 3 : 0);
-                razonViaje.setConectividad(Integer.valueOf(data[159].toString()) == 1 ? 4 : 0);
-                razonViaje.setSensacionSeguridadPais(Integer.valueOf(data[160].toString()) == 1 ? 5 : 0);
-                razonViaje.setClima(Integer.valueOf(data[161].toString()) == 1 ? 6 : 0);
-                razonViaje.setVinosViñas(Integer.valueOf(data[162].toString()) == 1 ? 7 : 0);
-                razonViaje.setConocerChilePrimeraVez(Integer.valueOf(data[163].toString()) == 1 ? 8 : 0);
-                razonViaje.setConocerLugaresPendientes(Integer.valueOf(data[164].toString()) == 1 ? 9 : 0);
-                razonViaje.setDescansar(Integer.valueOf(data[165].toString()) == 1 ? 10 : 0);
-                razonViaje.setIncluidoEnRutaViaje(Integer.valueOf(data[166].toString()) == 11 ? 1 : 0);
-                razonViaje.setFamiliaAmigosResidentesChile(Integer.valueOf(data[167].toString()) == 1 ? 12 : 0);
-                razonViaje.setCompras(Integer.valueOf(data[168].toString()) == 1 ? 13 : 0);
-                razonViaje.setOtro(Integer.valueOf(data[169].toString()) == 1 ? 14 : 0);
+                razonViaje.setNaturalezaPaisajesFloraFauna(Integer.valueOf(data[158].toString()) == 1 ? 1 : 0);
+                razonViaje.setCulturaLocal(Integer.valueOf(data[159].toString()) == 1 ? 2 : 0);
+                razonViaje.setLosChilenos(Integer.valueOf(data[160].toString()) == 1 ? 3 : 0);
+                razonViaje.setConectividad(Integer.valueOf(data[161].toString()) == 1 ? 4 : 0);
+                razonViaje.setSensacionSeguridadPais(Integer.valueOf(data[162].toString()) == 1 ? 5 : 0);
+                razonViaje.setClima(Integer.valueOf(data[163].toString()) == 1 ? 6 : 0);
+                razonViaje.setVinosViñas(Integer.valueOf(data[164].toString()) == 1 ? 7 : 0);
+                razonViaje.setConocerChilePrimeraVez(Integer.valueOf(data[165].toString()) == 1 ? 8 : 0);
+                razonViaje.setConocerLugaresPendientes(Integer.valueOf(data[166].toString()) == 1 ? 9 : 0);
+                razonViaje.setDescansar(Integer.valueOf(data[167].toString()) == 1 ? 10 : 0);
+                razonViaje.setIncluidoEnRutaViaje(Integer.valueOf(data[168].toString()) == 11 ? 1 : 0);
+                razonViaje.setFamiliaAmigosResidentesChile(Integer.valueOf(data[169].toString()) == 1 ? 12 : 0);
+                razonViaje.setCompras(Integer.valueOf(data[170].toString()) == 1 ? 13 : 0);
+                razonViaje.setOtro(Integer.valueOf(data[171].toString()) == 1 ? 14 : 0);
 
 
                 // Setear datos tr_servpt_r
