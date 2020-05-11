@@ -10,7 +10,7 @@ public class Alimentacion {
 	private Integer hotelAlojamiento;
 	private Integer compraMercaderia;
 	private Integer casaFamiliaresAmigos;
-	private Integer invitacion;
+	private Integer ninguno;
 	private Integer otro;
 	
 	public Alimentacion() {
@@ -57,12 +57,12 @@ public class Alimentacion {
 		this.casaFamiliaresAmigos = casaFamiliaresAmigos;
 	}
 
-	public Integer getInvitacion() {
-		return invitacion;
+	public Integer getNinguno() {
+		return ninguno;
 	}
 
-	public void setInvitacion(Integer invitacion) {
-		this.invitacion = invitacion;
+	public void setNinguno(Integer ninguno) {
+		this.ninguno = ninguno;
 	}
 
 	public Integer getOtro() {
@@ -90,8 +90,8 @@ public class Alimentacion {
 		if(casaFamiliaresAmigos != 0) {
 			resultado.add(casaFamiliaresAmigos.toString());
 		}
-		if(invitacion != 0) {
-			resultado.add(invitacion.toString());
+		if(ninguno != 0) {
+			resultado.add(ninguno.toString());
 		}
 		if(otro != 0) {
 			resultado.add(otro.toString());

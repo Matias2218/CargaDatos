@@ -57,6 +57,7 @@ public class BaseTrServiceImpl implements BaseTrService {
 									    + ", monto_pasaje_salida_usd"
 									    + ", monto_idavuelta_usd"
 									    + ", agencia_online"
+									    + ", agencia_viaje"
 									    + ", gasto_total_grupo_usd"
 									    + ", divisas"
 									    + ", gpdi"
@@ -121,6 +122,7 @@ public class BaseTrServiceImpl implements BaseTrService {
 			+ ", " + base.getMonto_pasaje_salida_usd().toString()//monto_pasaje_salida_usd;
 			+ ", " + base.getMonto_idavuelta_usd().toString().replace(",", ".")//monto_idavuelta_usd;
 			+ ", '" + base.getAgencia_online() + "'"//agencia_online;
+			+ ", '" + base.getAgencia_viaje() + "'"//agencia_viaje;
 			+ ", " + base.getGasto_total_grupo_usd().toString()//gasto_total_grupo_usd;
 			+ ", " + base.getDivisas().toString()//divisas;
 			+ ", " + base.getGpdi().toString().replace(",", ".")//gpdi;

@@ -269,90 +269,90 @@ public class DataTrNegocio {
                     id_gpdi = 5;
                 }
 
-                // Setear datos actividad_r
+             // Setear datos actividad_r
                 actividad = new Actividad();
-                actividad.setActividadesDeTurismoCultural(Integer.parseInt(data[122].toString()) == 1 ? 1 : 0);
-                actividad.setActividadesProfesionalesCongresos(Integer.parseInt(data[123].toString()) == 1 ? 2 : 0);
-                actividad.setVisitasAmigosFamiliares(Integer.parseInt(data[124].toString()) == 1 ? 3 : 0);
-                actividad.setAprendizajeIdiomaOtrosEstudios(Integer.parseInt(data[125].toString()) == 1 ? 4 : 0);
-                actividad.setAsistenciaEventosDeportivos(Integer.parseInt(data[126].toString()) == 1 ? 5 : 0);
-                actividad.setOtrosEstudios(Integer.parseInt(data[127].toString()) == 1 ? 6 : 0);
-                actividad.setVisitarParquesAtraccionesZooActEsparcimiento(Integer.parseInt(data[128].toString()) == 1 ? 7 : 0);
-                actividad.setIrDeCompras(Integer.parseInt(data[129].toString()) == 1 ? 8 : 0);
-                actividad.setAguasTermales(Integer.parseInt(data[130].toString()) == 1 ? 9 : 0);
-                actividad.setComerRestaurantGastronomiaTipica(Integer.parseInt(data[131].toString()) == 1 ? 10 : 0);
-                actividad.setParticiparVidaNocturna(Integer.parseInt(data[132].toString()) == 1 ? 11 : 0);
-                actividad.setActividadesReligiosasPeregrinaciones(Integer.parseInt(data[133].toString()) == 1 ? 12 : 0);
-                actividad.setActividadesEnTierra(Integer.parseInt(data[134].toString()) == 1 ? 13 : 0);
-                actividad.setEsquiarOtrasActividadesNieve(Integer.parseInt(data[135].toString()) == 1 ? 14 : 0);
-                actividad.setActividadesEnAire(Integer.parseInt(data[136].toString()) == 1 ? 15 : 0);
-                actividad.setActividadesEnAgua(Integer.parseInt(data[137].toString()) == 1 ? 16 : 0);
-                actividad.setVisitarParqueNacionales(Integer.parseInt(data[138].toString()) == 1 ? 17 : 0);
-                actividad.setVisitarObservatoriosAstronomicos(Integer.parseInt(data[139].toString()) == 1 ? 18 : 0);
-                actividad.setVisitarViñedo(Integer.parseInt(data[140].toString()) == 1 ? 19 : 0);
-                actividad.setDescansoOcio(Integer.parseInt(data[141].toString()) == 1 ? 20 : 0);
-                actividad.setActividadPlaya(Integer.parseInt(data[142].toString()) == 1 ? 21 : 0);
-                actividad.setOtro(Integer.parseInt(data[144].toString()) == 1 ? 22 : 0);
-                actividad.setVisitarCasinosSalasJuegos(Integer.parseInt(data[143].toString()) == 1 ? 23 : 0);
+                actividad.setActividadesDeTurismoCultural(Integer.parseInt(data[121].toString()) == 1 ? 1 : 0);
+                actividad.setActividadesProfesionalesCongresos(Integer.parseInt(data[122].toString()) == 1 ? 2 : 0);
+                actividad.setVisitasAmigosFamiliares(Integer.parseInt(data[123].toString()) == 1 ? 3 : 0);
+                actividad.setAprendizajeIdiomaOtrosEstudios(Integer.parseInt(data[124].toString()) == 1 ? 4 : 0);
+                actividad.setAsistenciaEventosDeportivos(Integer.parseInt(data[125].toString()) == 1 ? 5 : 0);
+                actividad.setVisitarParquesAtraccionesZooActEsparcimiento(Integer.parseInt(data[126].toString()) == 1 ? 6 : 0);
+                actividad.setVisitarCasinosSalasJuegos(Integer.parseInt(data[127].toString()) == 1 ? 7 : 0);
+                actividad.setIrDeCompras(Integer.parseInt(data[128].toString()) == 1 ? 8 : 0);
+                actividad.setAguasTermales(Integer.parseInt(data[129].toString()) == 1 ? 9 : 0);
+                actividad.setComerRestaurantGastronomiaTipica(Integer.parseInt(data[130].toString()) == 1 ? 10 : 0);
+                actividad.setParticiparVidaNocturna(Integer.parseInt(data[131].toString()) == 1 ? 11 : 0);
+                actividad.setActividadesReligiosasPeregrinaciones(Integer.parseInt(data[132].toString()) == 1 ? 12 : 0);
+                actividad.setActividadesEnTierra(Integer.parseInt(data[133].toString()) == 1 ? 13 : 0);
+                actividad.setEsquiarOtrasActividadesNieve(Integer.parseInt(data[134].toString()) == 1 ? 14 : 0);
+                actividad.setActividadesEnAire(Integer.parseInt(data[135].toString()) == 1 ? 15 : 0);
+                actividad.setActividadesEnAgua(Integer.parseInt(data[136].toString()) == 1 ? 16 : 0);
+                actividad.setVisitarParqueNacionales(Integer.parseInt(data[137].toString()) == 1 ? 17 : 0);
+                actividad.setVisitarObservatoriosAstronomicos(Integer.parseInt(data[138].toString()) == 1 ? 18 : 0);
+                actividad.setVisitarViñedo(Integer.parseInt(data[139].toString()) == 1 ? 19 : 0);
+                actividad.setDescansoOcio(Integer.parseInt(data[140].toString()) == 1 ? 20 : 0);
+                actividad.setActividadPlaya(Integer.parseInt(data[141].toString()) == 1 ? 21 : 0);
+                actividad.setOtro(Integer.parseInt(data[142].toString()) == 1 ? 22 : 0);
+                
 
                 // Setear datos alimentacion_r
                 alimentacion = new Alimentacion();
-                alimentacion.setRestaurant(Integer.parseInt(data[59].toString()) == 1 ? 1 : 0);
-                alimentacion.setComidaRapida(Integer.parseInt(data[60].toString()) == 1 ? 2 : 0);
-                alimentacion.setHotelAlojamiento(Integer.parseInt(data[61].toString()) == 1 ? 3 : 0);
-                alimentacion.setCompraMercaderia(Integer.parseInt(data[62].toString()) == 1 ? 4 : 0);
-                alimentacion.setCasaFamiliaresAmigos(Integer.parseInt(data[63].toString()) == 1 ? 5 : 0);
-                alimentacion.setInvitacion(Integer.parseInt(data[64].toString()) == 1 ? 6 : 0);
-                alimentacion.setOtro(Integer.parseInt(data[65].toString()) == 1 ? 7 : 0);
+                alimentacion.setRestaurant(Integer.parseInt(data[58].toString()) == 1 ? 1 : 0);
+                alimentacion.setComidaRapida(Integer.parseInt(data[59].toString()) == 1 ? 2 : 0);
+                alimentacion.setHotelAlojamiento(Integer.parseInt(data[60].toString()) == 1 ? 3 : 0);
+                alimentacion.setCompraMercaderia(Integer.parseInt(data[61].toString()) == 1 ? 4 : 0);
+                alimentacion.setCasaFamiliaresAmigos(Integer.parseInt(data[62].toString()) == 1 ? 5 : 0);
+                alimentacion.setNinguno(Integer.parseInt(data[63].toString()) == 1 ? 6 : 0);
+                alimentacion.setOtro(Integer.parseInt(data[64].toString()) == 1 ? 7 : 0);
                 //Setear grupo y alimentacion
 
                 grupo = new Grupo();
-                grupo.setSexoP1(Integer.parseInt(data[92]));
-                grupo.setEdadP1(Integer.parseInt(data[93]));
-                grupo.setParentescoP1(Integer.parseInt(data[94]));
-                grupo.setSexoP2(Integer.parseInt(data[95]));
-                grupo.setEdadP2(Integer.parseInt(data[96]));
-                grupo.setParentescoP2(Integer.parseInt(data[97]));
-                grupo.setSexoP3(Integer.parseInt(data[98]));
-                grupo.setEdadP3(Integer.parseInt(data[99]));
-                grupo.setParentescoP3(Integer.parseInt(data[100]));
-                grupo.setSexoP4(Integer.parseInt(data[101]));
-                grupo.setEdadP4(Integer.parseInt(data[102]));
-                grupo.setParentescoP4(Integer.parseInt(data[103]));
-                grupo.setSexoP5(Integer.parseInt(data[104]));
-                grupo.setEdadP5(Integer.parseInt(data[105]));
-                grupo.setParentescoP5(Integer.parseInt(data[106]));
-                grupo.setSexoP6(Integer.parseInt(data[107]));
-                grupo.setEdadP6(Integer.parseInt(data[108]));
-                grupo.setParentescoP6(Integer.parseInt(data[109]));
-                grupo.setSexoP7(Integer.parseInt(data[110]));
-                grupo.setEdadP7(Integer.parseInt(data[111]));
-                grupo.setParentescoP7(Integer.parseInt(data[112]));
-                grupo.setSexoP8(Integer.parseInt(data[113]));
-                grupo.setEdadP8(Integer.parseInt(data[114]));
-                grupo.setParentescoP8(Integer.parseInt(data[115]));
-                grupo.setSexoP9(Integer.parseInt(data[116]));
-                grupo.setEdadP9(Integer.parseInt(data[117]));
-                grupo.setParentescoP9(Integer.parseInt(data[118]));
-                grupo.setSexoP10(Integer.parseInt(data[119]));
-                grupo.setEdadP10(Integer.parseInt(data[120]));
-                grupo.setParentescoP10(Integer.parseInt(data[121]));
+                grupo.setSexoP1(Integer.parseInt(data[91]));
+                grupo.setEdadP1(Integer.parseInt(data[92]));
+                grupo.setParentescoP1(Integer.parseInt(data[93]));
+                grupo.setSexoP2(Integer.parseInt(data[94]));
+                grupo.setEdadP2(Integer.parseInt(data[95]));
+                grupo.setParentescoP2(Integer.parseInt(data[96]));
+                grupo.setSexoP3(Integer.parseInt(data[97]));
+                grupo.setEdadP3(Integer.parseInt(data[98]));
+                grupo.setParentescoP3(Integer.parseInt(data[99]));
+                grupo.setSexoP4(Integer.parseInt(data[100]));
+                grupo.setEdadP4(Integer.parseInt(data[101]));
+                grupo.setParentescoP4(Integer.parseInt(data[102]));
+                grupo.setSexoP5(Integer.parseInt(data[103]));
+                grupo.setEdadP5(Integer.parseInt(data[104]));
+                grupo.setParentescoP5(Integer.parseInt(data[105]));
+                grupo.setSexoP6(Integer.parseInt(data[106]));
+                grupo.setEdadP6(Integer.parseInt(data[107]));
+                grupo.setParentescoP6(Integer.parseInt(data[108]));
+                grupo.setSexoP7(Integer.parseInt(data[109]));
+                grupo.setEdadP7(Integer.parseInt(data[110]));
+                grupo.setParentescoP7(Integer.parseInt(data[111]));
+                grupo.setSexoP8(Integer.parseInt(data[112]));
+                grupo.setEdadP8(Integer.parseInt(data[113]));
+                grupo.setParentescoP8(Integer.parseInt(data[114]));
+                grupo.setSexoP9(Integer.parseInt(data[115]));
+                grupo.setEdadP9(Integer.parseInt(data[116]));
+                grupo.setParentescoP9(Integer.parseInt(data[117]));
+                grupo.setSexoP10(Integer.parseInt(data[118]));
+                grupo.setEdadP10(Integer.parseInt(data[119]));
+                grupo.setParentescoP10(Integer.parseInt(data[120]));
 
 
                 // Setear datos aloja_r
                 alojamiento = new Alojamiento();
-                alojamiento.setHotel(Integer.parseInt(data[47].toString()) == 1 ? 1 : 0);
-                alojamiento.setCabaña(Integer.parseInt(data[48].toString()) == 1 ? 2 : 0);
-                alojamiento.setHostal(Integer.parseInt(data[49].toString()) == 1 ? 3 : 0);
-                alojamiento.setCampingRefugioLodgeResort(Integer.parseInt(data[50].toString()) == 1 ? 4 : 0);
-                alojamiento.setCasaDepartamento(Integer.parseInt(data[51].toString()) == 1 ? 5 : 0);
-                alojamiento.setAirbnbCouchsurfingHouse(Integer.parseInt(data[52].toString()) == 1 ? 6 : 0);
-                alojamiento.setPernoctacionCrucero(Integer.parseInt(data[53].toString()) == 1 ? 7 : 0);
-                alojamiento.setCasaFamiliares(Integer.parseInt(data[54].toString()) == 1 ? 8 : 0);
-                alojamiento.setResidenciaParticular(Integer.parseInt(data[55].toString()) == 1 ? 9 : 0);
-                alojamiento.setRecintoParticular(Integer.parseInt(data[56].toString()) == 1 ? 10 : 0);
-                alojamiento.setVehiculoMotorizado(Integer.parseInt(data[57].toString()) == 1 ? 11 : 0);
-                alojamiento.setOtro(Integer.parseInt(data[58].toString()) == 1 ? 12 : 0);
+                alojamiento.setHotel(Integer.parseInt(data[46].toString()) == 1 ? 1 : 0);
+                alojamiento.setCabaña(Integer.parseInt(data[47].toString()) == 1 ? 2 : 0);
+                alojamiento.setHostal(Integer.parseInt(data[48].toString()) == 1 ? 3 : 0);
+                alojamiento.setCampingRefugioLodgeResort(Integer.parseInt(data[49].toString()) == 1 ? 4 : 0);
+                alojamiento.setCasaDepartamento(Integer.parseInt(data[50].toString()) == 1 ? 5 : 0);
+                alojamiento.setAirbnbCouchsurfingHouse(Integer.parseInt(data[51].toString()) == 1 ? 6 : 0);
+                alojamiento.setPernoctacionCrucero(Integer.parseInt(data[52].toString()) == 1 ? 7 : 0);
+                alojamiento.setCasaFamiliares(Integer.parseInt(data[53].toString()) == 1 ? 8 : 0);
+                alojamiento.setResidenciaParticular(Integer.parseInt(data[54].toString()) == 1 ? 9 : 0);
+                alojamiento.setRecintoParticular(Integer.parseInt(data[55].toString()) == 1 ? 10 : 0);
+                alojamiento.setVehiculoMotorizado(Integer.parseInt(data[56].toString()) == 1 ? 11 : 0);
+                alojamiento.setOtro(Integer.parseInt(data[57].toString()) == 1 ? 12 : 0);
 
                 // Setear datos tr_ciudad_r
                 ciudad = new Ciudad();
@@ -361,87 +361,87 @@ public class DataTrNegocio {
 
                 // Setear datos tr_financia_tr
                 financia = new Financia();
-                financia.setUdMismo(Integer.valueOf(data[172].toString()) == 1 ? 1 : 0);
-                financia.setEmpresaInstitucionExterna(Integer.valueOf(data[173].toString()) == 1 ? 2 : 0);
-                financia.setFamiliaDesdeExtranjero(Integer.valueOf(data[174].toString()) == 1 ? 3 : 0);
-                financia.setInvitacionChile(Integer.valueOf(data[175].toString()) == 1 ? 4 : 0);
-                financia.setOtro(Integer.valueOf(data[176].toString()) == 1 ? 5 : 0);
+                financia.setUdMismo(Integer.valueOf(data[170].toString()) == 1 ? 1 : 0);
+                financia.setEmpresaInstitucionExterna(Integer.valueOf(data[171].toString()) == 1 ? 2 : 0);
+                financia.setFamiliaDesdeExtranjero(Integer.valueOf(data[172].toString()) == 1 ? 3 : 0);
+                financia.setInvitacionChile(Integer.valueOf(data[173].toString()) == 1 ? 4 : 0);
+                financia.setOtro(Integer.valueOf(data[174].toString()) == 1 ? 5 : 0);
 
 //				// Setear datps tr_gasto_r
                 gasto = new Gasto();
-                gasto.setHotelesSimilares(Float.valueOf(data[77].toString().replace(",", ".")));
-                gasto.setCasaDeptoArrendado(Float.valueOf(data[78].toString().replace(",", ".")));
-                gasto.setRestaurantSimilares(Float.valueOf(data[79].toString().replace(",", ".")));
-                gasto.setCompraAlimentos(Float.valueOf(data[80].toString().replace(",", ".")));
-                gasto.setTransporteInternoAereo(Float.valueOf(data[81].toString().replace(",", ".")));
-                gasto.setTransporteInternoTerrestre(Float.valueOf(data[82].toString().replace(",", ".")));
-                gasto.setTransporteInternoMaritimo(Float.valueOf(data[83].toString().replace(",", ".")));
-                gasto.setCompras(Float.valueOf(data[84].toString().replace(",", ".")));
-                gasto.setAgenciasViajeChile(Float.valueOf(data[85].toString().replace(",", ".")));
-                gasto.setArriendoAutoSinChofer(Float.valueOf(data[86].toString().replace(",", ".")));
-                gasto.setActividadesRecreativasDeportivas(Float.valueOf(data[87].toString().replace(",", ".")));
-                gasto.setActividadesCulturales(Float.valueOf(data[88].toString().replace(",", ".")));
-                gasto.setServicioReservasNaturales(Float.valueOf(data[89].toString().replace(",", ".")));
-                gasto.setBencinaPeajeEstacionamientos(Float.valueOf(data[90].toString().replace(",", ".")));
-                gasto.setOtros(Float.valueOf(data[91].toString().replace(",", ".")));
+                gasto.setHotelesSimilares(Float.valueOf(data[76].toString().replace(",", ".")));
+                gasto.setCasaDeptoArrendado(Float.valueOf(data[77].toString().replace(",", ".")));
+                gasto.setRestaurantSimilares(Float.valueOf(data[78].toString().replace(",", ".")));
+                gasto.setCompraAlimentos(Float.valueOf(data[79].toString().replace(",", ".")));
+                gasto.setTransporteInternoAereo(Float.valueOf(data[80].toString().replace(",", ".")));
+                gasto.setTransporteInternoTerrestre(Float.valueOf(data[81].toString().replace(",", ".")));
+                gasto.setTransporteInternoMaritimo(Float.valueOf(data[82].toString().replace(",", ".")));
+                gasto.setCompras(Float.valueOf(data[83].toString().replace(",", ".")));
+                gasto.setAgenciasViajeChile(Float.valueOf(data[84].toString().replace(",", ".")));
+                gasto.setArriendoAutoSinChofer(Float.valueOf(data[85].toString().replace(",", ".")));
+                gasto.setActividadesRecreativasDeportivas(Float.valueOf(data[86].toString().replace(",", ".")));
+                gasto.setActividadesCulturales(Float.valueOf(data[87].toString().replace(",", ".")));
+                gasto.setServicioReservasNaturales(Float.valueOf(data[88].toString().replace(",", ".")));
+                gasto.setBencinaPeajeEstacionamientos(Float.valueOf(data[89].toString().replace(",", ".")));
+                gasto.setOtros(Float.valueOf(data[90].toString().replace(",", ".")));
 
 
                 // Setear datos tr_medios_r
                 mediosInformacion = new MediosInformacion();
-                mediosInformacion.setConsejosRecomendaciones(Integer.valueOf(data[145].toString()) == 1 ? 1 : 0);
-                mediosInformacion.setInformacionInternet(Integer.valueOf(data[146].toString()) == 1 ? 2 : 0);
-                mediosInformacion.setRedesSociales(Integer.valueOf(data[147].toString()) == 1 ? 3 : 0);
-                mediosInformacion.setAgenciaViajeTourOperador(Integer.valueOf(data[148].toString()) == 1 ? 4 : 0);
-                mediosInformacion.setGuiasTuristicasImpresas(Integer.valueOf(data[149].toString()) == 1 ? 5 : 0);
-                mediosInformacion.setGuiasTuristicasOnline(Integer.valueOf(data[150].toString()) == 1 ? 6 : 0);
-                mediosInformacion.setFolletosOficiasTurismoEmbajada(Integer.valueOf(data[151].toString()) == 1 ? 7 : 0);
-                mediosInformacion.setOrganizaEmpresa(Integer.valueOf(data[152].toString()) == 1 ? 8 : 0);
-                mediosInformacion.setOrganizaOtro(Integer.valueOf(data[153].toString()) == 1 ? 9 : 0);
-                mediosInformacion.setConocimientoPrevio(Integer.valueOf(data[154].toString()) == 1 ? 10 : 0);
-                mediosInformacion.setOtro(Integer.valueOf(data[155].toString()) == 1 ? 11 : 0);
-                mediosInformacion.setNoSabe(Integer.valueOf(data[156].toString()) == 1 ? 12 : 0);
-                mediosInformacion.setNoResponde(Integer.valueOf(data[157].toString()) == 1 ? 13 : 0);
+                mediosInformacion.setConsejosRecomendaciones(Integer.valueOf(data[143].toString()) == 1 ? 1 : 0);
+                mediosInformacion.setInformacionInternet(Integer.valueOf(data[144].toString()) == 1 ? 2 : 0);
+                mediosInformacion.setRedesSociales(Integer.valueOf(data[145].toString()) == 1 ? 3 : 0);
+                mediosInformacion.setAgenciaViajeTourOperador(Integer.valueOf(data[146].toString()) == 1 ? 4 : 0);
+                mediosInformacion.setGuiasTuristicasImpresas(Integer.valueOf(data[147].toString()) == 1 ? 5 : 0);
+                mediosInformacion.setGuiasTuristicasOnline(Integer.valueOf(data[148].toString()) == 1 ? 6 : 0);
+                mediosInformacion.setFolletosOficiasTurismoEmbajada(Integer.valueOf(data[149].toString()) == 1 ? 7 : 0);
+                mediosInformacion.setOrganizaEmpresa(Integer.valueOf(data[150].toString()) == 1 ? 8 : 0);
+                mediosInformacion.setOrganizaOtro(Integer.valueOf(data[151].toString()) == 1 ? 9 : 0);
+                mediosInformacion.setConocimientoPrevio(Integer.valueOf(data[152].toString()) == 1 ? 10 : 0);
+                mediosInformacion.setOtro(Integer.valueOf(data[153].toString()) == 1 ? 11 : 0);
+                mediosInformacion.setNoSabe(Integer.valueOf(data[154].toString()) == 1 ? 12 : 0);
+                mediosInformacion.setNoResponde(Integer.valueOf(data[155].toString()) == 1 ? 13 : 0);
 
 
                 // Setear datos tr_organiza_r
                 organiza = new Organiza();
-                organiza.setUstedMismo(Integer.valueOf(data[177].toString()) == 1 ? 1 : 0);
-                organiza.setAgenciaViajeOnline(Integer.valueOf(data[178].toString()) == 1 ? 2 : 0);
-                organiza.setAgenciaViajeFueraChile(Integer.valueOf(data[179].toString()) == 1 ? 3 : 0);
-                organiza.setOficinaViajePresencialOnlineChilena(Integer.valueOf(data[180].toString()) == 1 ? 4 : 0);
-                organiza.setSitiosWebReserva(Integer.valueOf(data[181].toString()) == 1 ? 5 : 0);
-                organiza.setSitiosWebComparadorPrecios(Integer.valueOf(data[182].toString()) == 1 ? 6 : 0);
-                organiza.setOtro(Integer.valueOf(data[183].toString()) == 1 ? 7 : 0);
+                organiza.setUstedMismo(Integer.valueOf(data[175].toString()) == 1 ? 1 : 0);
+                organiza.setAgenciaViajeOnline(Integer.valueOf(data[176].toString()) == 1 ? 2 : 0);
+                organiza.setAgenciaViajeFueraChile(Integer.valueOf(data[177].toString()) == 1 ? 3 : 0);
+                organiza.setOficinaViajePresencialOnlineChilena(Integer.valueOf(data[178].toString()) == 1 ? 4 : 0);
+                organiza.setSitiosWebReserva(Integer.valueOf(data[179].toString()) == 1 ? 5 : 0);
+                organiza.setSitiosWebComparadorPrecios(Integer.valueOf(data[180].toString()) == 1 ? 6 : 0);
+                organiza.setOtro(Integer.valueOf(data[181].toString()) == 1 ? 7 : 0);
 
                 // Setear datos tr_razon_r
                 razonViaje = new RazonViaje();
-                razonViaje.setNaturalezaPaisajesFloraFauna(Integer.valueOf(data[158].toString()) == 1 ? 1 : 0);
-                razonViaje.setCulturaLocal(Integer.valueOf(data[159].toString()) == 1 ? 2 : 0);
-                razonViaje.setLosChilenos(Integer.valueOf(data[160].toString()) == 1 ? 3 : 0);
-                razonViaje.setConectividad(Integer.valueOf(data[161].toString()) == 1 ? 4 : 0);
-                razonViaje.setSensacionSeguridadPais(Integer.valueOf(data[162].toString()) == 1 ? 5 : 0);
-                razonViaje.setClima(Integer.valueOf(data[163].toString()) == 1 ? 6 : 0);
-                razonViaje.setVinosViñas(Integer.valueOf(data[164].toString()) == 1 ? 7 : 0);
-                razonViaje.setConocerChilePrimeraVez(Integer.valueOf(data[165].toString()) == 1 ? 8 : 0);
-                razonViaje.setConocerLugaresPendientes(Integer.valueOf(data[166].toString()) == 1 ? 9 : 0);
-                razonViaje.setDescansar(Integer.valueOf(data[167].toString()) == 1 ? 10 : 0);
-                razonViaje.setIncluidoEnRutaViaje(Integer.valueOf(data[168].toString()) == 11 ? 1 : 0);
-                razonViaje.setFamiliaAmigosResidentesChile(Integer.valueOf(data[169].toString()) == 1 ? 12 : 0);
-                razonViaje.setCompras(Integer.valueOf(data[170].toString()) == 1 ? 13 : 0);
-                razonViaje.setOtro(Integer.valueOf(data[171].toString()) == 1 ? 14 : 0);
+                razonViaje.setNaturalezaPaisajesFloraFauna(Integer.valueOf(data[156].toString()) == 1 ? 1 : 0);
+                razonViaje.setCulturaLocal(Integer.valueOf(data[157].toString()) == 1 ? 2 : 0);
+                razonViaje.setLosChilenos(Integer.valueOf(data[158].toString()) == 1 ? 3 : 0);
+                razonViaje.setConectividad(Integer.valueOf(data[159].toString()) == 1 ? 4 : 0);
+                razonViaje.setSensacionSeguridadPais(Integer.valueOf(data[160].toString()) == 1 ? 5 : 0);
+                razonViaje.setClima(Integer.valueOf(data[161].toString()) == 1 ? 6 : 0);
+                razonViaje.setVinosViñas(Integer.valueOf(data[162].toString()) == 1 ? 7 : 0);
+                razonViaje.setConocerChilePrimeraVez(Integer.valueOf(data[163].toString()) == 1 ? 8 : 0);
+                razonViaje.setConocerLugaresPendientes(Integer.valueOf(data[164].toString()) == 1 ? 9 : 0);
+                razonViaje.setDescansar(Integer.valueOf(data[165].toString()) == 1 ? 10 : 0);
+                razonViaje.setIncluidoEnRutaViaje(Integer.valueOf(data[166].toString()) == 11 ? 1 : 0);
+                razonViaje.setFamiliaAmigosResidentesChile(Integer.valueOf(data[167].toString()) == 1 ? 12 : 0);
+                razonViaje.setCompras(Integer.valueOf(data[168].toString()) == 1 ? 13 : 0);
+                razonViaje.setOtro(Integer.valueOf(data[169].toString()) == 1 ? 14 : 0);
 
 
                 // Setear datos tr_servpt_r
                 servicioPaqueteTuristico = new ServicioPaqueteTuristico();
-                servicioPaqueteTuristico.setPasajesInternacionales(Integer.valueOf(data[66].toString()) == 1 ? 1 : 0);
-                servicioPaqueteTuristico.setAlojamiento(Integer.valueOf(data[67].toString()) == 1 ? 2 : 0);
-                servicioPaqueteTuristico.setAlimentacionFueraHotel(Integer.valueOf(data[68].toString()) == 1 ? 3 : 0);
-                servicioPaqueteTuristico.setTrasladosAeropuertoDestino(Integer.valueOf(data[69].toString()) == 1 ? 4 : 0);
-                servicioPaqueteTuristico.setVuelosDomesticosExtranjero(Integer.valueOf(data[70].toString()) == 1 ? 5 : 0);
-                servicioPaqueteTuristico.setOtrosDestinosInternacionales(Integer.valueOf(data[71].toString()) == 1 ? 6 : 0);
-                servicioPaqueteTuristico.setTourExcursiones(Integer.valueOf(data[72].toString()) == 1 ? 7 : 0);
-                servicioPaqueteTuristico.setSeguroViajeSalud(Integer.valueOf(data[73].toString()) == 1 ? 8 : 0);
-                servicioPaqueteTuristico.setOtro(Integer.valueOf(data[74].toString()) == 1 ? 9 : 0);
+                servicioPaqueteTuristico.setPasajesInternacionales(Integer.valueOf(data[65].toString()) == 1 ? 1 : 0);
+                servicioPaqueteTuristico.setAlojamiento(Integer.valueOf(data[66].toString()) == 1 ? 2 : 0);
+                servicioPaqueteTuristico.setAlimentacionFueraHotel(Integer.valueOf(data[67].toString()) == 1 ? 3 : 0);
+                servicioPaqueteTuristico.setTrasladosAeropuertoDestino(Integer.valueOf(data[68].toString()) == 1 ? 4 : 0);
+                servicioPaqueteTuristico.setVuelosDomesticosExtranjero(Integer.valueOf(data[69].toString()) == 1 ? 5 : 0);
+                servicioPaqueteTuristico.setOtrosDestinosInternacionales(Integer.valueOf(data[70].toString()) == 1 ? 6 : 0);
+                servicioPaqueteTuristico.setTourExcursiones(Integer.valueOf(data[71].toString()) == 1 ? 7 : 0);
+                servicioPaqueteTuristico.setSeguroViajeSalud(Integer.valueOf(data[72].toString()) == 1 ? 8 : 0);
+                servicioPaqueteTuristico.setOtro(Integer.valueOf(data[73].toString()) == 1 ? 9 : 0);
 
                 // Setear datos data_tr_base
                 base = new BaseTr();
@@ -470,7 +470,8 @@ public class DataTrNegocio {
                 base.setNumero_vuelo_salida(Integer.valueOf(data[27].toString()));
                 base.setMonto_pasaje_salida_usd(Float.valueOf(data[28].toString().replace(",", ".")));
                 base.setMonto_idavuelta_usd(Float.valueOf(data[29].toString().replace(",", ".")));
-                base.setAgencia_online(data[76].toString());
+                base.setAgencia_viaje(data[74].toString());
+                base.setAgencia_online(data[75].toString());
                 base.setGasto_total_grupo_usd(Float.valueOf(data[35].toString().replace(",", ".")));
                 base.setDivisas(Float.valueOf(data[36].toString().replace(",", ".")));
                 base.setGpdi(gpdi);
